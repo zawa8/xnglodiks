@@ -1,0 +1,16 @@
+{
+  "default": "xh38",
+  "languages": [
+    { "code": "xh38", "name": "hinDi",   "native": "हिन्दी",     "font": "xh38asc" },
+    { "code": "xb38", "name": "bNgali",  "native": "বাংলা",      "font": "xb38asc" },
+    { "code": "xe38", "name": "iNgliS",  "native": "English",    "font": "xe38asc" },
+    { "code": "xg38", "name": "guzraji", "native": "ગુજરાતી",    "font": "xg38asc" },
+    { "code": "xj38", "name": "jelugu",  "native": "తెలుగు",     "font": "xj38asc" },
+    { "code": "xk38", "name": "knRa",    "native": "ಕನ್ನಡ",      "font": "xk38asc" },
+    { "code": "xm38", "name": "mlyalxm", "native": "മലയാളം",     "font": "xm38asc" },
+    { "code": "xo38", "name": "oriya",   "native": "ଓଡ଼ିଆ",      "font": "xo38asc" },
+    { "code": "xp38", "name": "pnzabi",  "native": "ਪੰਜਾਬੀ",     "font": "xp38asc" },
+    { "code": "xs38", "name": "sinvla",  "native": "සිංහල",      "font": "xs38asc" },
+    { "code": "xt38", "name": "tmil",    "native": "தமிழ்",      "font": "xt38asc" }
+  ]
+}
