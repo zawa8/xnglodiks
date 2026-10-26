@@ -27,6 +27,14 @@ jahaj,zahaaz,zvaz
 ## app
 - `app/search.js`: regex word search over a chosen column (default xh38), options: whole word, case sensitive (default on, xh38 letters are case sensitive)
 
+## auth + quiz (supabase)
+- login: email otp or mobile otp via supabase auth (`app/login/page.js`). client in `lib/supabase.js` (returns null when env missing)
+- header menu: `components/Header.jsx` (home, kuiz, sain in / sain aut)
+- quiz: `app/quiz/page.js`, 64 mcq, 4 options, one attempt per user. questions made server side in `lib/quiz.js` (32 xh38->e26, 32 e26->xh38, only ascii xh38 rows)
+- api: `app/api/quiz/route.js` (GET status/resume, POST start), `app/api/quiz/submit/route.js` (scores server side). server helper `lib/server.js` uses the service role key, never import it in client code
+- db: `supabase/schema.sql` (table `quiz_attempts`, user_id is primary key = one attempt, rls: users only read their own row, writes only via api)
+- env vars: see `.env.example` (3 vars, also set them in vercel)
+
 ## files
 - `data/xnglodiks.csv` and `data/xnglodiks.json`: the dictionary, must stay identical in content. csv is the header `e26,e23,xh38`, json is an array of `{e26, e23, xh38}`
 - `public/xnglodiks.json`: copy of the json for the xndroid app to fetch. update it whenever `data/xnglodiks.json` changes
