@@ -20,6 +20,13 @@ car,kaar,kaar
 jahaj,zahaaz,zvaz
 ```
 
+## data source
+- 3005 rows come from the first 3 columns (`e52,e23,x38`) of `data/3k_local_copy.tsv` in github.com/zawa8/xnglo; renamed to `e26,e23,xh38`
+- some xh38 values still contain stray devanagari characters (clean them in the source tsv, then regenerate)
+
+## app
+- `app/search.js`: regex word search over a chosen column (default xh38), options: whole word, case sensitive (default on, xh38 letters are case sensitive)
+
 ## files
 - `data/xnglodiks.csv` and `data/xnglodiks.json`: the dictionary, must stay identical in content. csv is the header `e26,e23,xh38`, json is an array of `{e26, e23, xh38}`
 - `public/xnglodiks.json`: copy of the json for the xndroid app to fetch. update it whenever `data/xnglodiks.json` changes

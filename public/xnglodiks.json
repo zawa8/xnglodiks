@@ -1,5 +1,15027 @@
 [
-  { "e26": "cat", "e23": "kat", "xh38": "kxt" },
-  { "e26": "car", "e23": "kaar", "xh38": "kaar" },
-  { "e26": "jahaj", "e23": "zahaaz", "xh38": "zvaz" }
+{
+"e26": "a",
+"e23": "a",
+"xh38": "a"
+},
+{
+"e26": "abandon",
+"e23": "abandon",
+"xh38": "abnqo"
+},
+{
+"e26": "ability",
+"e23": "ability",
+"xh38": "ebiliti"
+},
+{
+"e26": "able",
+"e23": "able",
+"xh38": "xble"
+},
+{
+"e26": "abortion",
+"e23": "abortion",
+"xh38": "ebarSn"
+},
+{
+"e26": "about",
+"e23": "about",
+"xh38": "xbaut"
+},
+{
+"e26": "above",
+"e23": "abowe",
+"xh38": "xbowe"
+},
+{
+"e26": "abroad",
+"e23": "abroad",
+"xh38": "xbrad"
+},
+{
+"e26": "absence",
+"e23": "absence",
+"xh38": "ebsens"
+},
+{
+"e26": "absolute",
+"e23": "absolute",
+"xh38": "xbsolute"
+},
+{
+"e26": "absolutely",
+"e23": "absolutely",
+"xh38": "xbsolujely"
+},
+{
+"e26": "absorb",
+"e23": "absorb",
+"xh38": "xbsarb"
+},
+{
+"e26": "abuse",
+"e23": "abuse",
+"xh38": "ebyuz"
+},
+{
+"e26": "academic",
+"e23": "academic",
+"xh38": "xkaqmik"
+},
+{
+"e26": "accept",
+"e23": "accept",
+"xh38": "eksept"
+},
+{
+"e26": "access",
+"e23": "access",
+"xh38": "ekses"
+},
+{
+"e26": "accident",
+"e23": "accident",
+"xh38": "eksident"
+},
+{
+"e26": "accompany",
+"e23": "accompany",
+"xh38": "xikpeni"
+},
+{
+"e26": "accomplish",
+"e23": "accomplish",
+"xh38": "xikpliS"
+},
+{
+"e26": "according",
+"e23": "according",
+"xh38": "xkardiNg"
+},
+{
+"e26": "account",
+"e23": "account",
+"xh38": "xkaunt"
+},
+{
+"e26": "accurate",
+"e23": "accurate",
+"xh38": "ekyuret"
+},
+{
+"e26": "accuse",
+"e23": "accuse",
+"xh38": "xikse"
+},
+{
+"e26": "achieve",
+"e23": "achiewe",
+"xh38": "xciw"
+},
+{
+"e26": "achievement",
+"e23": "achiewement",
+"xh38": "xciwment"
+},
+{
+"e26": "acid",
+"e23": "acid",
+"xh38": "esid"
+},
+{
+"e26": "acknowledge",
+"e23": "acknowledge",
+"xh38": "eknalez"
+},
+{
+"e26": "acquire",
+"e23": "ackuire",
+"xh38": "ekwayr"
+},
+{
+"e26": "across",
+"e23": "across",
+"xh38": "xkras"
+},
+{
+"e26": "act",
+"e23": "act",
+"xh38": "ekt"
+},
+{
+"e26": "action",
+"e23": "action",
+"xh38": "ekSn"
+},
+{
+"e26": "active",
+"e23": "actiwe",
+"xh38": "ektiw"
+},
+{
+"e26": "activist",
+"e23": "actiwist",
+"xh38": "ektiwist"
+},
+{
+"e26": "activity",
+"e23": "actiwity",
+"xh38": "ektiwiti"
+},
+{
+"e26": "actor",
+"e23": "actor",
+"xh38": "ektr"
+},
+{
+"e26": "actress",
+"e23": "actress",
+"xh38": "ektres"
+},
+{
+"e26": "actual",
+"e23": "actual",
+"xh38": "ekcuxl"
+},
+{
+"e26": "actually",
+"e23": "actually",
+"xh38": "ekcuxli"
+},
+{
+"e26": "ad",
+"e23": "ad",
+"xh38": "xड़"
+},
+{
+"e26": "adapt",
+"e23": "adapt",
+"xh38": "edapt"
+},
+{
+"e26": "add",
+"e23": "add",
+"xh38": "ed"
+},
+{
+"e26": "addition",
+"e23": "addition",
+"xh38": "xqqijio"
+},
+{
+"e26": "additional",
+"e23": "additional",
+"xh38": "ediSnl"
+},
+{
+"e26": "address",
+"e23": "address",
+"xh38": "edres"
+},
+{
+"e26": "adequate",
+"e23": "adekuate",
+"xh38": "aqkje"
+},
+{
+"e26": "adjust",
+"e23": "adzust",
+"xh38": "edzst"
+},
+{
+"e26": "adjustment",
+"e23": "adzustment",
+"xh38": "edzstment"
+},
+{
+"e26": "administration",
+"e23": "administration",
+"xh38": "edministreSn"
+},
+{
+"e26": "administrator",
+"e23": "administrator",
+"xh38": "edministretr"
+},
+{
+"e26": "admire",
+"e23": "admire",
+"xh38": "xqmire"
+},
+{
+"e26": "admission",
+"e23": "admission",
+"xh38": "edmiSn"
+},
+{
+"e26": "admit",
+"e23": "admit",
+"xh38": "edmit"
+},
+{
+"e26": "adolescent",
+"e23": "adolescent",
+"xh38": "edolsent"
+},
+{
+"e26": "adopt",
+"e23": "adopt",
+"xh38": "xdapt"
+},
+{
+"e26": "adult",
+"e23": "adult",
+"xh38": "edlt"
+},
+{
+"e26": "advance",
+"e23": "adwance",
+"xh38": "edwans"
+},
+{
+"e26": "advanced",
+"e23": "adwanced",
+"xh38": "edwansd"
+},
+{
+"e26": "advantage",
+"e23": "adwantage",
+"xh38": "edwantez"
+},
+{
+"e26": "adventure",
+"e23": "adwenture",
+"xh38": "edwencr"
+},
+{
+"e26": "advertising",
+"e23": "adwertising",
+"xh38": "edwrtaiziNg"
+},
+{
+"e26": "advice",
+"e23": "adwice",
+"xh38": "edwais"
+},
+{
+"e26": "advise",
+"e23": "adwise",
+"xh38": "xdwise"
+},
+{
+"e26": "adviser",
+"e23": "adwiser",
+"xh38": "xqwiser"
+},
+{
+"e26": "advocate",
+"e23": "adwocate",
+"xh38": "xQiwkja"
+},
+{
+"e26": "affair",
+"e23": "affair",
+"xh38": "xfeyr"
+},
+{
+"e26": "affect",
+"e23": "affect",
+"xh38": "efekt"
+},
+{
+"e26": "afford",
+"e23": "afford",
+"xh38": "xफ़ford"
+},
+{
+"e26": "afraid",
+"e23": "afraid",
+"xh38": "xfred"
+},
+{
+"e26": "african",
+"e23": "african",
+"xh38": "xfrikn"
+},
+{
+"e26": "african-american",
+"e23": "african-american",
+"xh38": "xfrikn-xmerikn"
+},
+{
+"e26": "after",
+"e23": "after",
+"xh38": "xaftr"
+},
+{
+"e26": "afternoon",
+"e23": "afternoon",
+"xh38": "xaftrnun"
+},
+{
+"e26": "again",
+"e23": "again",
+"xh38": "xgen"
+},
+{
+"e26": "against",
+"e23": "against",
+"xh38": "xgenst"
+},
+{
+"e26": "age",
+"e23": "age",
+"xh38": "xage"
+},
+{
+"e26": "agency",
+"e23": "agency",
+"xh38": "ezensi"
+},
+{
+"e26": "agenda",
+"e23": "agenda",
+"xh38": "ezenda"
+},
+{
+"e26": "agent",
+"e23": "agent",
+"xh38": "ezent"
+},
+{
+"e26": "aggressive",
+"e23": "aggressiwe",
+"xh38": "egresiw"
+},
+{
+"e26": "ago",
+"e23": "ago",
+"xh38": "ego"
+},
+{
+"e26": "agree",
+"e23": "agree",
+"xh38": "egri"
+},
+{
+"e26": "agreement",
+"e23": "agreement",
+"xh38": "egriment"
+},
+{
+"e26": "agricultural",
+"e23": "agricultural",
+"xh38": "egriklcrl"
+},
+{
+"e26": "ah",
+"e23": "ah",
+"xh38": "yv"
+},
+{
+"e26": "ahead",
+"e23": "ahead",
+"xh38": "xved"
+},
+{
+"e26": "aid",
+"e23": "aid",
+"xh38": "xiQ"
+},
+{
+"e26": "aide",
+"e23": "aide",
+"xh38": "xaide"
+},
+{
+"e26": "aids",
+"e23": "aids",
+"xh38": "eds"
+},
+{
+"e26": "aim",
+"e23": "aim",
+"xh38": "exaiem"
+},
+{
+"e26": "air",
+"e23": "air",
+"xh38": "eyr"
+},
+{
+"e26": "aircraft",
+"e23": "aircraft",
+"xh38": "eyrkraft"
+},
+{
+"e26": "airline",
+"e23": "airline",
+"xh38": "eyrlain"
+},
+{
+"e26": "airport",
+"e23": "airport",
+"xh38": "eyrport"
+},
+{
+"e26": "album",
+"e23": "album",
+"xh38": "elbm"
+},
+{
+"e26": "alcohol",
+"e23": "alcohol",
+"xh38": "xlkovl"
+},
+{
+"e26": "alive",
+"e23": "aliwe",
+"xh38": "xlaiw"
+},
+{
+"e26": "all",
+"e23": "all",
+"xh38": "xal"
+},
+{
+"e26": "alliance",
+"e23": "alliance",
+"xh38": "xlayns"
+},
+{
+"e26": "allow",
+"e23": "allow",
+"xh38": "xllow"
+},
+{
+"e26": "ally",
+"e23": "ally",
+"xh38": "xlly"
+},
+{
+"e26": "almost",
+"e23": "almost",
+"xh38": "aolmost"
+},
+{
+"e26": "alone",
+"e23": "alone",
+"xh38": "xlon"
+},
+{
+"e26": "along",
+"e23": "along",
+"xh38": "xloNg"
+},
+{
+"e26": "already",
+"e23": "already",
+"xh38": "xalredi"
+},
+{
+"e26": "also",
+"e23": "also",
+"xh38": "xalso"
+},
+{
+"e26": "alter",
+"e23": "alter",
+"xh38": "xaltr"
+},
+{
+"e26": "alternative",
+"e23": "alternatiwe",
+"xh38": "xltrnetiw"
+},
+{
+"e26": "although",
+"e23": "although",
+"xh38": "xlJouG"
+},
+{
+"e26": "always",
+"e23": "always",
+"xh38": "aolwez"
+},
+{
+"e26": "am",
+"e23": "am",
+"xh38": "ऍm"
+},
+{
+"e26": "amazing",
+"e23": "amazing",
+"xh38": "xmeziNg"
+},
+{
+"e26": "american",
+"e23": "american",
+"xh38": "xmerikn"
+},
+{
+"e26": "among",
+"e23": "among",
+"xh38": "xmNg"
+},
+{
+"e26": "amount",
+"e23": "amount",
+"xh38": "xmaunt"
+},
+{
+"e26": "analysis",
+"e23": "analysis",
+"xh38": "enalisis"
+},
+{
+"e26": "analyst",
+"e23": "analyst",
+"xh38": "enalist"
+},
+{
+"e26": "analyze",
+"e23": "analyze",
+"xh38": "enalaiz"
+},
+{
+"e26": "ancient",
+"e23": "ancient",
+"xh38": "xnsient"
+},
+{
+"e26": "and",
+"e23": "and",
+"xh38": "end"
+},
+{
+"e26": "anger",
+"e23": "anger",
+"xh38": "eNgr"
+},
+{
+"e26": "angle",
+"e23": "angle",
+"xh38": "eNgl"
+},
+{
+"e26": "angry",
+"e23": "angry",
+"xh38": "eNgri"
+},
+{
+"e26": "animal",
+"e23": "animal",
+"xh38": "eniml"
+},
+{
+"e26": "anniversary",
+"e23": "anniwersary",
+"xh38": "eniwrsri"
+},
+{
+"e26": "announce",
+"e23": "announce",
+"xh38": "xnnouns"
+},
+{
+"e26": "annual",
+"e23": "annual",
+"xh38": "enuxl"
+},
+{
+"e26": "another",
+"e23": "another",
+"xh38": "anoJer"
+},
+{
+"e26": "answer",
+"e23": "answer",
+"xh38": "xansr"
+},
+{
+"e26": "anticipate",
+"e23": "anticipate",
+"xh38": "anjikipje"
+},
+{
+"e26": "anxiety",
+"e23": "anxiety",
+"xh38": "eNgzayti"
+},
+{
+"e26": "any",
+"e23": "any",
+"xh38": "xny"
+},
+{
+"e26": "anybody",
+"e23": "anybody",
+"xh38": "xnyboqy"
+},
+{
+"e26": "anymore",
+"e23": "anymore",
+"xh38": "enimor"
+},
+{
+"e26": "anyone",
+"e23": "anyone",
+"xh38": "eniwn"
+},
+{
+"e26": "anything",
+"e23": "anything",
+"xh38": "eniJiNg"
+},
+{
+"e26": "anyway",
+"e23": "anyway",
+"xh38": "eniwe"
+},
+{
+"e26": "anywhere",
+"e23": "anywhere",
+"xh38": "eniweyr"
+},
+{
+"e26": "apart",
+"e23": "apart",
+"xh38": "xpart"
+},
+{
+"e26": "apartment",
+"e23": "apartment",
+"xh38": "xpartment"
+},
+{
+"e26": "apparent",
+"e23": "apparent",
+"xh38": "xapprent"
+},
+{
+"e26": "apparently",
+"e23": "apparently",
+"xh38": "xapprentli"
+},
+{
+"e26": "appeal",
+"e23": "appeal",
+"xh38": "xpil"
+},
+{
+"e26": "appear",
+"e23": "appear",
+"xh38": "xppexr"
+},
+{
+"e26": "appearance",
+"e23": "appearance",
+"xh38": "xpiyrens"
+},
+{
+"e26": "apple",
+"e23": "apple",
+"xh38": "eppl"
+},
+{
+"e26": "application",
+"e23": "application",
+"xh38": "eplikeSn"
+},
+{
+"e26": "apply",
+"e23": "apply",
+"xh38": "xplai"
+},
+{
+"e26": "appoint",
+"e23": "appoint",
+"xh38": "xppoint"
+},
+{
+"e26": "appointment",
+"e23": "appointment",
+"xh38": "xpaintment"
+},
+{
+"e26": "appreciate",
+"e23": "appreciate",
+"xh38": "xppresiyje"
+},
+{
+"e26": "approach",
+"e23": "approach",
+"xh38": "eproc"
+},
+{
+"e26": "appropriate",
+"e23": "appropriate",
+"xh38": "epropriyet"
+},
+{
+"e26": "approval",
+"e23": "approwal",
+"xh38": "xpruwl"
+},
+{
+"e26": "approve",
+"e23": "approwe",
+"xh38": "xpprowe"
+},
+{
+"e26": "approximately",
+"e23": "approximately",
+"xh38": "xpproksimateli"
+},
+{
+"e26": "arab",
+"e23": "arab",
+"xh38": "xrb"
+},
+{
+"e26": "architect",
+"e23": "architect",
+"xh38": "xarkitekt"
+},
+{
+"e26": "area",
+"e23": "area",
+"xh38": "eriya"
+},
+{
+"e26": "argue",
+"e23": "argue",
+"xh38": "xage"
+},
+{
+"e26": "argument",
+"e23": "argument",
+"xh38": "xargument"
+},
+{
+"e26": "arise",
+"e23": "arise",
+"xh38": "xrse"
+},
+{
+"e26": "arm",
+"e23": "arm",
+"xh38": "exaryem"
+},
+{
+"e26": "armed",
+"e23": "armed",
+"xh38": "xarmd"
+},
+{
+"e26": "army",
+"e23": "army",
+"xh38": "xarmi"
+},
+{
+"e26": "around",
+"e23": "around",
+"xh38": "xraund"
+},
+{
+"e26": "arrange",
+"e23": "arrange",
+"xh38": "xrrNge"
+},
+{
+"e26": "arrangement",
+"e23": "arrangement",
+"xh38": "xrenzment"
+},
+{
+"e26": "arrest",
+"e23": "arrest",
+"xh38": "xrest"
+},
+{
+"e26": "arrival",
+"e23": "arriwal",
+"xh38": "xrriwal"
+},
+{
+"e26": "arrive",
+"e23": "arriwe",
+"xh38": "xrriwe"
+},
+{
+"e26": "art",
+"e23": "art",
+"xh38": "xart"
+},
+{
+"e26": "article",
+"e23": "article",
+"xh38": "xartikl"
+},
+{
+"e26": "artist",
+"e23": "artist",
+"xh38": "xartist"
+},
+{
+"e26": "artistic",
+"e23": "artistic",
+"xh38": "xartistik"
+},
+{
+"e26": "as",
+"e23": "as",
+"xh38": "xs"
+},
+{
+"e26": "asian",
+"e23": "asian",
+"xh38": "eSiyai"
+},
+{
+"e26": "aside",
+"e23": "aside",
+"xh38": "xasiqe"
+},
+{
+"e26": "ask",
+"e23": "ask",
+"xh38": "xask"
+},
+{
+"e26": "asleep",
+"e23": "asleep",
+"xh38": "xslip"
+},
+{
+"e26": "aspect",
+"e23": "aspect",
+"xh38": "xaspekt"
+},
+{
+"e26": "assault",
+"e23": "assault",
+"xh38": "xsalt"
+},
+{
+"e26": "assert",
+"e23": "assert",
+"xh38": "xssert"
+},
+{
+"e26": "assess",
+"e23": "assess",
+"xh38": "xssess"
+},
+{
+"e26": "assessment",
+"e23": "assessment",
+"xh38": "xsesment"
+},
+{
+"e26": "asset",
+"e23": "asset",
+"xh38": "eset"
+},
+{
+"e26": "assign",
+"e23": "assign",
+"xh38": "xsain"
+},
+{
+"e26": "assignment",
+"e23": "assignment",
+"xh38": "xsainment"
+},
+{
+"e26": "assist",
+"e23": "assist",
+"xh38": "xsist"
+},
+{
+"e26": "assistance",
+"e23": "assistance",
+"xh38": "xsistens"
+},
+{
+"e26": "assistant",
+"e23": "assistant",
+"xh38": "xsistent"
+},
+{
+"e26": "associate",
+"e23": "associate",
+"xh38": "esosiet"
+},
+{
+"e26": "association",
+"e23": "association",
+"xh38": "esosieSn"
+},
+{
+"e26": "assume",
+"e23": "assume",
+"xh38": "asume"
+},
+{
+"e26": "assumption",
+"e23": "assumption",
+"xh38": "xasumptio"
+},
+{
+"e26": "assure",
+"e23": "assure",
+"xh38": "xsure"
+},
+{
+"e26": "at",
+"e23": "at",
+"xh38": "aj"
+},
+{
+"e26": "athlete",
+"e23": "athlete",
+"xh38": "eJlit"
+},
+{
+"e26": "athletic",
+"e23": "athletic",
+"xh38": "eJletik"
+},
+{
+"e26": "atmosphere",
+"e23": "atmosphere",
+"xh38": "xtmasfere"
+},
+{
+"e26": "attach",
+"e23": "attach",
+"xh38": "xajjac"
+},
+{
+"e26": "attack",
+"e23": "attack",
+"xh38": "xtxik"
+},
+{
+"e26": "attempt",
+"e23": "attempt",
+"xh38": "etempt"
+},
+{
+"e26": "attend",
+"e23": "attend",
+"xh38": "xtend"
+},
+{
+"e26": "attention",
+"e23": "attention",
+"xh38": "xtenSn"
+},
+{
+"e26": "attitude",
+"e23": "attitude",
+"xh38": "etitud"
+},
+{
+"e26": "attorney",
+"e23": "attorney",
+"xh38": "xtarni"
+},
+{
+"e26": "attract",
+"e23": "attract",
+"xh38": "xjjrkt"
+},
+{
+"e26": "attractive",
+"e23": "attractiwe",
+"xh38": "xtrxiktiw"
+},
+{
+"e26": "attribute",
+"e23": "attribute",
+"xh38": "etribyut"
+},
+{
+"e26": "audience",
+"e23": "audience",
+"xh38": "aodiyns"
+},
+{
+"e26": "author",
+"e23": "author",
+"xh38": "aoJr"
+},
+{
+"e26": "authority",
+"e23": "authority",
+"xh38": "xJariti"
+},
+{
+"e26": "auto",
+"e23": "auto",
+"xh38": "aoto"
+},
+{
+"e26": "available",
+"e23": "awailable",
+"xh38": "xwelebl"
+},
+{
+"e26": "average",
+"e23": "awerage",
+"xh38": "ewrez"
+},
+{
+"e26": "avoid",
+"e23": "awoid",
+"xh38": "xwayd"
+},
+{
+"e26": "award",
+"e23": "award",
+"xh38": "xward"
+},
+{
+"e26": "aware",
+"e23": "aware",
+"xh38": "xweyr"
+},
+{
+"e26": "awareness",
+"e23": "awareness",
+"xh38": "xweyrnes"
+},
+{
+"e26": "away",
+"e23": "away",
+"xh38": "xwe"
+},
+{
+"e26": "awful",
+"e23": "awful",
+"xh38": "awful"
+},
+{
+"e26": "baby",
+"e23": "baby",
+"xh38": "bebi"
+},
+{
+"e26": "back",
+"e23": "back",
+"xh38": "bxik"
+},
+{
+"e26": "background",
+"e23": "background",
+"xh38": "bxikgraund"
+},
+{
+"e26": "bad",
+"e23": "bad",
+"xh38": "baq"
+},
+{
+"e26": "badly",
+"e23": "badly",
+"xh38": "bqli"
+},
+{
+"e26": "bag",
+"e23": "bag",
+"xh38": "bxig"
+},
+{
+"e26": "bake",
+"e23": "bake",
+"xh38": "bake"
+},
+{
+"e26": "balance",
+"e23": "balance",
+"xh38": "bxilens"
+},
+{
+"e26": "ball",
+"e23": "ball",
+"xh38": "bal"
+},
+{
+"e26": "ban",
+"e23": "ban",
+"xh38": "bn"
+},
+{
+"e26": "band",
+"e23": "band",
+"xh38": "bnq"
+},
+{
+"e26": "bank",
+"e23": "bank",
+"xh38": "bxiNk"
+},
+{
+"e26": "bar",
+"e23": "bar",
+"xh38": "bar"
+},
+{
+"e26": "barely",
+"e23": "barely",
+"xh38": "breli"
+},
+{
+"e26": "barrel",
+"e23": "barrel",
+"xh38": "bxirl"
+},
+{
+"e26": "barrier",
+"e23": "barrier",
+"xh38": "bxiriyr"
+},
+{
+"e26": "base",
+"e23": "base",
+"xh38": "bes"
+},
+{
+"e26": "baseball",
+"e23": "baseball",
+"xh38": "besbal"
+},
+{
+"e26": "basic",
+"e23": "basic",
+"xh38": "besik"
+},
+{
+"e26": "basically",
+"e23": "basically",
+"xh38": "bsikli"
+},
+{
+"e26": "basis",
+"e23": "basis",
+"xh38": "besis"
+},
+{
+"e26": "basket",
+"e23": "basket",
+"xh38": "basket"
+},
+{
+"e26": "basketball",
+"e23": "basketball",
+"xh38": "basketbal"
+},
+{
+"e26": "bathroom",
+"e23": "bathroom",
+"xh38": "baJrum"
+},
+{
+"e26": "battery",
+"e23": "battery",
+"xh38": "bxitri"
+},
+{
+"e26": "battle",
+"e23": "battle",
+"xh38": "bxitl"
+},
+{
+"e26": "be",
+"e23": "be",
+"xh38": "be"
+},
+{
+"e26": "beach",
+"e23": "beach",
+"xh38": "bic"
+},
+{
+"e26": "bean",
+"e23": "bean",
+"xh38": "bin"
+},
+{
+"e26": "bear",
+"e23": "bear",
+"xh38": "beyr"
+},
+{
+"e26": "beat",
+"e23": "beat",
+"xh38": "bit"
+},
+{
+"e26": "beautiful",
+"e23": "beautiful",
+"xh38": "byutiful"
+},
+{
+"e26": "beauty",
+"e23": "beauty",
+"xh38": "byuti"
+},
+{
+"e26": "because",
+"e23": "because",
+"xh38": "bikaज़"
+},
+{
+"e26": "become",
+"e23": "become",
+"xh38": "bikm"
+},
+{
+"e26": "bed",
+"e23": "bed",
+"xh38": "bied"
+},
+{
+"e26": "bedroom",
+"e23": "bedroom",
+"xh38": "bxidrum"
+},
+{
+"e26": "beer",
+"e23": "beer",
+"xh38": "biyr"
+},
+{
+"e26": "before",
+"e23": "before",
+"xh38": "bifor"
+},
+{
+"e26": "begin",
+"e23": "begin",
+"xh38": "bigin"
+},
+{
+"e26": "beginning",
+"e23": "beginning",
+"xh38": "bigniNg"
+},
+{
+"e26": "behavior",
+"e23": "behawior",
+"xh38": "bivewiyr"
+},
+{
+"e26": "behind",
+"e23": "behind",
+"xh38": "bivaind"
+},
+{
+"e26": "being",
+"e23": "being",
+"xh38": "biiNg"
+},
+{
+"e26": "belief",
+"e23": "belief",
+"xh38": "bilif"
+},
+{
+"e26": "believe",
+"e23": "beliewe",
+"xh38": "biliw"
+},
+{
+"e26": "bell",
+"e23": "bell",
+"xh38": "bell"
+},
+{
+"e26": "belong",
+"e23": "belong",
+"xh38": "biloNg"
+},
+{
+"e26": "below",
+"e23": "below",
+"xh38": "bilo"
+},
+{
+"e26": "belt",
+"e23": "belt",
+"xh38": "belt"
+},
+{
+"e26": "bench",
+"e23": "bench",
+"xh38": "benc"
+},
+{
+"e26": "bend",
+"e23": "bend",
+"xh38": "bend"
+},
+{
+"e26": "beneath",
+"e23": "beneath",
+"xh38": "biniJ"
+},
+{
+"e26": "benefit",
+"e23": "benefit",
+"xh38": "benifit"
+},
+{
+"e26": "beside",
+"e23": "beside",
+"xh38": "beside"
+},
+{
+"e26": "besides",
+"e23": "besides",
+"xh38": "besides"
+},
+{
+"e26": "best",
+"e23": "best",
+"xh38": "best"
+},
+{
+"e26": "bet",
+"e23": "bet",
+"xh38": "bet"
+},
+{
+"e26": "better",
+"e23": "better",
+"xh38": "betr"
+},
+{
+"e26": "between",
+"e23": "between",
+"xh38": "bitwin"
+},
+{
+"e26": "beyond",
+"e23": "beyond",
+"xh38": "biyand"
+},
+{
+"e26": "bible",
+"e23": "bible",
+"xh38": "baibil"
+},
+{
+"e26": "big",
+"e23": "big",
+"xh38": "big"
+},
+{
+"e26": "bike",
+"e23": "bike",
+"xh38": "baik"
+},
+{
+"e26": "bill",
+"e23": "bill",
+"xh38": "bil"
+},
+{
+"e26": "billion",
+"e23": "billion",
+"xh38": "biliyn"
+},
+{
+"e26": "bind",
+"e23": "bind",
+"xh38": "banQ"
+},
+{
+"e26": "biological",
+"e23": "biological",
+"xh38": "bayolazikl"
+},
+{
+"e26": "bird",
+"e23": "bird",
+"xh38": "brd"
+},
+{
+"e26": "birth",
+"e23": "birth",
+"xh38": "birJ"
+},
+{
+"e26": "birthday",
+"e23": "birthday",
+"xh38": "brJde"
+},
+{
+"e26": "bit",
+"e23": "bit",
+"xh38": "bit"
+},
+{
+"e26": "bite",
+"e23": "bite",
+"xh38": "bait"
+},
+{
+"e26": "black",
+"e23": "black",
+"xh38": "blxik"
+},
+{
+"e26": "blade",
+"e23": "blade",
+"xh38": "bled"
+},
+{
+"e26": "blame",
+"e23": "blame",
+"xh38": "blame"
+},
+{
+"e26": "blanket",
+"e23": "blanket",
+"xh38": "blxiNket"
+},
+{
+"e26": "blind",
+"e23": "blind",
+"xh38": "blaind"
+},
+{
+"e26": "block",
+"e23": "block",
+"xh38": "blak"
+},
+{
+"e26": "blood",
+"e23": "blood",
+"xh38": "bld"
+},
+{
+"e26": "blow",
+"e23": "blow",
+"xh38": "blo"
+},
+{
+"e26": "blue",
+"e23": "blue",
+"xh38": "blu"
+},
+{
+"e26": "board",
+"e23": "board",
+"xh38": "bord"
+},
+{
+"e26": "boat",
+"e23": "boat",
+"xh38": "bot"
+},
+{
+"e26": "body",
+"e23": "body",
+"xh38": "badi"
+},
+{
+"e26": "bomb",
+"e23": "bomb",
+"xh38": "bm"
+},
+{
+"e26": "bombing",
+"e23": "bombing",
+"xh38": "bambiNg"
+},
+{
+"e26": "bond",
+"e23": "bond",
+"xh38": "band"
+},
+{
+"e26": "bone",
+"e23": "bone",
+"xh38": "bon"
+},
+{
+"e26": "book",
+"e23": "book",
+"xh38": "buk"
+},
+{
+"e26": "boom",
+"e23": "boom",
+"xh38": "bum"
+},
+{
+"e26": "boot",
+"e23": "boot",
+"xh38": "but"
+},
+{
+"e26": "border",
+"e23": "border",
+"xh38": "bardr"
+},
+{
+"e26": "born",
+"e23": "born",
+"xh38": "born"
+},
+{
+"e26": "borrow",
+"e23": "borrow",
+"xh38": "borrow"
+},
+{
+"e26": "boss",
+"e23": "boss",
+"xh38": "bas"
+},
+{
+"e26": "both",
+"e23": "both",
+"xh38": "boJ"
+},
+{
+"e26": "bother",
+"e23": "bother",
+"xh38": "boJer"
+},
+{
+"e26": "bottle",
+"e23": "bottle",
+"xh38": "bojl"
+},
+{
+"e26": "bottom",
+"e23": "bottom",
+"xh38": "batm"
+},
+{
+"e26": "boundary",
+"e23": "boundary",
+"xh38": "baundri"
+},
+{
+"e26": "bowl",
+"e23": "bowl",
+"xh38": "baul"
+},
+{
+"e26": "box",
+"e23": "box",
+"xh38": "baks"
+},
+{
+"e26": "boy",
+"e23": "boy",
+"xh38": "bay"
+},
+{
+"e26": "boyfriend",
+"e23": "boyfriend",
+"xh38": "bayfrend"
+},
+{
+"e26": "brain",
+"e23": "brain",
+"xh38": "bren"
+},
+{
+"e26": "branch",
+"e23": "branch",
+"xh38": "branc"
+},
+{
+"e26": "brand",
+"e23": "brand",
+"xh38": "brand"
+},
+{
+"e26": "bread",
+"e23": "bread",
+"xh38": "bred"
+},
+{
+"e26": "break",
+"e23": "break",
+"xh38": "brek"
+},
+{
+"e26": "breakfast",
+"e23": "breakfast",
+"xh38": "brekfast"
+},
+{
+"e26": "breast",
+"e23": "breast",
+"xh38": "brxist"
+},
+{
+"e26": "breath",
+"e23": "breath",
+"xh38": "breJ"
+},
+{
+"e26": "breathe",
+"e23": "breathe",
+"xh38": "brexJe"
+},
+{
+"e26": "brick",
+"e23": "brick",
+"xh38": "brik"
+},
+{
+"e26": "bridge",
+"e23": "bridge",
+"xh38": "briz"
+},
+{
+"e26": "brief",
+"e23": "brief",
+"xh38": "brif"
+},
+{
+"e26": "briefly",
+"e23": "briefly",
+"xh38": "briefli"
+},
+{
+"e26": "bright",
+"e23": "bright",
+"xh38": "brait"
+},
+{
+"e26": "brilliant",
+"e23": "brilliant",
+"xh38": "briliynt"
+},
+{
+"e26": "bring",
+"e23": "bring",
+"xh38": "briNg"
+},
+{
+"e26": "british",
+"e23": "british",
+"xh38": "britiS"
+},
+{
+"e26": "broad",
+"e23": "broad",
+"xh38": "brad"
+},
+{
+"e26": "broken",
+"e23": "broken",
+"xh38": "brokn"
+},
+{
+"e26": "brother",
+"e23": "brother",
+"xh38": "broJer"
+},
+{
+"e26": "brown",
+"e23": "brown",
+"xh38": "braun"
+},
+{
+"e26": "brush",
+"e23": "brush",
+"xh38": "brS"
+},
+{
+"e26": "buck",
+"e23": "buck",
+"xh38": "bukk"
+},
+{
+"e26": "budget",
+"e23": "budget",
+"xh38": "bzt"
+},
+{
+"e26": "build",
+"e23": "build",
+"xh38": "bild"
+},
+{
+"e26": "building",
+"e23": "building",
+"xh38": "bildiNg"
+},
+{
+"e26": "bullet",
+"e23": "bullet",
+"xh38": "bulet"
+},
+{
+"e26": "bunch",
+"e23": "bunch",
+"xh38": "bnc"
+},
+{
+"e26": "burden",
+"e23": "burden",
+"xh38": "brdn"
+},
+{
+"e26": "burn",
+"e23": "burn",
+"xh38": "burn"
+},
+{
+"e26": "bury",
+"e23": "bury",
+"xh38": "bri"
+},
+{
+"e26": "bus",
+"e23": "bus",
+"xh38": "bs"
+},
+{
+"e26": "business",
+"e23": "business",
+"xh38": "biज़nes"
+},
+{
+"e26": "busy",
+"e23": "busy",
+"xh38": "bizi"
+},
+{
+"e26": "but",
+"e23": "but",
+"xh38": "buj"
+},
+{
+"e26": "butter",
+"e23": "butter",
+"xh38": "btr"
+},
+{
+"e26": "button",
+"e23": "button",
+"xh38": "btn"
+},
+{
+"e26": "buy",
+"e23": "buy",
+"xh38": "buy"
+},
+{
+"e26": "buyer",
+"e23": "buyer",
+"xh38": "buer"
+},
+{
+"e26": "by",
+"e23": "by",
+"xh38": "bi"
+},
+{
+"e26": "cabin",
+"e23": "cabin",
+"xh38": "kebin"
+},
+{
+"e26": "cabinet",
+"e23": "cabinet",
+"xh38": "kxibinet"
+},
+{
+"e26": "cable",
+"e23": "cable",
+"xh38": "kebl"
+},
+{
+"e26": "cake",
+"e23": "cake",
+"xh38": "kek"
+},
+{
+"e26": "calculate",
+"e23": "calculate",
+"xh38": "kxilkulet"
+},
+{
+"e26": "call",
+"e23": "call",
+"xh38": "kal"
+},
+{
+"e26": "camera",
+"e23": "camera",
+"xh38": "kximra"
+},
+{
+"e26": "camp",
+"e23": "camp",
+"xh38": "kximp"
+},
+{
+"e26": "campaign",
+"e23": "campaign",
+"xh38": "kximpen"
+},
+{
+"e26": "campus",
+"e23": "campus",
+"xh38": "kximps"
+},
+{
+"e26": "can",
+"e23": "can",
+"xh38": "kxin"
+},
+{
+"e26": "canadian",
+"e23": "canadian",
+"xh38": "kxinediyn"
+},
+{
+"e26": "cancer",
+"e23": "cancer",
+"xh38": "kxinsr"
+},
+{
+"e26": "candidate",
+"e23": "candidate",
+"xh38": "kxindidet"
+},
+{
+"e26": "cap",
+"e23": "cap",
+"xh38": "kxip"
+},
+{
+"e26": "capability",
+"e23": "capability",
+"xh38": "kpabiliti"
+},
+{
+"e26": "capable",
+"e23": "capable",
+"xh38": "kpble"
+},
+{
+"e26": "capacity",
+"e23": "capacity",
+"xh38": "kxipesiti"
+},
+{
+"e26": "capital",
+"e23": "capital",
+"xh38": "kxipitl"
+},
+{
+"e26": "captain",
+"e23": "captain",
+"xh38": "kpjan"
+},
+{
+"e26": "capture",
+"e23": "capture",
+"xh38": "kxipcr"
+},
+{
+"e26": "car",
+"e23": "car",
+"xh38": "kar"
+},
+{
+"e26": "carbon",
+"e23": "carbon",
+"xh38": "karbn"
+},
+{
+"e26": "card",
+"e23": "card",
+"xh38": "kard"
+},
+{
+"e26": "care",
+"e23": "care",
+"xh38": "keyr"
+},
+{
+"e26": "career",
+"e23": "career",
+"xh38": "kriyr"
+},
+{
+"e26": "careful",
+"e23": "careful",
+"xh38": "keyrful"
+},
+{
+"e26": "carefully",
+"e23": "carefully",
+"xh38": "krefulli"
+},
+{
+"e26": "carrier",
+"e23": "carrier",
+"xh38": "krrier"
+},
+{
+"e26": "carry",
+"e23": "carry",
+"xh38": "kxirri"
+},
+{
+"e26": "case",
+"e23": "case",
+"xh38": "kes"
+},
+{
+"e26": "cash",
+"e23": "cash",
+"xh38": "kॅS"
+},
+{
+"e26": "cast",
+"e23": "cast",
+"xh38": "kast"
+},
+{
+"e26": "cat",
+"e23": "cat",
+"xh38": "kxit"
+},
+{
+"e26": "catch",
+"e23": "catch",
+"xh38": "kxic"
+},
+{
+"e26": "category",
+"e23": "category",
+"xh38": "ketegri"
+},
+{
+"e26": "catholic",
+"e23": "catholic",
+"xh38": "kxiJolik"
+},
+{
+"e26": "cause",
+"e23": "cause",
+"xh38": "kaz"
+},
+{
+"e26": "ceiling",
+"e23": "ceiling",
+"xh38": "siliNg"
+},
+{
+"e26": "celebrate",
+"e23": "celebrate",
+"xh38": "selibret"
+},
+{
+"e26": "celebration",
+"e23": "celebration",
+"xh38": "selibreSn"
+},
+{
+"e26": "celebrity",
+"e23": "celebrity",
+"xh38": "selibriti"
+},
+{
+"e26": "cell",
+"e23": "cell",
+"xh38": "sel"
+},
+{
+"e26": "center",
+"e23": "center",
+"xh38": "sentr"
+},
+{
+"e26": "central",
+"e23": "central",
+"xh38": "sentrl"
+},
+{
+"e26": "century",
+"e23": "century",
+"xh38": "sencuri"
+},
+{
+"e26": "ceo",
+"e23": "ceo",
+"xh38": "siio"
+},
+{
+"e26": "ceremony",
+"e23": "ceremony",
+"xh38": "seremni"
+},
+{
+"e26": "certain",
+"e23": "certain",
+"xh38": "srten"
+},
+{
+"e26": "certainly",
+"e23": "certainly",
+"xh38": "srtenli"
+},
+{
+"e26": "chain",
+"e23": "chain",
+"xh38": "cxin"
+},
+{
+"e26": "chair",
+"e23": "chair",
+"xh38": "ceyr"
+},
+{
+"e26": "chairman",
+"e23": "chairman",
+"xh38": "ceyrmxin"
+},
+{
+"e26": "challenge",
+"e23": "challenge",
+"xh38": "cxilenz"
+},
+{
+"e26": "chamber",
+"e23": "chamber",
+"xh38": "cximbr"
+},
+{
+"e26": "champion",
+"e23": "champion",
+"xh38": "cximpiyn"
+},
+{
+"e26": "championship",
+"e23": "championship",
+"xh38": "cximpiynSip"
+},
+{
+"e26": "chance",
+"e23": "chance",
+"xh38": "cans"
+},
+{
+"e26": "change",
+"e23": "change",
+"xh38": "cenz"
+},
+{
+"e26": "changing",
+"e23": "changing",
+"xh38": "cenziNg"
+},
+{
+"e26": "channel",
+"e23": "channel",
+"xh38": "cxinl"
+},
+{
+"e26": "chapter",
+"e23": "chapter",
+"xh38": "cxiptr"
+},
+{
+"e26": "character",
+"e23": "character",
+"xh38": "krxiktr"
+},
+{
+"e26": "characteristic",
+"e23": "characteristic",
+"xh38": "kxirektristik"
+},
+{
+"e26": "characterize",
+"e23": "characterize",
+"xh38": "crkterize"
+},
+{
+"e26": "charge",
+"e23": "charge",
+"xh38": "carz"
+},
+{
+"e26": "charity",
+"e23": "charity",
+"xh38": "cxiriti"
+},
+{
+"e26": "chart",
+"e23": "chart",
+"xh38": "cart"
+},
+{
+"e26": "chase",
+"e23": "chase",
+"xh38": "ces"
+},
+{
+"e26": "cheap",
+"e23": "cheap",
+"xh38": "cip"
+},
+{
+"e26": "check",
+"e23": "check",
+"xh38": "cek"
+},
+{
+"e26": "cheek",
+"e23": "cheek",
+"xh38": "cik"
+},
+{
+"e26": "cheese",
+"e23": "cheese",
+"xh38": "ciज़"
+},
+{
+"e26": "chef",
+"e23": "chef",
+"xh38": "Sef"
+},
+{
+"e26": "chemical",
+"e23": "chemical",
+"xh38": "kemikl"
+},
+{
+"e26": "chest",
+"e23": "chest",
+"xh38": "cest"
+},
+{
+"e26": "chicken",
+"e23": "chicken",
+"xh38": "cikn"
+},
+{
+"e26": "chief",
+"e23": "chief",
+"xh38": "cif"
+},
+{
+"e26": "child",
+"e23": "child",
+"xh38": "caild"
+},
+{
+"e26": "childhood",
+"e23": "childhood",
+"xh38": "caildvud"
+},
+{
+"e26": "chinese",
+"e23": "chinese",
+"xh38": "cinese"
+},
+{
+"e26": "chip",
+"e23": "chip",
+"xh38": "cip"
+},
+{
+"e26": "chocolate",
+"e23": "chocolate",
+"xh38": "caklet"
+},
+{
+"e26": "choice",
+"e23": "choice",
+"xh38": "cais"
+},
+{
+"e26": "cholesterol",
+"e23": "cholesterol",
+"xh38": "kolestral"
+},
+{
+"e26": "choose",
+"e23": "choose",
+"xh38": "cuse"
+},
+{
+"e26": "christian",
+"e23": "christian",
+"xh38": "krisciyn"
+},
+{
+"e26": "christmas",
+"e23": "christmas",
+"xh38": "krisms"
+},
+{
+"e26": "church",
+"e23": "church",
+"xh38": "crc"
+},
+{
+"e26": "cigarette",
+"e23": "cigarette",
+"xh38": "sigret"
+},
+{
+"e26": "circle",
+"e23": "circle",
+"xh38": "srkil"
+},
+{
+"e26": "circumstance",
+"e23": "circumstance",
+"xh38": "srkmstans"
+},
+{
+"e26": "cite",
+"e23": "cite",
+"xh38": "Cite"
+},
+{
+"e26": "citizen",
+"e23": "citizen",
+"xh38": "sitizn"
+},
+{
+"e26": "city",
+"e23": "city",
+"xh38": "siti"
+},
+{
+"e26": "civil",
+"e23": "ciwil",
+"xh38": "siwil"
+},
+{
+"e26": "civilian",
+"e23": "ciwilian",
+"xh38": "siwiliyn"
+},
+{
+"e26": "claim",
+"e23": "claim",
+"xh38": "klem"
+},
+{
+"e26": "class",
+"e23": "class",
+"xh38": "klas"
+},
+{
+"e26": "classic",
+"e23": "classic",
+"xh38": "klasik"
+},
+{
+"e26": "classroom",
+"e23": "classroom",
+"xh38": "klasrum"
+},
+{
+"e26": "clean",
+"e23": "clean",
+"xh38": "klin"
+},
+{
+"e26": "clear",
+"e23": "clear",
+"xh38": "kliyr"
+},
+{
+"e26": "clearly",
+"e23": "clearly",
+"xh38": "klexrly"
+},
+{
+"e26": "client",
+"e23": "client",
+"xh38": "klaint"
+},
+{
+"e26": "climate",
+"e23": "climate",
+"xh38": "klaimet"
+},
+{
+"e26": "climb",
+"e23": "climb",
+"xh38": "klaimb"
+},
+{
+"e26": "clinic",
+"e23": "clinic",
+"xh38": "klinik"
+},
+{
+"e26": "clinical",
+"e23": "clinical",
+"xh38": "klinikl"
+},
+{
+"e26": "clock",
+"e23": "clock",
+"xh38": "klak"
+},
+{
+"e26": "close",
+"e23": "close",
+"xh38": "kloz"
+},
+{
+"e26": "closely",
+"e23": "closely",
+"xh38": "kloseli"
+},
+{
+"e26": "closer",
+"e23": "closer",
+"xh38": "kloज़r"
+},
+{
+"e26": "clothes",
+"e23": "clothes",
+"xh38": "kloJs"
+},
+{
+"e26": "clothing",
+"e23": "clothing",
+"xh38": "kloJiNg"
+},
+{
+"e26": "cloud",
+"e23": "cloud",
+"xh38": "klaud"
+},
+{
+"e26": "club",
+"e23": "club",
+"xh38": "klb"
+},
+{
+"e26": "clue",
+"e23": "clue",
+"xh38": "klu"
+},
+{
+"e26": "cluster",
+"e23": "cluster",
+"xh38": "klstr"
+},
+{
+"e26": "coach",
+"e23": "coach",
+"xh38": "koc"
+},
+{
+"e26": "coal",
+"e23": "coal",
+"xh38": "kol"
+},
+{
+"e26": "coalition",
+"e23": "coalition",
+"xh38": "koeliSn"
+},
+{
+"e26": "coast",
+"e23": "coast",
+"xh38": "kost"
+},
+{
+"e26": "coat",
+"e23": "coat",
+"xh38": "kot"
+},
+{
+"e26": "code",
+"e23": "code",
+"xh38": "kod"
+},
+{
+"e26": "coffee",
+"e23": "coffee",
+"xh38": "kaफ़i"
+},
+{
+"e26": "cognitive",
+"e23": "cognitiwe",
+"xh38": "kagnitiw"
+},
+{
+"e26": "cold",
+"e23": "cold",
+"xh38": "kold"
+},
+{
+"e26": "collapse",
+"e23": "collapse",
+"xh38": "klpse"
+},
+{
+"e26": "colleague",
+"e23": "colleague",
+"xh38": "kleg"
+},
+{
+"e26": "collect",
+"e23": "collect",
+"xh38": "klekt"
+},
+{
+"e26": "collection",
+"e23": "collection",
+"xh38": "klekSn"
+},
+{
+"e26": "collective",
+"e23": "collectiwe",
+"xh38": "klektiw"
+},
+{
+"e26": "college",
+"e23": "college",
+"xh38": "kalez"
+},
+{
+"e26": "colonial",
+"e23": "colonial",
+"xh38": "koloniyl"
+},
+{
+"e26": "color",
+"e23": "color",
+"xh38": "klr"
+},
+{
+"e26": "column",
+"e23": "column",
+"xh38": "kalm"
+},
+{
+"e26": "combination",
+"e23": "combination",
+"xh38": "kambineSn"
+},
+{
+"e26": "combine",
+"e23": "combine",
+"xh38": "kmbain"
+},
+{
+"e26": "come",
+"e23": "come",
+"xh38": "ke"
+},
+{
+"e26": "comedy",
+"e23": "comedy",
+"xh38": "kamedi"
+},
+{
+"e26": "comfort",
+"e23": "comfort",
+"xh38": "kmfrt"
+},
+{
+"e26": "comfortable",
+"e23": "comfortable",
+"xh38": "kmfrteble"
+},
+{
+"e26": "command",
+"e23": "command",
+"xh38": "kmand"
+},
+{
+"e26": "commander",
+"e23": "commander",
+"xh38": "kmandr"
+},
+{
+"e26": "comment",
+"e23": "comment",
+"xh38": "kment"
+},
+{
+"e26": "commercial",
+"e23": "commercial",
+"xh38": "kmrSiyl"
+},
+{
+"e26": "commission",
+"e23": "commission",
+"xh38": "kmiSn"
+},
+{
+"e26": "commit",
+"e23": "commit",
+"xh38": "kmit"
+},
+{
+"e26": "commitment",
+"e23": "commitment",
+"xh38": "kmitment"
+},
+{
+"e26": "committee",
+"e23": "committee",
+"xh38": "smiji"
+},
+{
+"e26": "common",
+"e23": "common",
+"xh38": "kamn"
+},
+{
+"e26": "communicate",
+"e23": "communicate",
+"xh38": "kmyuniket"
+},
+{
+"e26": "communication",
+"e23": "communication",
+"xh38": "kmyunikeSn"
+},
+{
+"e26": "community",
+"e23": "community",
+"xh38": "kmyuniti"
+},
+{
+"e26": "company",
+"e23": "company",
+"xh38": "kmpni"
+},
+{
+"e26": "compare",
+"e23": "compare",
+"xh38": "kpड़e"
+},
+{
+"e26": "comparison",
+"e23": "comparison",
+"xh38": "kpriso"
+},
+{
+"e26": "compete",
+"e23": "compete",
+"xh38": "kpt"
+},
+{
+"e26": "competition",
+"e23": "competition",
+"xh38": "kmptiSn"
+},
+{
+"e26": "competitive",
+"e23": "competitiwe",
+"xh38": "kampititiw"
+},
+{
+"e26": "competitor",
+"e23": "competitor",
+"xh38": "kampititr"
+},
+{
+"e26": "complain",
+"e23": "complain",
+"xh38": "kmplen"
+},
+{
+"e26": "complaint",
+"e23": "complaint",
+"xh38": "kmplent"
+},
+{
+"e26": "complete",
+"e23": "complete",
+"xh38": "kmplit"
+},
+{
+"e26": "completely",
+"e23": "completely",
+"xh38": "kmplitli"
+},
+{
+"e26": "complex",
+"e23": "complex",
+"xh38": "kampleks"
+},
+{
+"e26": "complicated",
+"e23": "complicated",
+"xh38": "kampliketed"
+},
+{
+"e26": "component",
+"e23": "component",
+"xh38": "kamponent"
+},
+{
+"e26": "compose",
+"e23": "compose",
+"xh38": "kmpoज़"
+},
+{
+"e26": "composition",
+"e23": "composition",
+"xh38": "kmpoziSn"
+},
+{
+"e26": "comprehensive",
+"e23": "comprehensiwe",
+"xh38": "kmprevxinsiw"
+},
+{
+"e26": "computer",
+"e23": "computer",
+"xh38": "kmpyutr"
+},
+{
+"e26": "concentrate",
+"e23": "concentrate",
+"xh38": "knsntret"
+},
+{
+"e26": "concentration",
+"e23": "concentration",
+"xh38": "knsntreSn"
+},
+{
+"e26": "concept",
+"e23": "concept",
+"xh38": "kansept"
+},
+{
+"e26": "concern",
+"e23": "concern",
+"xh38": "knsrn"
+},
+{
+"e26": "concerned",
+"e23": "concerned",
+"xh38": "knsrnd"
+},
+{
+"e26": "concert",
+"e23": "concert",
+"xh38": "kansrt"
+},
+{
+"e26": "conclude",
+"e23": "conclude",
+"xh38": "kNklude"
+},
+{
+"e26": "conclusion",
+"e23": "conclusion",
+"xh38": "knklusio"
+},
+{
+"e26": "concrete",
+"e23": "concrete",
+"xh38": "kNkrit"
+},
+{
+"e26": "condition",
+"e23": "condition",
+"xh38": "kndiSn"
+},
+{
+"e26": "conduct",
+"e23": "conduct",
+"xh38": "kndkt"
+},
+{
+"e26": "conference",
+"e23": "conference",
+"xh38": "kamfrens"
+},
+{
+"e26": "confidence",
+"e23": "confidence",
+"xh38": "kanfidens"
+},
+{
+"e26": "confident",
+"e23": "confident",
+"xh38": "kamfident"
+},
+{
+"e26": "confirm",
+"e23": "confirm",
+"xh38": "knfrm"
+},
+{
+"e26": "conflict",
+"e23": "conflict",
+"xh38": "knflikt"
+},
+{
+"e26": "confront",
+"e23": "confront",
+"xh38": "komfront"
+},
+{
+"e26": "confusion",
+"e23": "confusion",
+"xh38": "knfusio"
+},
+{
+"e26": "congress",
+"e23": "congress",
+"xh38": "kaNgres"
+},
+{
+"e26": "congressional",
+"e23": "congressional",
+"xh38": "kaNgreSnl"
+},
+{
+"e26": "connect",
+"e23": "connect",
+"xh38": "knekt"
+},
+{
+"e26": "connection",
+"e23": "connection",
+"xh38": "knekSn"
+},
+{
+"e26": "consciousness",
+"e23": "consciousness",
+"xh38": "kanSsnes"
+},
+{
+"e26": "consensus",
+"e23": "consensus",
+"xh38": "knsenss"
+},
+{
+"e26": "consequence",
+"e23": "consekuence",
+"xh38": "konsekens"
+},
+{
+"e26": "conservative",
+"e23": "conserwatiwe",
+"xh38": "knserwtiwe"
+},
+{
+"e26": "consider",
+"e23": "consider",
+"xh38": "knsidr"
+},
+{
+"e26": "considerable",
+"e23": "considerable",
+"xh38": "knsidrable"
+},
+{
+"e26": "consideration",
+"e23": "consideration",
+"xh38": "knsidrajio"
+},
+{
+"e26": "consist",
+"e23": "consist",
+"xh38": "knsist"
+},
+{
+"e26": "consistent",
+"e23": "consistent",
+"xh38": "knsistent"
+},
+{
+"e26": "constant",
+"e23": "constant",
+"xh38": "kanstent"
+},
+{
+"e26": "constantly",
+"e23": "constantly",
+"xh38": "konsjanjli"
+},
+{
+"e26": "constitute",
+"e23": "constitute",
+"xh38": "konstitute"
+},
+{
+"e26": "constitutional",
+"e23": "constitutional",
+"xh38": "konstituSnl"
+},
+{
+"e26": "construct",
+"e23": "construct",
+"xh38": "knstrkt"
+},
+{
+"e26": "construction",
+"e23": "construction",
+"xh38": "knstrkSn"
+},
+{
+"e26": "consultant",
+"e23": "consultant",
+"xh38": "knsltent"
+},
+{
+"e26": "consume",
+"e23": "consume",
+"xh38": "ksme"
+},
+{
+"e26": "consumer",
+"e23": "consumer",
+"xh38": "knsyumr"
+},
+{
+"e26": "consumption",
+"e23": "consumption",
+"xh38": "konsumpSn"
+},
+{
+"e26": "contact",
+"e23": "contact",
+"xh38": "kantekt"
+},
+{
+"e26": "contain",
+"e23": "contain",
+"xh38": "kantxin"
+},
+{
+"e26": "container",
+"e23": "container",
+"xh38": "kntenr"
+},
+{
+"e26": "contemporary",
+"e23": "contemporary",
+"xh38": "kntemprri"
+},
+{
+"e26": "content",
+"e23": "content",
+"xh38": "kntent"
+},
+{
+"e26": "contest",
+"e23": "contest",
+"xh38": "kantest"
+},
+{
+"e26": "context",
+"e23": "context",
+"xh38": "kantekst"
+},
+{
+"e26": "continue",
+"e23": "continue",
+"xh38": "kntinyu"
+},
+{
+"e26": "continued",
+"e23": "continued",
+"xh38": "kantinoed"
+},
+{
+"e26": "contract",
+"e23": "contract",
+"xh38": "kantrxikt"
+},
+{
+"e26": "contrast",
+"e23": "contrast",
+"xh38": "kntrast"
+},
+{
+"e26": "contribute",
+"e23": "contribute",
+"xh38": "kntribyut"
+},
+{
+"e26": "contribution",
+"e23": "contribution",
+"xh38": "kntribyuSn"
+},
+{
+"e26": "control",
+"e23": "control",
+"xh38": "kntrol"
+},
+{
+"e26": "controversial",
+"e23": "controwersial",
+"xh38": "kntrowrsixl"
+},
+{
+"e26": "controversy",
+"e23": "controwersy",
+"xh38": "kntrowrsi"
+},
+{
+"e26": "convention",
+"e23": "conwention",
+"xh38": "knwenSn"
+},
+{
+"e26": "conventional",
+"e23": "conwentional",
+"xh38": "knwenSnl"
+},
+{
+"e26": "conversation",
+"e23": "conwersation",
+"xh38": "knwrseSn"
+},
+{
+"e26": "convert",
+"e23": "conwert",
+"xh38": "knwrt"
+},
+{
+"e26": "conviction",
+"e23": "conwiction",
+"xh38": "knwikSn"
+},
+{
+"e26": "convince",
+"e23": "conwince",
+"xh38": "knwins"
+},
+{
+"e26": "cook",
+"e23": "cook",
+"xh38": "kuk"
+},
+{
+"e26": "cookie",
+"e23": "cookie",
+"xh38": "kuki"
+},
+{
+"e26": "cooking",
+"e23": "cooking",
+"xh38": "kukiNg"
+},
+{
+"e26": "cool",
+"e23": "cool",
+"xh38": "kul"
+},
+{
+"e26": "cooperation",
+"e23": "cooperation",
+"xh38": "koaopreSn"
+},
+{
+"e26": "cop",
+"e23": "cop",
+"xh38": "kp"
+},
+{
+"e26": "cope",
+"e23": "cope",
+"xh38": "Cope"
+},
+{
+"e26": "copy",
+"e23": "copy",
+"xh38": "kapi"
+},
+{
+"e26": "core",
+"e23": "core",
+"xh38": "kor"
+},
+{
+"e26": "corn",
+"e23": "corn",
+"xh38": "karn"
+},
+{
+"e26": "corner",
+"e23": "corner",
+"xh38": "karnr"
+},
+{
+"e26": "corporate",
+"e23": "corporate",
+"xh38": "karporet"
+},
+{
+"e26": "corporation",
+"e23": "corporation",
+"xh38": "karporeSn"
+},
+{
+"e26": "correct",
+"e23": "correct",
+"xh38": "krekt"
+},
+{
+"e26": "correspondent",
+"e23": "correspondent",
+"xh38": "korespondent"
+},
+{
+"e26": "cost",
+"e23": "cost",
+"xh38": "kast"
+},
+{
+"e26": "cotton",
+"e23": "cotton",
+"xh38": "katn"
+},
+{
+"e26": "couch",
+"e23": "couch",
+"xh38": "kauc"
+},
+{
+"e26": "could",
+"e23": "could",
+"xh38": "kud"
+},
+{
+"e26": "council",
+"e23": "council",
+"xh38": "kounsil"
+},
+{
+"e26": "counselor",
+"e23": "counselor",
+"xh38": "kaunslr"
+},
+{
+"e26": "count",
+"e23": "count",
+"xh38": "kaunt"
+},
+{
+"e26": "counter",
+"e23": "counter",
+"xh38": "kauntr"
+},
+{
+"e26": "country",
+"e23": "country",
+"xh38": "kntri"
+},
+{
+"e26": "county",
+"e23": "county",
+"xh38": "kaunti"
+},
+{
+"e26": "couple",
+"e23": "couple",
+"xh38": "kpl"
+},
+{
+"e26": "courage",
+"e23": "courage",
+"xh38": "krez"
+},
+{
+"e26": "course",
+"e23": "course",
+"xh38": "kors"
+},
+{
+"e26": "court",
+"e23": "court",
+"xh38": "kort"
+},
+{
+"e26": "cousin",
+"e23": "cousin",
+"xh38": "kzin"
+},
+{
+"e26": "cover",
+"e23": "cower",
+"xh38": "kwr"
+},
+{
+"e26": "coverage",
+"e23": "cowerage",
+"xh38": "kwrez"
+},
+{
+"e26": "cow",
+"e23": "cow",
+"xh38": "kau"
+},
+{
+"e26": "crack",
+"e23": "crack",
+"xh38": "krxik"
+},
+{
+"e26": "craft",
+"e23": "craft",
+"xh38": "kraft"
+},
+{
+"e26": "crash",
+"e23": "crash",
+"xh38": "krxiS"
+},
+{
+"e26": "crazy",
+"e23": "crazy",
+"xh38": "krezi"
+},
+{
+"e26": "cream",
+"e23": "cream",
+"xh38": "krim"
+},
+{
+"e26": "create",
+"e23": "create",
+"xh38": "kriet"
+},
+{
+"e26": "creation",
+"e23": "creation",
+"xh38": "krieSn"
+},
+{
+"e26": "creative",
+"e23": "creatiwe",
+"xh38": "krietiw"
+},
+{
+"e26": "creature",
+"e23": "creature",
+"xh38": "krexture"
+},
+{
+"e26": "credit",
+"e23": "credit",
+"xh38": "kredit"
+},
+{
+"e26": "crew",
+"e23": "crew",
+"xh38": "kru"
+},
+{
+"e26": "crime",
+"e23": "crime",
+"xh38": "kraim"
+},
+{
+"e26": "criminal",
+"e23": "criminal",
+"xh38": "kriminl"
+},
+{
+"e26": "crisis",
+"e23": "crisis",
+"xh38": "kraisis"
+},
+{
+"e26": "criteria",
+"e23": "criteria",
+"xh38": "kraiteriya"
+},
+{
+"e26": "critic",
+"e23": "critic",
+"xh38": "kritik"
+},
+{
+"e26": "critical",
+"e23": "critical",
+"xh38": "kritikl"
+},
+{
+"e26": "criticism",
+"e23": "criticism",
+"xh38": "kritisizm"
+},
+{
+"e26": "criticize",
+"e23": "criticize",
+"xh38": "kritisiज़e"
+},
+{
+"e26": "crop",
+"e23": "crop",
+"xh38": "krap"
+},
+{
+"e26": "cross",
+"e23": "cross",
+"xh38": "kras"
+},
+{
+"e26": "crowd",
+"e23": "crowd",
+"xh38": "kraud"
+},
+{
+"e26": "crucial",
+"e23": "crucial",
+"xh38": "kruSl"
+},
+{
+"e26": "cry",
+"e23": "cry",
+"xh38": "krai"
+},
+{
+"e26": "cultural",
+"e23": "cultural",
+"xh38": "klcrl"
+},
+{
+"e26": "culture",
+"e23": "culture",
+"xh38": "klcr"
+},
+{
+"e26": "cup",
+"e23": "cup",
+"xh38": "kp"
+},
+{
+"e26": "curious",
+"e23": "curious",
+"xh38": "kyuriys"
+},
+{
+"e26": "current",
+"e23": "current",
+"xh38": "krnt"
+},
+{
+"e26": "currently",
+"e23": "currently",
+"xh38": "krrentli"
+},
+{
+"e26": "curriculum",
+"e23": "curriculum",
+"xh38": "krikulm"
+},
+{
+"e26": "custom",
+"e23": "custom",
+"xh38": "kstm"
+},
+{
+"e26": "customer",
+"e23": "customer",
+"xh38": "kstmr"
+},
+{
+"e26": "cut",
+"e23": "cut",
+"xh38": "kt"
+},
+{
+"e26": "cycle",
+"e23": "cycle",
+"xh38": "saikil"
+},
+{
+"e26": "dad",
+"e23": "dad",
+"xh38": "dxid"
+},
+{
+"e26": "daily",
+"e23": "daily",
+"xh38": "deli"
+},
+{
+"e26": "damage",
+"e23": "damage",
+"xh38": "dximez"
+},
+{
+"e26": "dance",
+"e23": "dance",
+"xh38": "dans"
+},
+{
+"e26": "danger",
+"e23": "danger",
+"xh38": "denzr"
+},
+{
+"e26": "dangerous",
+"e23": "dangerous",
+"xh38": "denzrs"
+},
+{
+"e26": "dare",
+"e23": "dare",
+"xh38": "dre"
+},
+{
+"e26": "dark",
+"e23": "dark",
+"xh38": "dark"
+},
+{
+"e26": "darkness",
+"e23": "darkness",
+"xh38": "darknes"
+},
+{
+"e26": "data",
+"e23": "data",
+"xh38": "data"
+},
+{
+"e26": "date",
+"e23": "date",
+"xh38": "det"
+},
+{
+"e26": "daughter",
+"e23": "daughter",
+"xh38": "datr"
+},
+{
+"e26": "day",
+"e23": "day",
+"xh38": "de"
+},
+{
+"e26": "dead",
+"e23": "dead",
+"xh38": "ded"
+},
+{
+"e26": "deal",
+"e23": "deal",
+"xh38": "dil"
+},
+{
+"e26": "dealer",
+"e23": "dealer",
+"xh38": "dilr"
+},
+{
+"e26": "dear",
+"e23": "dear",
+"xh38": "dixr"
+},
+{
+"e26": "death",
+"e23": "death",
+"xh38": "deJ"
+},
+{
+"e26": "debate",
+"e23": "debate",
+"xh38": "dibet"
+},
+{
+"e26": "debt",
+"e23": "debt",
+"xh38": "debt"
+},
+{
+"e26": "decade",
+"e23": "decade",
+"xh38": "diked"
+},
+{
+"e26": "decide",
+"e23": "decide",
+"xh38": "dide"
+},
+{
+"e26": "decision",
+"e23": "decision",
+"xh38": "disiSn"
+},
+{
+"e26": "deck",
+"e23": "deck",
+"xh38": "dek"
+},
+{
+"e26": "declare",
+"e23": "declare",
+"xh38": "diklexr"
+},
+{
+"e26": "decline",
+"e23": "decline",
+"xh38": "diklain"
+},
+{
+"e26": "decrease",
+"e23": "decrease",
+"xh38": "dikrise"
+},
+{
+"e26": "deep",
+"e23": "deep",
+"xh38": "dip"
+},
+{
+"e26": "deeply",
+"e23": "deeply",
+"xh38": "dipli"
+},
+{
+"e26": "deer",
+"e23": "deer",
+"xh38": "diyr"
+},
+{
+"e26": "defeat",
+"e23": "defeat",
+"xh38": "deफ़ext"
+},
+{
+"e26": "defend",
+"e23": "defend",
+"xh38": "difend"
+},
+{
+"e26": "defendant",
+"e23": "defendant",
+"xh38": "qfeqanj"
+},
+{
+"e26": "defense",
+"e23": "defense",
+"xh38": "difens"
+},
+{
+"e26": "defensive",
+"e23": "defensiwe",
+"xh38": "difensiw"
+},
+{
+"e26": "deficit",
+"e23": "deficit",
+"xh38": "defisit"
+},
+{
+"e26": "define",
+"e23": "define",
+"xh38": "difain"
+},
+{
+"e26": "definitely",
+"e23": "definitely",
+"xh38": "definiteli"
+},
+{
+"e26": "definition",
+"e23": "definition",
+"xh38": "definiSn"
+},
+{
+"e26": "degree",
+"e23": "degree",
+"xh38": "digri"
+},
+{
+"e26": "delay",
+"e23": "delay",
+"xh38": "dile"
+},
+{
+"e26": "deliver",
+"e23": "deliwer",
+"xh38": "diliwr"
+},
+{
+"e26": "delivery",
+"e23": "deliwery",
+"xh38": "diliwri"
+},
+{
+"e26": "demand",
+"e23": "demand",
+"xh38": "dimand"
+},
+{
+"e26": "democracy",
+"e23": "democracy",
+"xh38": "demokresi"
+},
+{
+"e26": "democrat",
+"e23": "democrat",
+"xh38": "demokrxit"
+},
+{
+"e26": "democratic",
+"e23": "democratic",
+"xh38": "demokretik"
+},
+{
+"e26": "demonstrate",
+"e23": "demonstrate",
+"xh38": "demonstrete"
+},
+{
+"e26": "demonstration",
+"e23": "demonstration",
+"xh38": "demonstreSn"
+},
+{
+"e26": "deny",
+"e23": "deny",
+"xh38": "qeny"
+},
+{
+"e26": "department",
+"e23": "department",
+"xh38": "dipartment"
+},
+{
+"e26": "depend",
+"e23": "depend",
+"xh38": "qepenq"
+},
+{
+"e26": "dependent",
+"e23": "dependent",
+"xh38": "dipendent"
+},
+{
+"e26": "depending",
+"e23": "depending",
+"xh38": "dependiNg"
+},
+{
+"e26": "depict",
+"e23": "depict",
+"xh38": "depist"
+},
+{
+"e26": "depression",
+"e23": "depression",
+"xh38": "dipreSn"
+},
+{
+"e26": "depth",
+"e23": "depth",
+"xh38": "depJ"
+},
+{
+"e26": "deputy",
+"e23": "deputy",
+"xh38": "dipti"
+},
+{
+"e26": "derive",
+"e23": "deriwe",
+"xh38": "qeऱiwe"
+},
+{
+"e26": "describe",
+"e23": "describe",
+"xh38": "deskribe"
+},
+{
+"e26": "description",
+"e23": "description",
+"xh38": "diskripSn"
+},
+{
+"e26": "desert",
+"e23": "desert",
+"xh38": "dezrt"
+},
+{
+"e26": "deserve",
+"e23": "deserwe",
+"xh38": "deserwe"
+},
+{
+"e26": "design",
+"e23": "design",
+"xh38": "diज़ain"
+},
+{
+"e26": "designer",
+"e23": "designer",
+"xh38": "diज़ainr"
+},
+{
+"e26": "desire",
+"e23": "desire",
+"xh38": "dizayr"
+},
+{
+"e26": "desk",
+"e23": "desk",
+"xh38": "desk"
+},
+{
+"e26": "desperate",
+"e23": "desperate",
+"xh38": "desperet"
+},
+{
+"e26": "despite",
+"e23": "despite",
+"xh38": "qespije"
+},
+{
+"e26": "destroy",
+"e23": "destroy",
+"xh38": "distray"
+},
+{
+"e26": "destruction",
+"e23": "destruction",
+"xh38": "distrkSn"
+},
+{
+"e26": "detail",
+"e23": "detail",
+"xh38": "ditel"
+},
+{
+"e26": "detailed",
+"e23": "detailed",
+"xh38": "diteld"
+},
+{
+"e26": "detect",
+"e23": "detect",
+"xh38": "ditekt"
+},
+{
+"e26": "determine",
+"e23": "determine",
+"xh38": "detrmine"
+},
+{
+"e26": "develop",
+"e23": "dewelop",
+"xh38": "dewelop"
+},
+{
+"e26": "developing",
+"e23": "deweloping",
+"xh38": "dewlpiNg"
+},
+{
+"e26": "development",
+"e23": "dewelopment",
+"xh38": "dewlpment"
+},
+{
+"e26": "device",
+"e23": "dewice",
+"xh38": "diwais"
+},
+{
+"e26": "devote",
+"e23": "dewote",
+"xh38": "qewoje"
+},
+{
+"e26": "dialogue",
+"e23": "dialogue",
+"xh38": "daylag"
+},
+{
+"e26": "die",
+"e23": "die",
+"xh38": "qie"
+},
+{
+"e26": "diet",
+"e23": "diet",
+"xh38": "dait"
+},
+{
+"e26": "differ",
+"e23": "differ",
+"xh38": "difr"
+},
+{
+"e26": "difference",
+"e23": "difference",
+"xh38": "difrens"
+},
+{
+"e26": "different",
+"e23": "different",
+"xh38": "difrent"
+},
+{
+"e26": "differently",
+"e23": "differently",
+"xh38": "difrentli"
+},
+{
+"e26": "difficult",
+"e23": "difficult",
+"xh38": "difiklt"
+},
+{
+"e26": "difficulty",
+"e23": "difficulty",
+"xh38": "difiklti"
+},
+{
+"e26": "dig",
+"e23": "dig",
+"xh38": "qig"
+},
+{
+"e26": "digital",
+"e23": "digital",
+"xh38": "dizitl"
+},
+{
+"e26": "dimension",
+"e23": "dimension",
+"xh38": "daymenSn"
+},
+{
+"e26": "dining",
+"e23": "dining",
+"xh38": "dainiNg"
+},
+{
+"e26": "dinner",
+"e23": "dinner",
+"xh38": "dinr"
+},
+{
+"e26": "direct",
+"e23": "direct",
+"xh38": "dayrekt"
+},
+{
+"e26": "direction",
+"e23": "direction",
+"xh38": "dayrekSn"
+},
+{
+"e26": "directly",
+"e23": "directly",
+"xh38": "dayrektli"
+},
+{
+"e26": "director",
+"e23": "director",
+"xh38": "dayrektr"
+},
+{
+"e26": "dirt",
+"e23": "dirt",
+"xh38": "drt"
+},
+{
+"e26": "dirty",
+"e23": "dirty",
+"xh38": "drti"
+},
+{
+"e26": "disability",
+"e23": "disability",
+"xh38": "disebiliti"
+},
+{
+"e26": "disagree",
+"e23": "disagree",
+"xh38": "disagri"
+},
+{
+"e26": "disappear",
+"e23": "disappear",
+"xh38": "disxppexr"
+},
+{
+"e26": "disaster",
+"e23": "disaster",
+"xh38": "dizastr"
+},
+{
+"e26": "discipline",
+"e23": "discipline",
+"xh38": "disiplin"
+},
+{
+"e26": "discourse",
+"e23": "discourse",
+"xh38": "diskors"
+},
+{
+"e26": "discover",
+"e23": "discower",
+"xh38": "diskwr"
+},
+{
+"e26": "discovery",
+"e23": "discowery",
+"xh38": "diskwri"
+},
+{
+"e26": "discrimination",
+"e23": "discrimination",
+"xh38": "diskrimineSn"
+},
+{
+"e26": "discuss",
+"e23": "discuss",
+"xh38": "disks"
+},
+{
+"e26": "discussion",
+"e23": "discussion",
+"xh38": "diskSn"
+},
+{
+"e26": "disease",
+"e23": "disease",
+"xh38": "diziz"
+},
+{
+"e26": "dish",
+"e23": "dish",
+"xh38": "diS"
+},
+{
+"e26": "dismiss",
+"e23": "dismiss",
+"xh38": "dismis"
+},
+{
+"e26": "disorder",
+"e23": "disorder",
+"xh38": "disaordr"
+},
+{
+"e26": "display",
+"e23": "display",
+"xh38": "disple"
+},
+{
+"e26": "dispute",
+"e23": "dispute",
+"xh38": "dispyut"
+},
+{
+"e26": "distance",
+"e23": "distance",
+"xh38": "distens"
+},
+{
+"e26": "distant",
+"e23": "distant",
+"xh38": "distent"
+},
+{
+"e26": "distinct",
+"e23": "distinct",
+"xh38": "distiNkt"
+},
+{
+"e26": "distinction",
+"e23": "distinction",
+"xh38": "distiNkSn"
+},
+{
+"e26": "distinguish",
+"e23": "distinguish",
+"xh38": "distiNguiS"
+},
+{
+"e26": "distribute",
+"e23": "distribute",
+"xh38": "distribyut"
+},
+{
+"e26": "distribution",
+"e23": "distribution",
+"xh38": "distribyuSn"
+},
+{
+"e26": "district",
+"e23": "district",
+"xh38": "distrikt"
+},
+{
+"e26": "diverse",
+"e23": "diwerse",
+"xh38": "qiwerse"
+},
+{
+"e26": "diversity",
+"e23": "diwersity",
+"xh38": "daiwrsiti"
+},
+{
+"e26": "divide",
+"e23": "diwide",
+"xh38": "diwaid"
+},
+{
+"e26": "division",
+"e23": "diwision",
+"xh38": "diwiज़n"
+},
+{
+"e26": "divorce",
+"e23": "diworce",
+"xh38": "daiwors"
+},
+{
+"e26": "dna",
+"e23": "dna",
+"xh38": "dienye"
+},
+{
+"e26": "do",
+"e23": "do",
+"xh38": "qo"
+},
+{
+"e26": "doctor",
+"e23": "doctor",
+"xh38": "daktr"
+},
+{
+"e26": "document",
+"e23": "document",
+"xh38": "dakyument"
+},
+{
+"e26": "dog",
+"e23": "dog",
+"xh38": "dag"
+},
+{
+"e26": "domestic",
+"e23": "domestic",
+"xh38": "domestik"
+},
+{
+"e26": "dominant",
+"e23": "dominant",
+"xh38": "dominent"
+},
+{
+"e26": "dominate",
+"e23": "dominate",
+"xh38": "dominaje"
+},
+{
+"e26": "door",
+"e23": "door",
+"xh38": "qur"
+},
+{
+"e26": "double",
+"e23": "double",
+"xh38": "dbl"
+},
+{
+"e26": "doubt",
+"e23": "doubt",
+"xh38": "daut"
+},
+{
+"e26": "down",
+"e23": "down",
+"xh38": "daun"
+},
+{
+"e26": "downtown",
+"e23": "downtown",
+"xh38": "dauntaun"
+},
+{
+"e26": "dozen",
+"e23": "dozen",
+"xh38": "doज़en"
+},
+{
+"e26": "draft",
+"e23": "draft",
+"xh38": "draft"
+},
+{
+"e26": "drag",
+"e23": "drag",
+"xh38": "drxig"
+},
+{
+"e26": "drama",
+"e23": "drama",
+"xh38": "drama"
+},
+{
+"e26": "dramatic",
+"e23": "dramatic",
+"xh38": "drametik"
+},
+{
+"e26": "dramatically",
+"e23": "dramatically",
+"xh38": "drmxitiklly"
+},
+{
+"e26": "draw",
+"e23": "draw",
+"xh38": "dra"
+},
+{
+"e26": "drawing",
+"e23": "drawing",
+"xh38": "draiNg"
+},
+{
+"e26": "dream",
+"e23": "dream",
+"xh38": "drim"
+},
+{
+"e26": "dress",
+"e23": "dress",
+"xh38": "dres"
+},
+{
+"e26": "drink",
+"e23": "drink",
+"xh38": "driNk"
+},
+{
+"e26": "drive",
+"e23": "driwe",
+"xh38": "draiw"
+},
+{
+"e26": "driver",
+"e23": "driwer",
+"xh38": "draiwr"
+},
+{
+"e26": "drop",
+"e23": "drop",
+"xh38": "drap"
+},
+{
+"e26": "drug",
+"e23": "drug",
+"xh38": "drg"
+},
+{
+"e26": "dry",
+"e23": "dry",
+"xh38": "drai"
+},
+{
+"e26": "due",
+"e23": "due",
+"xh38": "qey"
+},
+{
+"e26": "during",
+"e23": "during",
+"xh38": "quriNg"
+},
+{
+"e26": "dust",
+"e23": "dust",
+"xh38": "dst"
+},
+{
+"e26": "duty",
+"e23": "duty",
+"xh38": "dyuti"
+},
+{
+"e26": "each",
+"e23": "each",
+"xh38": "ec"
+},
+{
+"e26": "eager",
+"e23": "eager",
+"xh38": "exgr"
+},
+{
+"e26": "ear",
+"e23": "ear",
+"xh38": "exr"
+},
+{
+"e26": "early",
+"e23": "early",
+"xh38": "xrli"
+},
+{
+"e26": "earn",
+"e23": "earn",
+"xh38": "irn"
+},
+{
+"e26": "earnings",
+"e23": "earnings",
+"xh38": "exrniNgs"
+},
+{
+"e26": "earth",
+"e23": "earth",
+"xh38": "exrJ"
+},
+{
+"e26": "ease",
+"e23": "ease",
+"xh38": "exse"
+},
+{
+"e26": "easily",
+"e23": "easily",
+"xh38": "xisily"
+},
+{
+"e26": "east",
+"e23": "east",
+"xh38": "ist"
+},
+{
+"e26": "eastern",
+"e23": "eastern",
+"xh38": "istrn"
+},
+{
+"e26": "easy",
+"e23": "easy",
+"xh38": "izi"
+},
+{
+"e26": "eat",
+"e23": "eat",
+"xh38": "baj"
+},
+{
+"e26": "economic",
+"e23": "economic",
+"xh38": "iknomik"
+},
+{
+"e26": "economics",
+"e23": "economics",
+"xh38": "ikonamiks"
+},
+{
+"e26": "economist",
+"e23": "economist",
+"xh38": "ikonamist"
+},
+{
+"e26": "economy",
+"e23": "economy",
+"xh38": "ikanmi"
+},
+{
+"e26": "edge",
+"e23": "edge",
+"xh38": "ez"
+},
+{
+"e26": "edition",
+"e23": "edition",
+"xh38": "ediSn"
+},
+{
+"e26": "editor",
+"e23": "editor",
+"xh38": "editr"
+},
+{
+"e26": "educate",
+"e23": "educate",
+"xh38": "edukaje"
+},
+{
+"e26": "education",
+"e23": "education",
+"xh38": "ezukeSn"
+},
+{
+"e26": "educational",
+"e23": "educational",
+"xh38": "ezukeSnl"
+},
+{
+"e26": "educator",
+"e23": "educator",
+"xh38": "edukajor"
+},
+{
+"e26": "effect",
+"e23": "effect",
+"xh38": "iफ़ekt"
+},
+{
+"e26": "effective",
+"e23": "effectiwe",
+"xh38": "ifektiw"
+},
+{
+"e26": "effectively",
+"e23": "effectiwely",
+"xh38": "effektiweli"
+},
+{
+"e26": "efficiency",
+"e23": "efficiency",
+"xh38": "efiSiensi"
+},
+{
+"e26": "efficient",
+"e23": "efficient",
+"xh38": "effisient"
+},
+{
+"e26": "effort",
+"e23": "effort",
+"xh38": "efrt"
+},
+{
+"e26": "egg",
+"e23": "egg",
+"xh38": "eg"
+},
+{
+"e26": "eight",
+"e23": "eight",
+"xh38": "xaT"
+},
+{
+"e26": "either",
+"e23": "either",
+"xh38": "eJer"
+},
+{
+"e26": "elderly",
+"e23": "elderly",
+"xh38": "eldrli"
+},
+{
+"e26": "elect",
+"e23": "elect",
+"xh38": "elekt"
+},
+{
+"e26": "election",
+"e23": "election",
+"xh38": "ilekSn"
+},
+{
+"e26": "electric",
+"e23": "electric",
+"xh38": "ilektrik"
+},
+{
+"e26": "electricity",
+"e23": "electricity",
+"xh38": "ilektrisiti"
+},
+{
+"e26": "electronic",
+"e23": "electronic",
+"xh38": "ilektranik"
+},
+{
+"e26": "element",
+"e23": "element",
+"xh38": "eliment"
+},
+{
+"e26": "elementary",
+"e23": "elementary",
+"xh38": "elimentri"
+},
+{
+"e26": "eliminate",
+"e23": "eliminate",
+"xh38": "eliminet"
+},
+{
+"e26": "elite",
+"e23": "elite",
+"xh38": "ilit"
+},
+{
+"e26": "else",
+"e23": "else",
+"xh38": "els"
+},
+{
+"e26": "elsewhere",
+"e23": "elsewhere",
+"xh38": "elswvere"
+},
+{
+"e26": "e-mail",
+"e23": "e-mail",
+"xh38": "i-mel"
+},
+{
+"e26": "embrace",
+"e23": "embrace",
+"xh38": "embras"
+},
+{
+"e26": "emerge",
+"e23": "emerge",
+"xh38": "imrz"
+},
+{
+"e26": "emergency",
+"e23": "emergency",
+"xh38": "imrzensi"
+},
+{
+"e26": "emission",
+"e23": "emission",
+"xh38": "emiSn"
+},
+{
+"e26": "emotion",
+"e23": "emotion",
+"xh38": "imoSn"
+},
+{
+"e26": "emotional",
+"e23": "emotional",
+"xh38": "imoSnl"
+},
+{
+"e26": "emphasis",
+"e23": "emphasis",
+"xh38": "emfesis"
+},
+{
+"e26": "emphasize",
+"e23": "emphasize",
+"xh38": "emfxisiज़e"
+},
+{
+"e26": "employ",
+"e23": "employ",
+"xh38": "emplay"
+},
+{
+"e26": "employee",
+"e23": "employee",
+"xh38": "employi"
+},
+{
+"e26": "employer",
+"e23": "employer",
+"xh38": "emplayr"
+},
+{
+"e26": "employment",
+"e23": "employment",
+"xh38": "emplayment"
+},
+{
+"e26": "empty",
+"e23": "empty",
+"xh38": "empti"
+},
+{
+"e26": "enable",
+"e23": "enable",
+"xh38": "inebl"
+},
+{
+"e26": "encounter",
+"e23": "encounter",
+"xh38": "enkauntr"
+},
+{
+"e26": "encourage",
+"e23": "encourage",
+"xh38": "ensarge"
+},
+{
+"e26": "end",
+"e23": "end",
+"xh38": "end"
+},
+{
+"e26": "enemy",
+"e23": "enemy",
+"xh38": "enimi"
+},
+{
+"e26": "energy",
+"e23": "energy",
+"xh38": "enrzi"
+},
+{
+"e26": "enforcement",
+"e23": "enforcement",
+"xh38": "enforsment"
+},
+{
+"e26": "engage",
+"e23": "engage",
+"xh38": "iNgge"
+},
+{
+"e26": "engine",
+"e23": "engine",
+"xh38": "inzn"
+},
+{
+"e26": "engineer",
+"e23": "engineer",
+"xh38": "inziniyr"
+},
+{
+"e26": "engineering",
+"e23": "engineering",
+"xh38": "inziniyriNg"
+},
+{
+"e26": "english",
+"e23": "english",
+"xh38": "iNgliS"
+},
+{
+"e26": "enhance",
+"e23": "enhance",
+"xh38": "envans"
+},
+{
+"e26": "enjoy",
+"e23": "enzoy",
+"xh38": "enzay"
+},
+{
+"e26": "enormous",
+"e23": "enormous",
+"xh38": "enormaus"
+},
+{
+"e26": "enough",
+"e23": "enough",
+"xh38": "enf"
+},
+{
+"e26": "ensure",
+"e23": "ensure",
+"xh38": "ensure"
+},
+{
+"e26": "enter",
+"e23": "enter",
+"xh38": "entr"
+},
+{
+"e26": "enterprise",
+"e23": "enterprise",
+"xh38": "entrpraiz"
+},
+{
+"e26": "entertainment",
+"e23": "entertainment",
+"xh38": "entrtenment"
+},
+{
+"e26": "entire",
+"e23": "entire",
+"xh38": "entire"
+},
+{
+"e26": "entirely",
+"e23": "entirely",
+"xh38": "entirely"
+},
+{
+"e26": "entrance",
+"e23": "entrance",
+"xh38": "entrens"
+},
+{
+"e26": "entry",
+"e23": "entry",
+"xh38": "entri"
+},
+{
+"e26": "environment",
+"e23": "enwironment",
+"xh38": "enwayrnment"
+},
+{
+"e26": "environmental",
+"e23": "enwironmental",
+"xh38": "enwayrnmentl"
+},
+{
+"e26": "episode",
+"e23": "episode",
+"xh38": "episod"
+},
+{
+"e26": "equal",
+"e23": "ekual",
+"xh38": "ikwl"
+},
+{
+"e26": "equally",
+"e23": "ekually",
+"xh38": "ekwali"
+},
+{
+"e26": "equipment",
+"e23": "ekuipment",
+"xh38": "ikwipment"
+},
+{
+"e26": "era",
+"e23": "era",
+"xh38": "era"
+},
+{
+"e26": "error",
+"e23": "error",
+"xh38": "err"
+},
+{
+"e26": "escape",
+"e23": "escape",
+"xh38": "eskep"
+},
+{
+"e26": "especially",
+"e23": "especially",
+"xh38": "espeSly"
+},
+{
+"e26": "essay",
+"e23": "essay",
+"xh38": "esse"
+},
+{
+"e26": "essential",
+"e23": "essential",
+"xh38": "esenSiyl"
+},
+{
+"e26": "essentially",
+"e23": "essentially",
+"xh38": "esentixali"
+},
+{
+"e26": "establish",
+"e23": "establish",
+"xh38": "estbliS"
+},
+{
+"e26": "establishment",
+"e23": "establishment",
+"xh38": "istxibliSment"
+},
+{
+"e26": "estate",
+"e23": "estate",
+"xh38": "estet"
+},
+{
+"e26": "estimate",
+"e23": "estimate",
+"xh38": "estimet"
+},
+{
+"e26": "etc",
+"e23": "etc",
+"xh38": "ets"
+},
+{
+"e26": "ethics",
+"e23": "ethics",
+"xh38": "eJiks"
+},
+{
+"e26": "ethnic",
+"e23": "ethnic",
+"xh38": "eJnik"
+},
+{
+"e26": "european",
+"e23": "european",
+"xh38": "yuropiyn"
+},
+{
+"e26": "evaluate",
+"e23": "ewaluate",
+"xh38": "ewluet"
+},
+{
+"e26": "evaluation",
+"e23": "ewaluation",
+"xh38": "iwxilyueSn"
+},
+{
+"e26": "even",
+"e23": "ewen",
+"xh38": "iwn"
+},
+{
+"e26": "evening",
+"e23": "ewening",
+"xh38": "iwniNg"
+},
+{
+"e26": "event",
+"e23": "ewent",
+"xh38": "iwent"
+},
+{
+"e26": "eventually",
+"e23": "ewentually",
+"xh38": "ewenjuxlly"
+},
+{
+"e26": "ever",
+"e23": "ewer",
+"xh38": "ewr"
+},
+{
+"e26": "every",
+"e23": "ewery",
+"xh38": "ewri"
+},
+{
+"e26": "everybody",
+"e23": "ewerybody",
+"xh38": "ewribadi"
+},
+{
+"e26": "everyday",
+"e23": "eweryday",
+"xh38": "ewride"
+},
+{
+"e26": "everyone",
+"e23": "eweryone",
+"xh38": "ewriwn"
+},
+{
+"e26": "everything",
+"e23": "ewerything",
+"xh38": "ewriJiNg"
+},
+{
+"e26": "everywhere",
+"e23": "ewerywhere",
+"xh38": "ewriwver"
+},
+{
+"e26": "evidence",
+"e23": "ewidence",
+"xh38": "ewidens"
+},
+{
+"e26": "evolution",
+"e23": "ewolution",
+"xh38": "ewoluSn"
+},
+{
+"e26": "evolve",
+"e23": "ewolwe",
+"xh38": "iwalwe"
+},
+{
+"e26": "exact",
+"e23": "exact",
+"xh38": "eksyekt"
+},
+{
+"e26": "exactly",
+"e23": "exactly",
+"xh38": "eksaktli"
+},
+{
+"e26": "examination",
+"e23": "examination",
+"xh38": "egzamineSn"
+},
+{
+"e26": "examine",
+"e23": "examine",
+"xh38": "eksamine"
+},
+{
+"e26": "example",
+"e23": "example",
+"xh38": "eksample"
+},
+{
+"e26": "exceed",
+"e23": "exceed",
+"xh38": "ekssid"
+},
+{
+"e26": "excellent",
+"e23": "excellent",
+"xh38": "eksilent"
+},
+{
+"e26": "except",
+"e23": "except",
+"xh38": "eksept"
+},
+{
+"e26": "exception",
+"e23": "exception",
+"xh38": "eksepSn"
+},
+{
+"e26": "exchange",
+"e23": "exchange",
+"xh38": "ekscenz"
+},
+{
+"e26": "exciting",
+"e23": "exciting",
+"xh38": "ekssitiNg"
+},
+{
+"e26": "executive",
+"e23": "executiwe",
+"xh38": "egzikyutiw"
+},
+{
+"e26": "exercise",
+"e23": "exercise",
+"xh38": "eksrsaiz"
+},
+{
+"e26": "exhibit",
+"e23": "exhibit",
+"xh38": "eksvibij"
+},
+{
+"e26": "exhibition",
+"e23": "exhibition",
+"xh38": "eksvibiSn"
+},
+{
+"e26": "exist",
+"e23": "exist",
+"xh38": "eksist"
+},
+{
+"e26": "existence",
+"e23": "existence",
+"xh38": "eksistens"
+},
+{
+"e26": "existing",
+"e23": "existing",
+"xh38": "eksistiNg"
+},
+{
+"e26": "expand",
+"e23": "expand",
+"xh38": "ekspxind"
+},
+{
+"e26": "expansion",
+"e23": "expansion",
+"xh38": "ekspenSn"
+},
+{
+"e26": "expect",
+"e23": "expect",
+"xh38": "ekspekt"
+},
+{
+"e26": "expectation",
+"e23": "expectation",
+"xh38": "ekspekteSn"
+},
+{
+"e26": "expense",
+"e23": "expense",
+"xh38": "ekspens"
+},
+{
+"e26": "expensive",
+"e23": "expensiwe",
+"xh38": "ekspensiw"
+},
+{
+"e26": "experience",
+"e23": "experience",
+"xh38": "ekspiriyns"
+},
+{
+"e26": "experiment",
+"e23": "experiment",
+"xh38": "eksperiment"
+},
+{
+"e26": "expert",
+"e23": "expert",
+"xh38": "eksprt"
+},
+{
+"e26": "explain",
+"e23": "explain",
+"xh38": "eksplen"
+},
+{
+"e26": "explanation",
+"e23": "explanation",
+"xh38": "eksplneSn"
+},
+{
+"e26": "explode",
+"e23": "explode",
+"xh38": "eksplode"
+},
+{
+"e26": "explore",
+"e23": "explore",
+"xh38": "eksplor"
+},
+{
+"e26": "explosion",
+"e23": "explosion",
+"xh38": "eksplosiw"
+},
+{
+"e26": "expose",
+"e23": "expose",
+"xh38": "ekspoज़"
+},
+{
+"e26": "exposure",
+"e23": "exposure",
+"xh38": "ekspoज़r"
+},
+{
+"e26": "express",
+"e23": "express",
+"xh38": "ekspres"
+},
+{
+"e26": "expression",
+"e23": "expression",
+"xh38": "ekspreSn"
+},
+{
+"e26": "extend",
+"e23": "extend",
+"xh38": "ekstend"
+},
+{
+"e26": "extension",
+"e23": "extension",
+"xh38": "ekstenSn"
+},
+{
+"e26": "extensive",
+"e23": "extensiwe",
+"xh38": "ekstensiw"
+},
+{
+"e26": "extent",
+"e23": "extent",
+"xh38": "ekstent"
+},
+{
+"e26": "external",
+"e23": "external",
+"xh38": "ekstrnl"
+},
+{
+"e26": "extra",
+"e23": "extra",
+"xh38": "ekstra"
+},
+{
+"e26": "extraordinary",
+"e23": "extraordinary",
+"xh38": "ekstraaordinri"
+},
+{
+"e26": "extreme",
+"e23": "extreme",
+"xh38": "ekstrim"
+},
+{
+"e26": "extremely",
+"e23": "extremely",
+"xh38": "ekstremeli"
+},
+{
+"e26": "eye",
+"e23": "eye",
+"xh38": "aoy"
+},
+{
+"e26": "fabric",
+"e23": "fabric",
+"xh38": "fxibrik"
+},
+{
+"e26": "face",
+"e23": "face",
+"xh38": "fes"
+},
+{
+"e26": "facility",
+"e23": "facility",
+"xh38": "fxisiliti"
+},
+{
+"e26": "fact",
+"e23": "fact",
+"xh38": "fxikt"
+},
+{
+"e26": "factor",
+"e23": "factor",
+"xh38": "fxiktr"
+},
+{
+"e26": "factory",
+"e23": "factory",
+"xh38": "fxiktri"
+},
+{
+"e26": "faculty",
+"e23": "faculty",
+"xh38": "fxiklti"
+},
+{
+"e26": "fade",
+"e23": "fade",
+"xh38": "fade"
+},
+{
+"e26": "fail",
+"e23": "fail",
+"xh38": "फ़xil"
+},
+{
+"e26": "failure",
+"e23": "failure",
+"xh38": "feliyr"
+},
+{
+"e26": "fair",
+"e23": "fair",
+"xh38": "feyr"
+},
+{
+"e26": "fairly",
+"e23": "fairly",
+"xh38": "fxirly"
+},
+{
+"e26": "faith",
+"e23": "faith",
+"xh38": "feJ"
+},
+{
+"e26": "fall",
+"e23": "fall",
+"xh38": "fal"
+},
+{
+"e26": "false",
+"e23": "false",
+"xh38": "false"
+},
+{
+"e26": "familiar",
+"e23": "familiar",
+"xh38": "femilixr"
+},
+{
+"e26": "family",
+"e23": "family",
+"xh38": "fॅmili"
+},
+{
+"e26": "famous",
+"e23": "famous",
+"xh38": "fems"
+},
+{
+"e26": "fan",
+"e23": "fan",
+"xh38": "fxin"
+},
+{
+"e26": "fantasy",
+"e23": "fantasy",
+"xh38": "fnjasi"
+},
+{
+"e26": "far",
+"e23": "far",
+"xh38": "far"
+},
+{
+"e26": "farm",
+"e23": "farm",
+"xh38": "farm"
+},
+{
+"e26": "farmer",
+"e23": "farmer",
+"xh38": "farmr"
+},
+{
+"e26": "fashion",
+"e23": "fashion",
+"xh38": "fxiSn"
+},
+{
+"e26": "fast",
+"e23": "fast",
+"xh38": "फ़ast"
+},
+{
+"e26": "fat",
+"e23": "fat",
+"xh38": "fxit"
+},
+{
+"e26": "fate",
+"e23": "fate",
+"xh38": "fate"
+},
+{
+"e26": "father",
+"e23": "father",
+"xh38": "faqr"
+},
+{
+"e26": "fault",
+"e23": "fault",
+"xh38": "falt"
+},
+{
+"e26": "favor",
+"e23": "fawor",
+"xh38": "fewr"
+},
+{
+"e26": "favorite",
+"e23": "faworite",
+"xh38": "fewret"
+},
+{
+"e26": "fear",
+"e23": "fear",
+"xh38": "fiyr"
+},
+{
+"e26": "feature",
+"e23": "feature",
+"xh38": "ficr"
+},
+{
+"e26": "federal",
+"e23": "federal",
+"xh38": "फ़edrl"
+},
+{
+"e26": "fee",
+"e23": "fee",
+"xh38": "fi"
+},
+{
+"e26": "feed",
+"e23": "feed",
+"xh38": "fid"
+},
+{
+"e26": "feel",
+"e23": "feel",
+"xh38": "fil"
+},
+{
+"e26": "feeling",
+"e23": "feeling",
+"xh38": "filiNg"
+},
+{
+"e26": "fellow",
+"e23": "fellow",
+"xh38": "felo"
+},
+{
+"e26": "female",
+"e23": "female",
+"xh38": "fimel"
+},
+{
+"e26": "fence",
+"e23": "fence",
+"xh38": "fens"
+},
+{
+"e26": "few",
+"e23": "few",
+"xh38": "fyu"
+},
+{
+"e26": "fewer",
+"e23": "fewer",
+"xh38": "fewr"
+},
+{
+"e26": "fiber",
+"e23": "fiber",
+"xh38": "faibr"
+},
+{
+"e26": "fiction",
+"e23": "fiction",
+"xh38": "fikSn"
+},
+{
+"e26": "field",
+"e23": "field",
+"xh38": "fild"
+},
+{
+"e26": "fifteen",
+"e23": "fifteen",
+"xh38": "fiftin"
+},
+{
+"e26": "fifth",
+"e23": "fifth",
+"xh38": "fifJ"
+},
+{
+"e26": "fifty",
+"e23": "fifty",
+"xh38": "fifti"
+},
+{
+"e26": "fight",
+"e23": "fight",
+"xh38": "fait"
+},
+{
+"e26": "fighter",
+"e23": "fighter",
+"xh38": "faitr"
+},
+{
+"e26": "fighting",
+"e23": "fighting",
+"xh38": "faitiNg"
+},
+{
+"e26": "figure",
+"e23": "figure",
+"xh38": "figr"
+},
+{
+"e26": "file",
+"e23": "file",
+"xh38": "fail"
+},
+{
+"e26": "fill",
+"e23": "fill",
+"xh38": "fyill"
+},
+{
+"e26": "film",
+"e23": "film",
+"xh38": "film"
+},
+{
+"e26": "final",
+"e23": "final",
+"xh38": "fainl"
+},
+{
+"e26": "finally",
+"e23": "finally",
+"xh38": "fainli"
+},
+{
+"e26": "finance",
+"e23": "finance",
+"xh38": "fainens"
+},
+{
+"e26": "financial",
+"e23": "financial",
+"xh38": "fainensiyl"
+},
+{
+"e26": "find",
+"e23": "find",
+"xh38": "fnd"
+},
+{
+"e26": "finding",
+"e23": "finding",
+"xh38": "faindiNg"
+},
+{
+"e26": "fine",
+"e23": "fine",
+"xh38": "fain"
+},
+{
+"e26": "finger",
+"e23": "finger",
+"xh38": "fiNgr"
+},
+{
+"e26": "finish",
+"e23": "finish",
+"xh38": "finiS"
+},
+{
+"e26": "fire",
+"e23": "fire",
+"xh38": "fayr"
+},
+{
+"e26": "firm",
+"e23": "firm",
+"xh38": "frm"
+},
+{
+"e26": "first",
+"e23": "first",
+"xh38": "frst"
+},
+{
+"e26": "fish",
+"e23": "fish",
+"xh38": "fiS"
+},
+{
+"e26": "fishing",
+"e23": "fishing",
+"xh38": "fiSiNg"
+},
+{
+"e26": "fit",
+"e23": "fit",
+"xh38": "fit"
+},
+{
+"e26": "fitness",
+"e23": "fitness",
+"xh38": "fitnes"
+},
+{
+"e26": "five",
+"e23": "fiwe",
+"xh38": "faiw"
+},
+{
+"e26": "fix",
+"e23": "fix",
+"xh38": "fiks"
+},
+{
+"e26": "flag",
+"e23": "flag",
+"xh38": "flxig"
+},
+{
+"e26": "flame",
+"e23": "flame",
+"xh38": "flem"
+},
+{
+"e26": "flat",
+"e23": "flat",
+"xh38": "flxit"
+},
+{
+"e26": "flavor",
+"e23": "flawor",
+"xh38": "flewr"
+},
+{
+"e26": "flee",
+"e23": "flee",
+"xh38": "fli"
+},
+{
+"e26": "flesh",
+"e23": "flesh",
+"xh38": "fleS"
+},
+{
+"e26": "flight",
+"e23": "flight",
+"xh38": "flait"
+},
+{
+"e26": "float",
+"e23": "float",
+"xh38": "flot"
+},
+{
+"e26": "floor",
+"e23": "floor",
+"xh38": "flor"
+},
+{
+"e26": "flow",
+"e23": "flow",
+"xh38": "flo"
+},
+{
+"e26": "flower",
+"e23": "flower",
+"xh38": "flawr"
+},
+{
+"e26": "fly",
+"e23": "fly",
+"xh38": "flai"
+},
+{
+"e26": "focus",
+"e23": "focus",
+"xh38": "foks"
+},
+{
+"e26": "folk",
+"e23": "folk",
+"xh38": "fok"
+},
+{
+"e26": "follow",
+"e23": "follow",
+"xh38": "falo"
+},
+{
+"e26": "following",
+"e23": "following",
+"xh38": "followiNg"
+},
+{
+"e26": "food",
+"e23": "food",
+"xh38": "फ़ud"
+},
+{
+"e26": "foot",
+"e23": "foot",
+"xh38": "fut"
+},
+{
+"e26": "football",
+"e23": "football",
+"xh38": "futbal"
+},
+{
+"e26": "for",
+"e23": "for",
+"xh38": "far"
+},
+{
+"e26": "force",
+"e23": "force",
+"xh38": "faॅrs"
+},
+{
+"e26": "foreign",
+"e23": "foreign",
+"xh38": "faren"
+},
+{
+"e26": "forest",
+"e23": "forest",
+"xh38": "farest"
+},
+{
+"e26": "forever",
+"e23": "forewer",
+"xh38": "faryewr"
+},
+{
+"e26": "forget",
+"e23": "forget",
+"xh38": "farget"
+},
+{
+"e26": "form",
+"e23": "form",
+"xh38": "farm"
+},
+{
+"e26": "formal",
+"e23": "formal",
+"xh38": "farml"
+},
+{
+"e26": "formation",
+"e23": "formation",
+"xh38": "farmeSn"
+},
+{
+"e26": "former",
+"e23": "former",
+"xh38": "farmr"
+},
+{
+"e26": "formula",
+"e23": "formula",
+"xh38": "farmula"
+},
+{
+"e26": "forth",
+"e23": "forth",
+"xh38": "forJ"
+},
+{
+"e26": "fortune",
+"e23": "fortune",
+"xh38": "farcyun"
+},
+{
+"e26": "forward",
+"e23": "forward",
+"xh38": "farwrd"
+},
+{
+"e26": "found",
+"e23": "found",
+"xh38": "faund"
+},
+{
+"e26": "foundation",
+"e23": "foundation",
+"xh38": "faundeSn"
+},
+{
+"e26": "founder",
+"e23": "founder",
+"xh38": "faundr"
+},
+{
+"e26": "four",
+"e23": "four",
+"xh38": "for"
+},
+{
+"e26": "fourth",
+"e23": "fourth",
+"xh38": "forJ"
+},
+{
+"e26": "frame",
+"e23": "frame",
+"xh38": "frem"
+},
+{
+"e26": "framework",
+"e23": "framework",
+"xh38": "fremwrk"
+},
+{
+"e26": "free",
+"e23": "free",
+"xh38": "fri"
+},
+{
+"e26": "freedom",
+"e23": "freedom",
+"xh38": "fridm"
+},
+{
+"e26": "freeze",
+"e23": "freeze",
+"xh38": "friz"
+},
+{
+"e26": "french",
+"e23": "french",
+"xh38": "frenc"
+},
+{
+"e26": "frequency",
+"e23": "frekuency",
+"xh38": "frikwensi"
+},
+{
+"e26": "frequent",
+"e23": "frekuent",
+"xh38": "frikwent"
+},
+{
+"e26": "frequently",
+"e23": "frekuently",
+"xh38": "frekwentli"
+},
+{
+"e26": "fresh",
+"e23": "fresh",
+"xh38": "freS"
+},
+{
+"e26": "friend",
+"e23": "friend",
+"xh38": "frend"
+},
+{
+"e26": "friendly",
+"e23": "friendly",
+"xh38": "frendli"
+},
+{
+"e26": "friendship",
+"e23": "friendship",
+"xh38": "frendSip"
+},
+{
+"e26": "from",
+"e23": "from",
+"xh38": "fram"
+},
+{
+"e26": "front",
+"e23": "front",
+"xh38": "frnt"
+},
+{
+"e26": "fruit",
+"e23": "fruit",
+"xh38": "frut"
+},
+{
+"e26": "frustration",
+"e23": "frustration",
+"xh38": "फ़rstreSn"
+},
+{
+"e26": "fuel",
+"e23": "fuel",
+"xh38": "fyul"
+},
+{
+"e26": "full",
+"e23": "full",
+"xh38": "ful"
+},
+{
+"e26": "fully",
+"e23": "fully",
+"xh38": "fulli"
+},
+{
+"e26": "fun",
+"e23": "fun",
+"xh38": "fn"
+},
+{
+"e26": "function",
+"e23": "function",
+"xh38": "fNkSn"
+},
+{
+"e26": "fund",
+"e23": "fund",
+"xh38": "fnd"
+},
+{
+"e26": "fundamental",
+"e23": "fundamental",
+"xh38": "fndamentl"
+},
+{
+"e26": "funding",
+"e23": "funding",
+"xh38": "fndiNg"
+},
+{
+"e26": "funeral",
+"e23": "funeral",
+"xh38": "fyunrl"
+},
+{
+"e26": "funny",
+"e23": "funny",
+"xh38": "fni"
+},
+{
+"e26": "furniture",
+"e23": "furniture",
+"xh38": "frnicr"
+},
+{
+"e26": "furthermore",
+"e23": "furthermore",
+"xh38": "furjermore"
+},
+{
+"e26": "future",
+"e23": "future",
+"xh38": "fyucr"
+},
+{
+"e26": "gain",
+"e23": "gain",
+"xh38": "gen"
+},
+{
+"e26": "galaxy",
+"e23": "galaxy",
+"xh38": "gxileksi"
+},
+{
+"e26": "gallery",
+"e23": "gallery",
+"xh38": "gxilri"
+},
+{
+"e26": "game",
+"e23": "game",
+"xh38": "gem"
+},
+{
+"e26": "gang",
+"e23": "gang",
+"xh38": "gxiNg"
+},
+{
+"e26": "gap",
+"e23": "gap",
+"xh38": "gxip"
+},
+{
+"e26": "garage",
+"e23": "garage",
+"xh38": "geraz"
+},
+{
+"e26": "garden",
+"e23": "garden",
+"xh38": "gardn"
+},
+{
+"e26": "garlic",
+"e23": "garlic",
+"xh38": "garlik"
+},
+{
+"e26": "gas",
+"e23": "gas",
+"xh38": "gxis"
+},
+{
+"e26": "gate",
+"e23": "gate",
+"xh38": "get"
+},
+{
+"e26": "gather",
+"e23": "gather",
+"xh38": "gTr"
+},
+{
+"e26": "gay",
+"e23": "gay",
+"xh38": "ge"
+},
+{
+"e26": "gaze",
+"e23": "gaze",
+"xh38": "gaze"
+},
+{
+"e26": "gear",
+"e23": "gear",
+"xh38": "giyr"
+},
+{
+"e26": "gender",
+"e23": "gender",
+"xh38": "zendr"
+},
+{
+"e26": "gene",
+"e23": "gene",
+"xh38": "zin"
+},
+{
+"e26": "general",
+"e23": "general",
+"xh38": "znrl"
+},
+{
+"e26": "generally",
+"e23": "generally",
+"xh38": "generally"
+},
+{
+"e26": "generate",
+"e23": "generate",
+"xh38": "generaje"
+},
+{
+"e26": "generation",
+"e23": "generation",
+"xh38": "znreSn"
+},
+{
+"e26": "genetic",
+"e23": "genetic",
+"xh38": "zenetik"
+},
+{
+"e26": "gentleman",
+"e23": "gentleman",
+"xh38": "zentlmxin"
+},
+{
+"e26": "gently",
+"e23": "gently",
+"xh38": "zentli"
+},
+{
+"e26": "german",
+"e23": "german",
+"xh38": "zrmn"
+},
+{
+"e26": "gesture",
+"e23": "gesture",
+"xh38": "zescr"
+},
+{
+"e26": "get",
+"e23": "get",
+"xh38": "get"
+},
+{
+"e26": "ghost",
+"e23": "ghost",
+"xh38": "Gost"
+},
+{
+"e26": "giant",
+"e23": "giant",
+"xh38": "zaynt"
+},
+{
+"e26": "gift",
+"e23": "gift",
+"xh38": "gift"
+},
+{
+"e26": "gifted",
+"e23": "gifted",
+"xh38": "gifted"
+},
+{
+"e26": "girl",
+"e23": "girl",
+"xh38": "grl"
+},
+{
+"e26": "girlfriend",
+"e23": "girlfriend",
+"xh38": "grlfrend"
+},
+{
+"e26": "give",
+"e23": "giwe",
+"xh38": "giw"
+},
+{
+"e26": "given",
+"e23": "giwen",
+"xh38": "giwen"
+},
+{
+"e26": "glad",
+"e23": "glad",
+"xh38": "glxid"
+},
+{
+"e26": "glance",
+"e23": "glance",
+"xh38": "glans"
+},
+{
+"e26": "glass",
+"e23": "glass",
+"xh38": "gilas"
+},
+{
+"e26": "global",
+"e23": "global",
+"xh38": "globl"
+},
+{
+"e26": "glove",
+"e23": "glowe",
+"xh38": "glow"
+},
+{
+"e26": "go",
+"e23": "go",
+"xh38": "zo"
+},
+{
+"e26": "goal",
+"e23": "goal",
+"xh38": "goxal"
+},
+{
+"e26": "god",
+"e23": "god",
+"xh38": "gad"
+},
+{
+"e26": "gold",
+"e23": "gold",
+"xh38": "gold"
+},
+{
+"e26": "golden",
+"e23": "golden",
+"xh38": "goldn"
+},
+{
+"e26": "golf",
+"e23": "golf",
+"xh38": "golf"
+},
+{
+"e26": "good",
+"e23": "good",
+"xh38": "gud"
+},
+{
+"e26": "government",
+"e23": "gowernment",
+"xh38": "gwrnment"
+},
+{
+"e26": "governor",
+"e23": "gowernor",
+"xh38": "gwrnr"
+},
+{
+"e26": "grab",
+"e23": "grab",
+"xh38": "grxib"
+},
+{
+"e26": "grade",
+"e23": "grade",
+"xh38": "gred"
+},
+{
+"e26": "gradually",
+"e23": "gradually",
+"xh38": "grezuxli"
+},
+{
+"e26": "graduate",
+"e23": "graduate",
+"xh38": "grezuet"
+},
+{
+"e26": "grain",
+"e23": "grain",
+"xh38": "gren"
+},
+{
+"e26": "grand",
+"e23": "grand",
+"xh38": "grxind"
+},
+{
+"e26": "grandfather",
+"e23": "grandfather",
+"xh38": "grandfaqr"
+},
+{
+"e26": "grandmother",
+"e23": "grandmother",
+"xh38": "grxindmqr"
+},
+{
+"e26": "grant",
+"e23": "grant",
+"xh38": "grant"
+},
+{
+"e26": "grass",
+"e23": "grass",
+"xh38": "gras"
+},
+{
+"e26": "grave",
+"e23": "grawe",
+"xh38": "grew"
+},
+{
+"e26": "gray",
+"e23": "gray",
+"xh38": "gre"
+},
+{
+"e26": "great",
+"e23": "great",
+"xh38": "gret"
+},
+{
+"e26": "greatest",
+"e23": "greatest",
+"xh38": "gretest"
+},
+{
+"e26": "green",
+"e23": "green",
+"xh38": "grin"
+},
+{
+"e26": "grocery",
+"e23": "grocery",
+"xh38": "grosri"
+},
+{
+"e26": "ground",
+"e23": "ground",
+"xh38": "graund"
+},
+{
+"e26": "group",
+"e23": "group",
+"xh38": "grup"
+},
+{
+"e26": "grow",
+"e23": "grow",
+"xh38": "gro"
+},
+{
+"e26": "growing",
+"e23": "growing",
+"xh38": "groiNg"
+},
+{
+"e26": "growth",
+"e23": "growth",
+"xh38": "groJ"
+},
+{
+"e26": "guarantee",
+"e23": "guarantee",
+"xh38": "garnti"
+},
+{
+"e26": "guard",
+"e23": "guard",
+"xh38": "gard"
+},
+{
+"e26": "guess",
+"e23": "guess",
+"xh38": "ges"
+},
+{
+"e26": "guest",
+"e23": "guest",
+"xh38": "gest"
+},
+{
+"e26": "guide",
+"e23": "guide",
+"xh38": "gaid"
+},
+{
+"e26": "guideline",
+"e23": "guideline",
+"xh38": "guideline"
+},
+{
+"e26": "guilty",
+"e23": "guilty",
+"xh38": "gilti"
+},
+{
+"e26": "gun",
+"e23": "gun",
+"xh38": "gn"
+},
+{
+"e26": "guy",
+"e23": "guy",
+"xh38": "gae"
+},
+{
+"e26": "habit",
+"e23": "habit",
+"xh38": "vxibit"
+},
+{
+"e26": "habitat",
+"e23": "habitat",
+"xh38": "vxibitxit"
+},
+{
+"e26": "hair",
+"e23": "hair",
+"xh38": "veyr"
+},
+{
+"e26": "half",
+"e23": "half",
+"xh38": "vaf"
+},
+{
+"e26": "hall",
+"e23": "hall",
+"xh38": "val"
+},
+{
+"e26": "hand",
+"e23": "hand",
+"xh38": "vxind"
+},
+{
+"e26": "handful",
+"e23": "handful",
+"xh38": "vnqful"
+},
+{
+"e26": "handle",
+"e23": "handle",
+"xh38": "vxindl"
+},
+{
+"e26": "hang",
+"e23": "hang",
+"xh38": "vxiNg"
+},
+{
+"e26": "happen",
+"e23": "happen",
+"xh38": "vxipn"
+},
+{
+"e26": "happy",
+"e23": "happy",
+"xh38": "vxippi"
+},
+{
+"e26": "hard",
+"e23": "hard",
+"xh38": "vard"
+},
+{
+"e26": "hardly",
+"e23": "hardly",
+"xh38": "vardli"
+},
+{
+"e26": "hat",
+"e23": "hat",
+"xh38": "vxit"
+},
+{
+"e26": "hate",
+"e23": "hate",
+"xh38": "vet"
+},
+{
+"e26": "have",
+"e23": "hawe",
+"xh38": "vxiwe"
+},
+{
+"e26": "he",
+"e23": "he",
+"xh38": "ve"
+},
+{
+"e26": "head",
+"e23": "head",
+"xh38": "ved"
+},
+{
+"e26": "headline",
+"e23": "headline",
+"xh38": "vxidlain"
+},
+{
+"e26": "headquarters",
+"e23": "headkuarters",
+"xh38": "vedkwartrs"
+},
+{
+"e26": "health",
+"e23": "health",
+"xh38": "velJ"
+},
+{
+"e26": "healthy",
+"e23": "healthy",
+"xh38": "vexlJi"
+},
+{
+"e26": "hear",
+"e23": "hear",
+"xh38": "vexr"
+},
+{
+"e26": "hearing",
+"e23": "hearing",
+"xh38": "viyriNg"
+},
+{
+"e26": "heart",
+"e23": "heart",
+"xh38": "vart"
+},
+{
+"e26": "heat",
+"e23": "heat",
+"xh38": "vit"
+},
+{
+"e26": "heaven",
+"e23": "heawen",
+"xh38": "vewn"
+},
+{
+"e26": "heavily",
+"e23": "heawily",
+"xh38": "vexwily"
+},
+{
+"e26": "heavy",
+"e23": "heawy",
+"xh38": "vxiwi"
+},
+{
+"e26": "heel",
+"e23": "heel",
+"xh38": "vil"
+},
+{
+"e26": "height",
+"e23": "height",
+"xh38": "vait"
+},
+{
+"e26": "helicopter",
+"e23": "helicopter",
+"xh38": "velikaptr"
+},
+{
+"e26": "hell",
+"e23": "hell",
+"xh38": "vell"
+},
+{
+"e26": "hello",
+"e23": "hello",
+"xh38": "velo"
+},
+{
+"e26": "help",
+"e23": "help",
+"xh38": "velp"
+},
+{
+"e26": "helpful",
+"e23": "helpful",
+"xh38": "velpful"
+},
+{
+"e26": "her",
+"e23": "her",
+"xh38": "ver"
+},
+{
+"e26": "here",
+"e23": "here",
+"xh38": "vere"
+},
+{
+"e26": "heritage",
+"e23": "heritage",
+"xh38": "veritez"
+},
+{
+"e26": "hero",
+"e23": "hero",
+"xh38": "viro"
+},
+{
+"e26": "herself",
+"e23": "herself",
+"xh38": "vrselफ़"
+},
+{
+"e26": "hey",
+"e23": "hey",
+"xh38": "ve"
+},
+{
+"e26": "hi",
+"e23": "hi",
+"xh38": "vi"
+},
+{
+"e26": "hide",
+"e23": "hide",
+"xh38": "vaid"
+},
+{
+"e26": "high",
+"e23": "high",
+"xh38": "vai"
+},
+{
+"e26": "highlight",
+"e23": "highlight",
+"xh38": "vailait"
+},
+{
+"e26": "highly",
+"e23": "highly",
+"xh38": "vaili"
+},
+{
+"e26": "highway",
+"e23": "highway",
+"xh38": "vaiwe"
+},
+{
+"e26": "hill",
+"e23": "hill",
+"xh38": "vil"
+},
+{
+"e26": "him",
+"e23": "him",
+"xh38": "vim"
+},
+{
+"e26": "himself",
+"e23": "himself",
+"xh38": "vimself"
+},
+{
+"e26": "hip",
+"e23": "hip",
+"xh38": "vip"
+},
+{
+"e26": "hire",
+"e23": "hire",
+"xh38": "vire"
+},
+{
+"e26": "his",
+"e23": "his",
+"xh38": "viz"
+},
+{
+"e26": "historian",
+"e23": "historian",
+"xh38": "vistoriyn"
+},
+{
+"e26": "historic",
+"e23": "historic",
+"xh38": "vistorik"
+},
+{
+"e26": "historical",
+"e23": "historical",
+"xh38": "vistorikl"
+},
+{
+"e26": "history",
+"e23": "history",
+"xh38": "vistri"
+},
+{
+"e26": "hit",
+"e23": "hit",
+"xh38": "vit"
+},
+{
+"e26": "hold",
+"e23": "hold",
+"xh38": "vold"
+},
+{
+"e26": "hole",
+"e23": "hole",
+"xh38": "vol"
+},
+{
+"e26": "holiday",
+"e23": "holiday",
+"xh38": "valide"
+},
+{
+"e26": "holy",
+"e23": "holy",
+"xh38": "vouli"
+},
+{
+"e26": "home",
+"e23": "home",
+"xh38": "vom"
+},
+{
+"e26": "homeless",
+"e23": "homeless",
+"xh38": "vomles"
+},
+{
+"e26": "honest",
+"e23": "honest",
+"xh38": "aonest"
+},
+{
+"e26": "honey",
+"e23": "honey",
+"xh38": "vni"
+},
+{
+"e26": "honor",
+"e23": "honor",
+"xh38": "vanr"
+},
+{
+"e26": "hope",
+"e23": "hope",
+"xh38": "vop"
+},
+{
+"e26": "horizon",
+"e23": "horizon",
+"xh38": "voraizn"
+},
+{
+"e26": "horror",
+"e23": "horror",
+"xh38": "varr"
+},
+{
+"e26": "horse",
+"e23": "horse",
+"xh38": "vars"
+},
+{
+"e26": "hospital",
+"e23": "hospital",
+"xh38": "vaspitl"
+},
+{
+"e26": "host",
+"e23": "host",
+"xh38": "vost"
+},
+{
+"e26": "hot",
+"e23": "hot",
+"xh38": "vat"
+},
+{
+"e26": "hotel",
+"e23": "hotel",
+"xh38": "votl"
+},
+{
+"e26": "hour",
+"e23": "hour",
+"xh38": "aowr"
+},
+{
+"e26": "house",
+"e23": "house",
+"xh38": "vaus"
+},
+{
+"e26": "household",
+"e23": "household",
+"xh38": "vausvold"
+},
+{
+"e26": "housing",
+"e23": "housing",
+"xh38": "vausiNg"
+},
+{
+"e26": "how",
+"e23": "how",
+"xh38": "vau"
+},
+{
+"e26": "however",
+"e23": "howewer",
+"xh38": "vowewer"
+},
+{
+"e26": "huge",
+"e23": "huge",
+"xh38": "vuze"
+},
+{
+"e26": "human",
+"e23": "human",
+"xh38": "vyumn"
+},
+{
+"e26": "humor",
+"e23": "humor",
+"xh38": "vyumr"
+},
+{
+"e26": "hundred",
+"e23": "hundred",
+"xh38": "vndred"
+},
+{
+"e26": "hungry",
+"e23": "hungry",
+"xh38": "vNgri"
+},
+{
+"e26": "hunter",
+"e23": "hunter",
+"xh38": "vntr"
+},
+{
+"e26": "hunting",
+"e23": "hunting",
+"xh38": "vntiNg"
+},
+{
+"e26": "hurt",
+"e23": "hurt",
+"xh38": "vrt"
+},
+{
+"e26": "husband",
+"e23": "husband",
+"xh38": "vsbxind"
+},
+{
+"e26": "hypothesis",
+"e23": "hypothesis",
+"xh38": "vaipoJisis"
+},
+{
+"e26": "i",
+"e23": "i",
+"xh38": "i"
+},
+{
+"e26": "ice",
+"e23": "ice",
+"xh38": "xais"
+},
+{
+"e26": "idea",
+"e23": "idea",
+"xh38": "xaidiya"
+},
+{
+"e26": "ideal",
+"e23": "ideal",
+"xh38": "xaidiyl"
+},
+{
+"e26": "identification",
+"e23": "identification",
+"xh38": "xaidentifikeSn"
+},
+{
+"e26": "identify",
+"e23": "identify",
+"xh38": "identiफ़y"
+},
+{
+"e26": "identity",
+"e23": "identity",
+"xh38": "xaidentiti"
+},
+{
+"e26": "ie",
+"e23": "ie",
+"xh38": "ie"
+},
+{
+"e26": "if",
+"e23": "if",
+"xh38": "iफ़"
+},
+{
+"e26": "ignore",
+"e23": "ignore",
+"xh38": "ignor"
+},
+{
+"e26": "ill",
+"e23": "ill",
+"xh38": "ill"
+},
+{
+"e26": "illegal",
+"e23": "illegal",
+"xh38": "illigl"
+},
+{
+"e26": "illness",
+"e23": "illness",
+"xh38": "ilnes"
+},
+{
+"e26": "illustrate",
+"e23": "illustrate",
+"xh38": "illusrje"
+},
+{
+"e26": "image",
+"e23": "image",
+"xh38": "imez"
+},
+{
+"e26": "imagination",
+"e23": "imagination",
+"xh38": "imezineSn"
+},
+{
+"e26": "imagine",
+"e23": "imagine",
+"xh38": "imezin"
+},
+{
+"e26": "immediate",
+"e23": "immediate",
+"xh38": "imidiyet"
+},
+{
+"e26": "immediately",
+"e23": "immediately",
+"xh38": "immedietli"
+},
+{
+"e26": "immigrant",
+"e23": "immigrant",
+"xh38": "imigrent"
+},
+{
+"e26": "immigration",
+"e23": "immigration",
+"xh38": "imigreSn"
+},
+{
+"e26": "impact",
+"e23": "impact",
+"xh38": "impxikt"
+},
+{
+"e26": "implement",
+"e23": "implement",
+"xh38": "impliment"
+},
+{
+"e26": "implication",
+"e23": "implication",
+"xh38": "implikeSn"
+},
+{
+"e26": "imply",
+"e23": "imply",
+"xh38": "impli"
+},
+{
+"e26": "importance",
+"e23": "importance",
+"xh38": "importens"
+},
+{
+"e26": "important",
+"e23": "important",
+"xh38": "importent"
+},
+{
+"e26": "impose",
+"e23": "impose",
+"xh38": "impose"
+},
+{
+"e26": "impossible",
+"e23": "impossible",
+"xh38": "impasibl"
+},
+{
+"e26": "impress",
+"e23": "impress",
+"xh38": "impres"
+},
+{
+"e26": "impression",
+"e23": "impression",
+"xh38": "imprxiSn"
+},
+{
+"e26": "impressive",
+"e23": "impressiwe",
+"xh38": "impressiwe"
+},
+{
+"e26": "improve",
+"e23": "improwe",
+"xh38": "impruw"
+},
+{
+"e26": "improvement",
+"e23": "improwement",
+"xh38": "impruwment"
+},
+{
+"e26": "in",
+"e23": "in",
+"xh38": "in"
+},
+{
+"e26": "incentive",
+"e23": "incentiwe",
+"xh38": "insentiw"
+},
+{
+"e26": "incident",
+"e23": "incident",
+"xh38": "insident"
+},
+{
+"e26": "include",
+"e23": "include",
+"xh38": "inklude"
+},
+{
+"e26": "including",
+"e23": "including",
+"xh38": "inkludiNg"
+},
+{
+"e26": "income",
+"e23": "income",
+"xh38": "inkm"
+},
+{
+"e26": "incorporate",
+"e23": "incorporate",
+"xh38": "iNkarporje"
+},
+{
+"e26": "increase",
+"e23": "increase",
+"xh38": "inkris"
+},
+{
+"e26": "increased",
+"e23": "increased",
+"xh38": "iNkrised"
+},
+{
+"e26": "increasing",
+"e23": "increasing",
+"xh38": "inkrexsiNg"
+},
+{
+"e26": "increasingly",
+"e23": "increasingly",
+"xh38": "inkrexsiNgly"
+},
+{
+"e26": "incredible",
+"e23": "incredible",
+"xh38": "inkredibl"
+},
+{
+"e26": "indeed",
+"e23": "indeed",
+"xh38": "indid"
+},
+{
+"e26": "independence",
+"e23": "independence",
+"xh38": "indipendens"
+},
+{
+"e26": "independent",
+"e23": "independent",
+"xh38": "indipendent"
+},
+{
+"e26": "index",
+"e23": "index",
+"xh38": "indeks"
+},
+{
+"e26": "indian",
+"e23": "indian",
+"xh38": "indiyn"
+},
+{
+"e26": "indicate",
+"e23": "indicate",
+"xh38": "indiket"
+},
+{
+"e26": "indication",
+"e23": "indication",
+"xh38": "indikeSn"
+},
+{
+"e26": "individual",
+"e23": "indiwidual",
+"xh38": "indiwizuxl"
+},
+{
+"e26": "industrial",
+"e23": "industrial",
+"xh38": "indstriyl"
+},
+{
+"e26": "industry",
+"e23": "industry",
+"xh38": "indstri"
+},
+{
+"e26": "infant",
+"e23": "infant",
+"xh38": "infent"
+},
+{
+"e26": "infection",
+"e23": "infection",
+"xh38": "infekSn"
+},
+{
+"e26": "inflation",
+"e23": "inflation",
+"xh38": "infleSn"
+},
+{
+"e26": "influence",
+"e23": "influence",
+"xh38": "influens"
+},
+{
+"e26": "inform",
+"e23": "inform",
+"xh38": "infarm"
+},
+{
+"e26": "information",
+"e23": "information",
+"xh38": "infarmeSn"
+},
+{
+"e26": "ingredient",
+"e23": "ingredient",
+"xh38": "iNgredient"
+},
+{
+"e26": "initial",
+"e23": "initial",
+"xh38": "iniSiyl"
+},
+{
+"e26": "initially",
+"e23": "initially",
+"xh38": "inijiklli"
+},
+{
+"e26": "initiative",
+"e23": "initiatiwe",
+"xh38": "iniSietiw"
+},
+{
+"e26": "injury",
+"e23": "inzury",
+"xh38": "inzri"
+},
+{
+"e26": "inner",
+"e23": "inner",
+"xh38": "inr"
+},
+{
+"e26": "innocent",
+"e23": "innocent",
+"xh38": "inosent"
+},
+{
+"e26": "inquiry",
+"e23": "inkuiry",
+"xh38": "inkwayri"
+},
+{
+"e26": "inside",
+"e23": "inside",
+"xh38": "insaid"
+},
+{
+"e26": "insight",
+"e23": "insight",
+"xh38": "insait"
+},
+{
+"e26": "insist",
+"e23": "insist",
+"xh38": "insist"
+},
+{
+"e26": "inspire",
+"e23": "inspire",
+"xh38": "inspire"
+},
+{
+"e26": "install",
+"e23": "install",
+"xh38": "instal"
+},
+{
+"e26": "instance",
+"e23": "instance",
+"xh38": "instxins"
+},
+{
+"e26": "instead",
+"e23": "instead",
+"xh38": "insted"
+},
+{
+"e26": "institution",
+"e23": "institution",
+"xh38": "instituSn"
+},
+{
+"e26": "institutional",
+"e23": "institutional",
+"xh38": "instituSnl"
+},
+{
+"e26": "instruction",
+"e23": "instruction",
+"xh38": "instrkSn"
+},
+{
+"e26": "instructor",
+"e23": "instructor",
+"xh38": "instrktr"
+},
+{
+"e26": "instrument",
+"e23": "instrument",
+"xh38": "instrument"
+},
+{
+"e26": "insurance",
+"e23": "insurance",
+"xh38": "inSurns"
+},
+{
+"e26": "intellectual",
+"e23": "intellectual",
+"xh38": "intelekcuxl"
+},
+{
+"e26": "intelligence",
+"e23": "intelligence",
+"xh38": "intelizens"
+},
+{
+"e26": "intend",
+"e23": "intend",
+"xh38": "intend"
+},
+{
+"e26": "intense",
+"e23": "intense",
+"xh38": "intens"
+},
+{
+"e26": "intensity",
+"e23": "intensity",
+"xh38": "intensiti"
+},
+{
+"e26": "intention",
+"e23": "intention",
+"xh38": "intenSn"
+},
+{
+"e26": "interaction",
+"e23": "interaction",
+"xh38": "intrekSn"
+},
+{
+"e26": "interest",
+"e23": "interest",
+"xh38": "intrest"
+},
+{
+"e26": "interested",
+"e23": "interested",
+"xh38": "intrested"
+},
+{
+"e26": "interesting",
+"e23": "interesting",
+"xh38": "intrestiNg"
+},
+{
+"e26": "internal",
+"e23": "internal",
+"xh38": "intrnl"
+},
+{
+"e26": "international",
+"e23": "international",
+"xh38": "intrneSnl"
+},
+{
+"e26": "internet",
+"e23": "internet",
+"xh38": "intrnet"
+},
+{
+"e26": "interpret",
+"e23": "interpret",
+"xh38": "intrpret"
+},
+{
+"e26": "interpretation",
+"e23": "interpretation",
+"xh38": "intrpriteSn"
+},
+{
+"e26": "intervention",
+"e23": "interwention",
+"xh38": "intrwenSn"
+},
+{
+"e26": "interview",
+"e23": "interwiew",
+"xh38": "intrwyu"
+},
+{
+"e26": "into",
+"e23": "into",
+"xh38": "into"
+},
+{
+"e26": "introduce",
+"e23": "introduce",
+"xh38": "introds"
+},
+{
+"e26": "introduction",
+"e23": "introduction",
+"xh38": "introdkSn"
+},
+{
+"e26": "invasion",
+"e23": "inwasion",
+"xh38": "inwasio"
+},
+{
+"e26": "invest",
+"e23": "inweist",
+"xh38": "inwest"
+},
+{
+"e26": "investigate",
+"e23": "inweistigate",
+"xh38": "inwestiget"
+},
+{
+"e26": "investigation",
+"e23": "inweistigation",
+"xh38": "inwestigeSn"
+},
+{
+"e26": "investigator",
+"e23": "inweistigator",
+"xh38": "inwestigetr"
+},
+{
+"e26": "investment",
+"e23": "inweistment",
+"xh38": "inwestment"
+},
+{
+"e26": "investor",
+"e23": "inweistor",
+"xh38": "inwestr"
+},
+{
+"e26": "invite",
+"e23": "inwite",
+"xh38": "inwije"
+},
+{
+"e26": "involve",
+"e23": "inwolwe",
+"xh38": "inwalw"
+},
+{
+"e26": "involved",
+"e23": "inwolwed",
+"xh38": "inwolweq"
+},
+{
+"e26": "involvement",
+"e23": "inwolwement",
+"xh38": "inwalwment"
+},
+{
+"e26": "iraqi",
+"e23": "iraki",
+"xh38": "iraki"
+},
+{
+"e26": "irish",
+"e23": "irish",
+"xh38": "xayriS"
+},
+{
+"e26": "iron",
+"e23": "iron",
+"xh38": "xayrn"
+},
+{
+"e26": "islamic",
+"e23": "islamic",
+"xh38": "islamik"
+},
+{
+"e26": "island",
+"e23": "island",
+"xh38": "xailxind"
+},
+{
+"e26": "israeli",
+"e23": "israeli",
+"xh38": "israyli"
+},
+{
+"e26": "issue",
+"e23": "issue",
+"xh38": "iSu"
+},
+{
+"e26": "it",
+"e23": "it",
+"xh38": "xaiti"
+},
+{
+"e26": "italian",
+"e23": "italian",
+"xh38": "ijaliyn"
+},
+{
+"e26": "item",
+"e23": "item",
+"xh38": "xaitm"
+},
+{
+"e26": "its",
+"e23": "its",
+"xh38": "ijs"
+},
+{
+"e26": "itself",
+"e23": "itself",
+"xh38": "itself"
+},
+{
+"e26": "jacket",
+"e23": "zacket",
+"xh38": "zxiket"
+},
+{
+"e26": "jail",
+"e23": "zail",
+"xh38": "zel"
+},
+{
+"e26": "japanese",
+"e23": "zapanese",
+"xh38": "zapaniz"
+},
+{
+"e26": "jet",
+"e23": "zet",
+"xh38": "zet"
+},
+{
+"e26": "jew",
+"e23": "zew",
+"xh38": "ziw"
+},
+{
+"e26": "jewish",
+"e23": "zewish",
+"xh38": "zyuiS"
+},
+{
+"e26": "job",
+"e23": "zob",
+"xh38": "zab"
+},
+{
+"e26": "join",
+"e23": "zoin",
+"xh38": "zwain"
+},
+{
+"e26": "joint",
+"e23": "zoint",
+"xh38": "zaint"
+},
+{
+"e26": "joke",
+"e23": "zoke",
+"xh38": "zoke"
+},
+{
+"e26": "journal",
+"e23": "zournal",
+"xh38": "zrnl"
+},
+{
+"e26": "journalist",
+"e23": "zournalist",
+"xh38": "zournalist"
+},
+{
+"e26": "journey",
+"e23": "zourney",
+"xh38": "zrni"
+},
+{
+"e26": "joy",
+"e23": "zoy",
+"xh38": "zay"
+},
+{
+"e26": "judge",
+"e23": "zudge",
+"xh38": "zz"
+},
+{
+"e26": "judgment",
+"e23": "zudgment",
+"xh38": "zuqgment"
+},
+{
+"e26": "juice",
+"e23": "zuice",
+"xh38": "zus"
+},
+{
+"e26": "jump",
+"e23": "zump",
+"xh38": "zmp"
+},
+{
+"e26": "junior",
+"e23": "zunior",
+"xh38": "zuniyr"
+},
+{
+"e26": "jury",
+"e23": "zury",
+"xh38": "zuri"
+},
+{
+"e26": "just",
+"e23": "zust",
+"xh38": "zst"
+},
+{
+"e26": "justice",
+"e23": "zustice",
+"xh38": "zstis"
+},
+{
+"e26": "justify",
+"e23": "zustify",
+"xh38": "zstifai"
+},
+{
+"e26": "keep",
+"e23": "keep",
+"xh38": "kip"
+},
+{
+"e26": "key",
+"e23": "key",
+"xh38": "ke"
+},
+{
+"e26": "kick",
+"e23": "kick",
+"xh38": "kik"
+},
+{
+"e26": "kid",
+"e23": "kid",
+"xh38": "kiQ"
+},
+{
+"e26": "kill",
+"e23": "kill",
+"xh38": "kil"
+},
+{
+"e26": "killer",
+"e23": "killer",
+"xh38": "kilr"
+},
+{
+"e26": "killing",
+"e23": "killing",
+"xh38": "kiliNg"
+},
+{
+"e26": "kind",
+"e23": "kind",
+"xh38": "kaind"
+},
+{
+"e26": "king",
+"e23": "king",
+"xh38": "kiNg"
+},
+{
+"e26": "kiss",
+"e23": "kiss",
+"xh38": "kiS"
+},
+{
+"e26": "kitchen",
+"e23": "kitchen",
+"xh38": "kicn"
+},
+{
+"e26": "knee",
+"e23": "knee",
+"xh38": "kni"
+},
+{
+"e26": "knife",
+"e23": "knife",
+"xh38": "naif"
+},
+{
+"e26": "knock",
+"e23": "knock",
+"xh38": "nak"
+},
+{
+"e26": "know",
+"e23": "know",
+"xh38": "know"
+},
+{
+"e26": "knowledge",
+"e23": "knowledge",
+"xh38": "nalez"
+},
+{
+"e26": "lab",
+"e23": "lab",
+"xh38": "lxib"
+},
+{
+"e26": "label",
+"e23": "label",
+"xh38": "lebl"
+},
+{
+"e26": "labor",
+"e23": "labor",
+"xh38": "lbor"
+},
+{
+"e26": "laboratory",
+"e23": "laboratory",
+"xh38": "leboretri"
+},
+{
+"e26": "lack",
+"e23": "lack",
+"xh38": "lॅk"
+},
+{
+"e26": "lady",
+"e23": "lady",
+"xh38": "ledi"
+},
+{
+"e26": "lake",
+"e23": "lake",
+"xh38": "lek"
+},
+{
+"e26": "land",
+"e23": "land",
+"xh38": "lxind"
+},
+{
+"e26": "landscape",
+"e23": "landscape",
+"xh38": "lxindskep"
+},
+{
+"e26": "language",
+"e23": "language",
+"xh38": "lxiNgwez"
+},
+{
+"e26": "lap",
+"e23": "lap",
+"xh38": "lxip"
+},
+{
+"e26": "large",
+"e23": "large",
+"xh38": "larz"
+},
+{
+"e26": "largely",
+"e23": "largely",
+"xh38": "lgeli"
+},
+{
+"e26": "last",
+"e23": "last",
+"xh38": "last"
+},
+{
+"e26": "late",
+"e23": "late",
+"xh38": "let"
+},
+{
+"e26": "later",
+"e23": "later",
+"xh38": "letr"
+},
+{
+"e26": "latin",
+"e23": "latin",
+"xh38": "lxitin"
+},
+{
+"e26": "latter",
+"e23": "latter",
+"xh38": "ljjer"
+},
+{
+"e26": "laugh",
+"e23": "laugh",
+"xh38": "laf"
+},
+{
+"e26": "launch",
+"e23": "launch",
+"xh38": "lanc"
+},
+{
+"e26": "law",
+"e23": "law",
+"xh38": "la"
+},
+{
+"e26": "lawn",
+"e23": "lawn",
+"xh38": "lan"
+},
+{
+"e26": "lawsuit",
+"e23": "lawsuit",
+"xh38": "lawsuit"
+},
+{
+"e26": "lawyer",
+"e23": "lawyer",
+"xh38": "layr"
+},
+{
+"e26": "lay",
+"e23": "lay",
+"xh38": "le"
+},
+{
+"e26": "layer",
+"e23": "layer",
+"xh38": "leyr"
+},
+{
+"e26": "lead",
+"e23": "lead",
+"xh38": "lid"
+},
+{
+"e26": "leader",
+"e23": "leader",
+"xh38": "lidr"
+},
+{
+"e26": "leadership",
+"e23": "leadership",
+"xh38": "lidrSip"
+},
+{
+"e26": "leading",
+"e23": "leading",
+"xh38": "lidiNg"
+},
+{
+"e26": "leaf",
+"e23": "leaf",
+"xh38": "lif"
+},
+{
+"e26": "league",
+"e23": "league",
+"xh38": "lig"
+},
+{
+"e26": "lean",
+"e23": "lean",
+"xh38": "lexn"
+},
+{
+"e26": "learn",
+"e23": "learn",
+"xh38": "lrn"
+},
+{
+"e26": "learning",
+"e23": "learning",
+"xh38": "lrniNg"
+},
+{
+"e26": "least",
+"e23": "least",
+"xh38": "list"
+},
+{
+"e26": "leather",
+"e23": "leather",
+"xh38": "laTr"
+},
+{
+"e26": "leave",
+"e23": "leawe",
+"xh38": "liw"
+},
+{
+"e26": "left",
+"e23": "left",
+"xh38": "left"
+},
+{
+"e26": "leg",
+"e23": "leg",
+"xh38": "leg"
+},
+{
+"e26": "legacy",
+"e23": "legacy",
+"xh38": "ligesi"
+},
+{
+"e26": "legal",
+"e23": "legal",
+"xh38": "ligl"
+},
+{
+"e26": "legend",
+"e23": "legend",
+"xh38": "lizend"
+},
+{
+"e26": "legislation",
+"e23": "legislation",
+"xh38": "lezisleSn"
+},
+{
+"e26": "legitimate",
+"e23": "legitimate",
+"xh38": "legijimaje"
+},
+{
+"e26": "lemon",
+"e23": "lemon",
+"xh38": "lemn"
+},
+{
+"e26": "length",
+"e23": "length",
+"xh38": "lenJ"
+},
+{
+"e26": "less",
+"e23": "less",
+"xh38": "less"
+},
+{
+"e26": "lesson",
+"e23": "lesson",
+"xh38": "lesn"
+},
+{
+"e26": "let",
+"e23": "let",
+"xh38": "let"
+},
+{
+"e26": "letter",
+"e23": "letter",
+"xh38": "letr"
+},
+{
+"e26": "level",
+"e23": "lewel",
+"xh38": "lewl"
+},
+{
+"e26": "liberal",
+"e23": "liberal",
+"xh38": "librl"
+},
+{
+"e26": "library",
+"e23": "library",
+"xh38": "laibreri"
+},
+{
+"e26": "license",
+"e23": "license",
+"xh38": "laisens"
+},
+{
+"e26": "lie",
+"e23": "lie",
+"xh38": "lie"
+},
+{
+"e26": "life",
+"e23": "life",
+"xh38": "laif"
+},
+{
+"e26": "lifestyle",
+"e23": "lifestyle",
+"xh38": "laifstail"
+},
+{
+"e26": "lifetime",
+"e23": "lifetime",
+"xh38": "laiftaim"
+},
+{
+"e26": "lift",
+"e23": "lift",
+"xh38": "lift"
+},
+{
+"e26": "light",
+"e23": "light",
+"xh38": "lait"
+},
+{
+"e26": "like",
+"e23": "like",
+"xh38": "liKe"
+},
+{
+"e26": "likely",
+"e23": "likely",
+"xh38": "likely"
+},
+{
+"e26": "limit",
+"e23": "limit",
+"xh38": "limit"
+},
+{
+"e26": "limitation",
+"e23": "limitation",
+"xh38": "limiteSn"
+},
+{
+"e26": "limited",
+"e23": "limited",
+"xh38": "limited"
+},
+{
+"e26": "line",
+"e23": "line",
+"xh38": "lain"
+},
+{
+"e26": "link",
+"e23": "link",
+"xh38": "liNk"
+},
+{
+"e26": "lip",
+"e23": "lip",
+"xh38": "lip"
+},
+{
+"e26": "list",
+"e23": "list",
+"xh38": "list"
+},
+{
+"e26": "listen",
+"e23": "listen",
+"xh38": "lisen"
+},
+{
+"e26": "literally",
+"e23": "literally",
+"xh38": "literally"
+},
+{
+"e26": "literary",
+"e23": "literary",
+"xh38": "litreri"
+},
+{
+"e26": "literature",
+"e23": "literature",
+"xh38": "litrecr"
+},
+{
+"e26": "little",
+"e23": "little",
+"xh38": "litil"
+},
+{
+"e26": "live",
+"e23": "liwe",
+"xh38": "laiw"
+},
+{
+"e26": "living",
+"e23": "liwing",
+"xh38": "liwiNg"
+},
+{
+"e26": "load",
+"e23": "load",
+"xh38": "lod"
+},
+{
+"e26": "loan",
+"e23": "loan",
+"xh38": "lon"
+},
+{
+"e26": "local",
+"e23": "local",
+"xh38": "lokl"
+},
+{
+"e26": "locate",
+"e23": "locate",
+"xh38": "loket"
+},
+{
+"e26": "location",
+"e23": "location",
+"xh38": "lokeSn"
+},
+{
+"e26": "lock",
+"e23": "lock",
+"xh38": "lak"
+},
+{
+"e26": "long",
+"e23": "long",
+"xh38": "lang"
+},
+{
+"e26": "long-term",
+"e23": "long-term",
+"xh38": "lang-trm"
+},
+{
+"e26": "look",
+"e23": "look",
+"xh38": "luk"
+},
+{
+"e26": "loose",
+"e23": "loose",
+"xh38": "luse"
+},
+{
+"e26": "lose",
+"e23": "lose",
+"xh38": "luज़"
+},
+{
+"e26": "loss",
+"e23": "loss",
+"xh38": "loss"
+},
+{
+"e26": "lost",
+"e23": "lost",
+"xh38": "last"
+},
+{
+"e26": "lot",
+"e23": "lot",
+"xh38": "lot"
+},
+{
+"e26": "lots",
+"e23": "lots",
+"xh38": "lats"
+},
+{
+"e26": "loud",
+"e23": "loud",
+"xh38": "laud"
+},
+{
+"e26": "love",
+"e23": "lowe",
+"xh38": "lw"
+},
+{
+"e26": "lovely",
+"e23": "lowely",
+"xh38": "lwli"
+},
+{
+"e26": "lover",
+"e23": "lwxr",
+"xh38": "lwr"
+},
+{
+"e26": "low",
+"e23": "low",
+"xh38": "lou"
+},
+{
+"e26": "lower",
+"e23": "lower",
+"xh38": "loxr"
+},
+{
+"e26": "luck",
+"e23": "luck",
+"xh38": "lk"
+},
+{
+"e26": "lucky",
+"e23": "lucky",
+"xh38": "lki"
+},
+{
+"e26": "lunch",
+"e23": "lunch",
+"xh38": "lnc"
+},
+{
+"e26": "lung",
+"e23": "lung",
+"xh38": "lNg"
+},
+{
+"e26": "machine",
+"e23": "machine",
+"xh38": "mSin"
+},
+{
+"e26": "mad",
+"e23": "mad",
+"xh38": "maQ"
+},
+{
+"e26": "magazine",
+"e23": "magazine",
+"xh38": "mxigज़in"
+},
+{
+"e26": "mail",
+"e23": "mail",
+"xh38": "mel"
+},
+{
+"e26": "main",
+"e23": "main",
+"xh38": "mxi"
+},
+{
+"e26": "mainly",
+"e23": "mainly",
+"xh38": "mxinli"
+},
+{
+"e26": "maintain",
+"e23": "maintain",
+"xh38": "menten"
+},
+{
+"e26": "maintenance",
+"e23": "maintenance",
+"xh38": "mentenens"
+},
+{
+"e26": "major",
+"e23": "mazor",
+"xh38": "mezr"
+},
+{
+"e26": "majority",
+"e23": "mazority",
+"xh38": "mezoriti"
+},
+{
+"e26": "make",
+"e23": "make",
+"xh38": "mek"
+},
+{
+"e26": "maker",
+"e23": "maker",
+"xh38": "mekr"
+},
+{
+"e26": "makeup",
+"e23": "makeup",
+"xh38": "mekxp"
+},
+{
+"e26": "male",
+"e23": "male",
+"xh38": "mel"
+},
+{
+"e26": "mall",
+"e23": "mall",
+"xh38": "mal"
+},
+{
+"e26": "man",
+"e23": "man",
+"xh38": "mn"
+},
+{
+"e26": "manage",
+"e23": "manage",
+"xh38": "mxinez"
+},
+{
+"e26": "management",
+"e23": "management",
+"xh38": "mxinezment"
+},
+{
+"e26": "manager",
+"e23": "manager",
+"xh38": "mxinezr"
+},
+{
+"e26": "manner",
+"e23": "manner",
+"xh38": "mnner"
+},
+{
+"e26": "manufacturer",
+"e23": "manufacturer",
+"xh38": "mxinyufxikcrr"
+},
+{
+"e26": "manufacturing",
+"e23": "manufacturing",
+"xh38": "mxinyufxikcriNg"
+},
+{
+"e26": "many",
+"e23": "many",
+"xh38": "many"
+},
+{
+"e26": "map",
+"e23": "map",
+"xh38": "mxip"
+},
+{
+"e26": "margin",
+"e23": "margin",
+"xh38": "marzin"
+},
+{
+"e26": "mark",
+"e23": "mark",
+"xh38": "mark"
+},
+{
+"e26": "market",
+"e23": "market",
+"xh38": "markit"
+},
+{
+"e26": "marketing",
+"e23": "marketing",
+"xh38": "marketiNg"
+},
+{
+"e26": "marriage",
+"e23": "marriage",
+"xh38": "mxiriz"
+},
+{
+"e26": "married",
+"e23": "married",
+"xh38": "mxirid"
+},
+{
+"e26": "marry",
+"e23": "marry",
+"xh38": "mrri"
+},
+{
+"e26": "mask",
+"e23": "mask",
+"xh38": "mask"
+},
+{
+"e26": "mass",
+"e23": "mass",
+"xh38": "mass"
+},
+{
+"e26": "massive",
+"e23": "massiwe",
+"xh38": "mxisiw"
+},
+{
+"e26": "master",
+"e23": "master",
+"xh38": "mastr"
+},
+{
+"e26": "match",
+"e23": "match",
+"xh38": "mxic"
+},
+{
+"e26": "material",
+"e23": "material",
+"xh38": "mteriyl"
+},
+{
+"e26": "math",
+"e23": "math",
+"xh38": "mxiJ"
+},
+{
+"e26": "matter",
+"e23": "matter",
+"xh38": "mtr"
+},
+{
+"e26": "may",
+"e23": "may",
+"xh38": "myi"
+},
+{
+"e26": "maybe",
+"e23": "maybe",
+"xh38": "mybe"
+},
+{
+"e26": "mayor",
+"e23": "mayor",
+"xh38": "meyr"
+},
+{
+"e26": "me",
+"e23": "me",
+"xh38": "me"
+},
+{
+"e26": "meal",
+"e23": "meal",
+"xh38": "mil"
+},
+{
+"e26": "mean",
+"e23": "mean",
+"xh38": "mxi"
+},
+{
+"e26": "meaning",
+"e23": "meaning",
+"xh38": "miniNg"
+},
+{
+"e26": "meanwhile",
+"e23": "meanwhile",
+"xh38": "mxinwvile"
+},
+{
+"e26": "measure",
+"e23": "measure",
+"xh38": "mxisur"
+},
+{
+"e26": "measurement",
+"e23": "measurement",
+"xh38": "meज़rment"
+},
+{
+"e26": "meat",
+"e23": "meat",
+"xh38": "mit"
+},
+{
+"e26": "mechanism",
+"e23": "mechanism",
+"xh38": "mxikenizm"
+},
+{
+"e26": "media",
+"e23": "media",
+"xh38": "midiya"
+},
+{
+"e26": "medical",
+"e23": "medical",
+"xh38": "medikl"
+},
+{
+"e26": "medication",
+"e23": "medication",
+"xh38": "medikeSn"
+},
+{
+"e26": "medicine",
+"e23": "medicine",
+"xh38": "medisin"
+},
+{
+"e26": "medium",
+"e23": "medium",
+"xh38": "mQym"
+},
+{
+"e26": "meet",
+"e23": "meet",
+"xh38": "mit"
+},
+{
+"e26": "meeting",
+"e23": "meeting",
+"xh38": "mitiNg"
+},
+{
+"e26": "member",
+"e23": "member",
+"xh38": "membr"
+},
+{
+"e26": "membership",
+"e23": "membership",
+"xh38": "membrSip"
+},
+{
+"e26": "memory",
+"e23": "memory",
+"xh38": "memori"
+},
+{
+"e26": "mental",
+"e23": "mental",
+"xh38": "mentl"
+},
+{
+"e26": "mention",
+"e23": "mention",
+"xh38": "menSn"
+},
+{
+"e26": "menu",
+"e23": "menu",
+"xh38": "menu"
+},
+{
+"e26": "mere",
+"e23": "mere",
+"xh38": "mere"
+},
+{
+"e26": "merely",
+"e23": "merely",
+"xh38": "merely"
+},
+{
+"e26": "mess",
+"e23": "mess",
+"xh38": "mes"
+},
+{
+"e26": "message",
+"e23": "message",
+"xh38": "mxisez"
+},
+{
+"e26": "metal",
+"e23": "metal",
+"xh38": "metl"
+},
+{
+"e26": "meter",
+"e23": "meter",
+"xh38": "mitr"
+},
+{
+"e26": "method",
+"e23": "method",
+"xh38": "meJd"
+},
+{
+"e26": "mexican",
+"e23": "mexican",
+"xh38": "meksikn"
+},
+{
+"e26": "middle",
+"e23": "middle",
+"xh38": "midil"
+},
+{
+"e26": "might",
+"e23": "might",
+"xh38": "migvj"
+},
+{
+"e26": "military",
+"e23": "military",
+"xh38": "militri"
+},
+{
+"e26": "milk",
+"e23": "milk",
+"xh38": "milk"
+},
+{
+"e26": "million",
+"e23": "million",
+"xh38": "miliyn"
+},
+{
+"e26": "mind",
+"e23": "mind",
+"xh38": "mnq"
+},
+{
+"e26": "mine",
+"e23": "mine",
+"xh38": "main"
+},
+{
+"e26": "minister",
+"e23": "minister",
+"xh38": "ministr"
+},
+{
+"e26": "minor",
+"e23": "minor",
+"xh38": "mainr"
+},
+{
+"e26": "minority",
+"e23": "minority",
+"xh38": "mainariti"
+},
+{
+"e26": "minute",
+"e23": "minute",
+"xh38": "mint"
+},
+{
+"e26": "miracle",
+"e23": "miracle",
+"xh38": "mirekl"
+},
+{
+"e26": "mirror",
+"e23": "mirror",
+"xh38": "mirr"
+},
+{
+"e26": "miss",
+"e23": "miss",
+"xh38": "mis"
+},
+{
+"e26": "missile",
+"e23": "missile",
+"xh38": "misail"
+},
+{
+"e26": "mission",
+"e23": "mission",
+"xh38": "miSn"
+},
+{
+"e26": "mistake",
+"e23": "mistake",
+"xh38": "mistek"
+},
+{
+"e26": "mix",
+"e23": "mix",
+"xh38": "miks"
+},
+{
+"e26": "mixture",
+"e23": "mixture",
+"xh38": "mikscr"
+},
+{
+"e26": "mm-hmm",
+"e23": "mm-hmm",
+"xh38": "mm-vmm"
+},
+{
+"e26": "mode",
+"e23": "mode",
+"xh38": "mod"
+},
+{
+"e26": "model",
+"e23": "model",
+"xh38": "madl"
+},
+{
+"e26": "moderate",
+"e23": "moderate",
+"xh38": "madret"
+},
+{
+"e26": "modern",
+"e23": "modern",
+"xh38": "madrn"
+},
+{
+"e26": "modest",
+"e23": "modest",
+"xh38": "madest"
+},
+{
+"e26": "mom",
+"e23": "mom",
+"xh38": "ma"
+},
+{
+"e26": "moment",
+"e23": "moment",
+"xh38": "moment"
+},
+{
+"e26": "money",
+"e23": "money",
+"xh38": "mni"
+},
+{
+"e26": "monitor",
+"e23": "monitor",
+"xh38": "manitr"
+},
+{
+"e26": "month",
+"e23": "month",
+"xh38": "mnJ"
+},
+{
+"e26": "mood",
+"e23": "mood",
+"xh38": "mud"
+},
+{
+"e26": "moon",
+"e23": "moon",
+"xh38": "mun"
+},
+{
+"e26": "moral",
+"e23": "moral",
+"xh38": "morl"
+},
+{
+"e26": "more",
+"e23": "more",
+"xh38": "more"
+},
+{
+"e26": "moreover",
+"e23": "moreower",
+"xh38": "morewr"
+},
+{
+"e26": "morning",
+"e23": "morning",
+"xh38": "marniNg"
+},
+{
+"e26": "mortgage",
+"e23": "mortgage",
+"xh38": "margez"
+},
+{
+"e26": "most",
+"e23": "most",
+"xh38": "most"
+},
+{
+"e26": "mostly",
+"e23": "mostly",
+"xh38": "mostli"
+},
+{
+"e26": "mother",
+"e23": "mother",
+"xh38": "mqr"
+},
+{
+"e26": "motion",
+"e23": "motion",
+"xh38": "moSn"
+},
+{
+"e26": "motivation",
+"e23": "motiwation",
+"xh38": "motiweSn"
+},
+{
+"e26": "motor",
+"e23": "motor",
+"xh38": "motr"
+},
+{
+"e26": "mount",
+"e23": "mount",
+"xh38": "maunt"
+},
+{
+"e26": "mountain",
+"e23": "mountain",
+"xh38": "maunten"
+},
+{
+"e26": "mouse",
+"e23": "mouse",
+"xh38": "maus"
+},
+{
+"e26": "mouth",
+"e23": "mouth",
+"xh38": "mauJ"
+},
+{
+"e26": "move",
+"e23": "mowe",
+"xh38": "muw"
+},
+{
+"e26": "movement",
+"e23": "mowement",
+"xh38": "muwment"
+},
+{
+"e26": "movie",
+"e23": "mowie",
+"xh38": "muwi"
+},
+{
+"e26": "mr",
+"e23": "mr",
+"xh38": "mr"
+},
+{
+"e26": "mrs",
+"e23": "mrs",
+"xh38": "mrs"
+},
+{
+"e26": "ms",
+"e23": "ms",
+"xh38": "ms"
+},
+{
+"e26": "much",
+"e23": "much",
+"xh38": "mc"
+},
+{
+"e26": "multiple",
+"e23": "multiple",
+"xh38": "mltipl"
+},
+{
+"e26": "murder",
+"e23": "murder",
+"xh38": "mrdr"
+},
+{
+"e26": "muscle",
+"e23": "muscle",
+"xh38": "muskle"
+},
+{
+"e26": "museum",
+"e23": "museum",
+"xh38": "myuziym"
+},
+{
+"e26": "music",
+"e23": "music",
+"xh38": "myuzik"
+},
+{
+"e26": "musical",
+"e23": "musical",
+"xh38": "myuzikl"
+},
+{
+"e26": "musician",
+"e23": "musician",
+"xh38": "myuziSiyn"
+},
+{
+"e26": "muslim",
+"e23": "muslim",
+"xh38": "muslim"
+},
+{
+"e26": "must",
+"e23": "must",
+"xh38": "mst"
+},
+{
+"e26": "mutual",
+"e23": "mutual",
+"xh38": "myucyuxl"
+},
+{
+"e26": "my",
+"e23": "my",
+"xh38": "may"
+},
+{
+"e26": "myself",
+"e23": "myself",
+"xh38": "maiself"
+},
+{
+"e26": "mystery",
+"e23": "mystery",
+"xh38": "mistri"
+},
+{
+"e26": "myth",
+"e23": "myth",
+"xh38": "miJ"
+},
+{
+"e26": "naked",
+"e23": "naked",
+"xh38": "neked"
+},
+{
+"e26": "name",
+"e23": "name",
+"xh38": "nam"
+},
+{
+"e26": "narrative",
+"e23": "narratiwe",
+"xh38": "nxiretiw"
+},
+{
+"e26": "narrow",
+"e23": "narrow",
+"xh38": "nxiro"
+},
+{
+"e26": "nation",
+"e23": "nation",
+"xh38": "neSn"
+},
+{
+"e26": "national",
+"e23": "national",
+"xh38": "neSnl"
+},
+{
+"e26": "native",
+"e23": "natiwe",
+"xh38": "netiw"
+},
+{
+"e26": "natural",
+"e23": "natural",
+"xh38": "necurl"
+},
+{
+"e26": "naturally",
+"e23": "naturally",
+"xh38": "nxicurli"
+},
+{
+"e26": "nature",
+"e23": "nature",
+"xh38": "necr"
+},
+{
+"e26": "near",
+"e23": "near",
+"xh38": "niyr"
+},
+{
+"e26": "nearby",
+"e23": "nearby",
+"xh38": "nexrbi"
+},
+{
+"e26": "nearly",
+"e23": "nearly",
+"xh38": "nexrly"
+},
+{
+"e26": "necessarily",
+"e23": "necessarily",
+"xh38": "nesessrily"
+},
+{
+"e26": "necessary",
+"e23": "necessary",
+"xh38": "nesesri"
+},
+{
+"e26": "neck",
+"e23": "neck",
+"xh38": "nxik"
+},
+{
+"e26": "need",
+"e23": "need",
+"xh38": "nid"
+},
+{
+"e26": "negative",
+"e23": "negatiwe",
+"xh38": "negetiw"
+},
+{
+"e26": "negotiate",
+"e23": "negotiate",
+"xh38": "nigoSiet"
+},
+{
+"e26": "negotiation",
+"e23": "negotiation",
+"xh38": "negotieSn"
+},
+{
+"e26": "neighbor",
+"e23": "neighbor",
+"xh38": "nebr"
+},
+{
+"e26": "neighborhood",
+"e23": "neighborhood",
+"xh38": "nebrvud"
+},
+{
+"e26": "neither",
+"e23": "neither",
+"xh38": "niJr"
+},
+{
+"e26": "nerve",
+"e23": "nerwe",
+"xh38": "nrw"
+},
+{
+"e26": "nervous",
+"e23": "nerwous",
+"xh38": "nrws"
+},
+{
+"e26": "net",
+"e23": "net",
+"xh38": "net"
+},
+{
+"e26": "network",
+"e23": "network",
+"xh38": "netwrk"
+},
+{
+"e26": "never",
+"e23": "nxwxr",
+"xh38": "newr"
+},
+{
+"e26": "nevertheless",
+"e23": "nxwxrtheless",
+"xh38": "newrJeles"
+},
+{
+"e26": "new",
+"e23": "new",
+"xh38": "nyi"
+},
+{
+"e26": "newly",
+"e23": "newly",
+"xh38": "newli"
+},
+{
+"e26": "news",
+"e23": "news",
+"xh38": "nyuज़"
+},
+{
+"e26": "newspaper",
+"e23": "newspaper",
+"xh38": "newspper"
+},
+{
+"e26": "next",
+"e23": "next",
+"xh38": "nekst"
+},
+{
+"e26": "nice",
+"e23": "nice",
+"xh38": "nis"
+},
+{
+"e26": "night",
+"e23": "night",
+"xh38": "nait"
+},
+{
+"e26": "nine",
+"e23": "nine",
+"xh38": "nain"
+},
+{
+"e26": "no",
+"e23": "no",
+"xh38": "no"
+},
+{
+"e26": "nobody",
+"e23": "nobody",
+"xh38": "nobdi"
+},
+{
+"e26": "nod",
+"e23": "nod",
+"xh38": "noq"
+},
+{
+"e26": "noise",
+"e23": "noise",
+"xh38": "naiज़"
+},
+{
+"e26": "nomination",
+"e23": "nomination",
+"xh38": "namineSn"
+},
+{
+"e26": "none",
+"e23": "none",
+"xh38": "none"
+},
+{
+"e26": "nonetheless",
+"e23": "nonetheless",
+"xh38": "noneJles"
+},
+{
+"e26": "nor",
+"e23": "nor",
+"xh38": "nar"
+},
+{
+"e26": "normal",
+"e23": "normal",
+"xh38": "narml"
+},
+{
+"e26": "normally",
+"e23": "normally",
+"xh38": "normlli"
+},
+{
+"e26": "north",
+"e23": "north",
+"xh38": "narJ"
+},
+{
+"e26": "northern",
+"e23": "northern",
+"xh38": "narJern"
+},
+{
+"e26": "nose",
+"e23": "nose",
+"xh38": "noz"
+},
+{
+"e26": "not",
+"e23": "not",
+"xh38": "nat"
+},
+{
+"e26": "note",
+"e23": "note",
+"xh38": "not"
+},
+{
+"e26": "nothing",
+"e23": "nothing",
+"xh38": "nJiNg"
+},
+{
+"e26": "notice",
+"e23": "notice",
+"xh38": "notis"
+},
+{
+"e26": "notion",
+"e23": "notion",
+"xh38": "noSn"
+},
+{
+"e26": "novel",
+"e23": "nowel",
+"xh38": "nawel"
+},
+{
+"e26": "now",
+"e23": "now",
+"xh38": "nau"
+},
+{
+"e26": "nowhere",
+"e23": "nowhere",
+"xh38": "noweyr"
+},
+{
+"e26": "n’t",
+"e23": "n’t",
+"xh38": "n’ti"
+},
+{
+"e26": "nuclear",
+"e23": "nuclear",
+"xh38": "nuklexr"
+},
+{
+"e26": "number",
+"e23": "number",
+"xh38": "nmbr"
+},
+{
+"e26": "numerous",
+"e23": "numerous",
+"xh38": "numerous"
+},
+{
+"e26": "nurse",
+"e23": "nurse",
+"xh38": "nrs"
+},
+{
+"e26": "nut",
+"e23": "nut",
+"xh38": "nuj"
+},
+{
+"e26": "object",
+"e23": "obzect",
+"xh38": "aobzekt"
+},
+{
+"e26": "objective",
+"e23": "obzectiwe",
+"xh38": "aobzektiw"
+},
+{
+"e26": "obligation",
+"e23": "obligation",
+"xh38": "aobligeSn"
+},
+{
+"e26": "observation",
+"e23": "obserwation",
+"xh38": "aobzrweSn"
+},
+{
+"e26": "observe",
+"e23": "obserwe",
+"xh38": "aobserwe"
+},
+{
+"e26": "observer",
+"e23": "obserwer",
+"xh38": "xabzrwr"
+},
+{
+"e26": "obtain",
+"e23": "obtain",
+"xh38": "obje"
+},
+{
+"e26": "obvious",
+"e23": "obwious",
+"xh38": "aobwiys"
+},
+{
+"e26": "obviously",
+"e23": "obwiously",
+"xh38": "aobwiysli"
+},
+{
+"e26": "occasion",
+"e23": "occasion",
+"xh38": "oksasio"
+},
+{
+"e26": "occasionally",
+"e23": "occasionally",
+"xh38": "oksasionlly"
+},
+{
+"e26": "occupation",
+"e23": "occupation",
+"xh38": "aokyupeSn"
+},
+{
+"e26": "occupy",
+"e23": "occupy",
+"xh38": "okupy"
+},
+{
+"e26": "occur",
+"e23": "occur",
+"xh38": "akr"
+},
+{
+"e26": "ocean",
+"e23": "ocean",
+"xh38": "osiyn"
+},
+{
+"e26": "odd",
+"e23": "odd",
+"xh38": "od"
+},
+{
+"e26": "odds",
+"e23": "odds",
+"xh38": "aods"
+},
+{
+"e26": "of",
+"e23": "of",
+"xh38": "aoफ़"
+},
+{
+"e26": "off",
+"e23": "off",
+"xh38": "aof"
+},
+{
+"e26": "offense",
+"e23": "offense",
+"xh38": "aofens"
+},
+{
+"e26": "offensive",
+"e23": "offensiwe",
+"xh38": "offensiwe"
+},
+{
+"e26": "offer",
+"e23": "offer",
+"xh38": "aofr"
+},
+{
+"e26": "office",
+"e23": "office",
+"xh38": "aofis"
+},
+{
+"e26": "officer",
+"e23": "officer",
+"xh38": "xfsr"
+},
+{
+"e26": "official",
+"e23": "official",
+"xh38": "aofisiyl"
+},
+{
+"e26": "often",
+"e23": "often",
+"xh38": "ofje"
+},
+{
+"e26": "oh",
+"e23": "oh",
+"xh38": "ov"
+},
+{
+"e26": "oil",
+"e23": "oil",
+"xh38": "xayl"
+},
+{
+"e26": "ok",
+"e23": "ok",
+"xh38": "oke"
+},
+{
+"e26": "okay",
+"e23": "okay",
+"xh38": "oky"
+},
+{
+"e26": "old",
+"e23": "old",
+"xh38": "old"
+},
+{
+"e26": "olympic",
+"e23": "olympic",
+"xh38": "olimpik"
+},
+{
+"e26": "on",
+"e23": "on",
+"xh38": "o"
+},
+{
+"e26": "once",
+"e23": "once",
+"xh38": "wns"
+},
+{
+"e26": "one",
+"e23": "one",
+"xh38": "one"
+},
+{
+"e26": "ongoing",
+"e23": "ongoing",
+"xh38": "aongoiNg"
+},
+{
+"e26": "onion",
+"e23": "onion",
+"xh38": "xniyn"
+},
+{
+"e26": "online",
+"e23": "online",
+"xh38": "aonlain"
+},
+{
+"e26": "only",
+"e23": "only",
+"xh38": "onli"
+},
+{
+"e26": "onto",
+"e23": "onto",
+"xh38": "onTo"
+},
+{
+"e26": "open",
+"e23": "open",
+"xh38": "opn"
+},
+{
+"e26": "opening",
+"e23": "opening",
+"xh38": "opniNg"
+},
+{
+"e26": "operate",
+"e23": "operate",
+"xh38": "aopret"
+},
+{
+"e26": "operating",
+"e23": "operating",
+"xh38": "aopretiNg"
+},
+{
+"e26": "operation",
+"e23": "operation",
+"xh38": "aopreSn"
+},
+{
+"e26": "operator",
+"e23": "operator",
+"xh38": "aopretr"
+},
+{
+"e26": "opinion",
+"e23": "opinion",
+"xh38": "opiniyn"
+},
+{
+"e26": "opponent",
+"e23": "opponent",
+"xh38": "apponent"
+},
+{
+"e26": "opportunity",
+"e23": "opportunity",
+"xh38": "opporjuniti"
+},
+{
+"e26": "oppose",
+"e23": "oppose",
+"xh38": "oppose"
+},
+{
+"e26": "opposite",
+"e23": "opposite",
+"xh38": "xpozit"
+},
+{
+"e26": "opposition",
+"e23": "opposition",
+"xh38": "opposiSn"
+},
+{
+"e26": "option",
+"e23": "option",
+"xh38": "aopSn"
+},
+{
+"e26": "or",
+"e23": "or",
+"xh38": "our"
+},
+{
+"e26": "orange",
+"e23": "orange",
+"xh38": "aorenz"
+},
+{
+"e26": "order",
+"e23": "order",
+"xh38": "xardr"
+},
+{
+"e26": "ordinary",
+"e23": "ordinary",
+"xh38": "xardinri"
+},
+{
+"e26": "organic",
+"e23": "organic",
+"xh38": "xargenik"
+},
+{
+"e26": "organization",
+"e23": "organization",
+"xh38": "xargenaizeSn"
+},
+{
+"e26": "organize",
+"e23": "organize",
+"xh38": "orgnyize"
+},
+{
+"e26": "orientation",
+"e23": "orientation",
+"xh38": "orienteSn"
+},
+{
+"e26": "origin",
+"e23": "origin",
+"xh38": "orizin"
+},
+{
+"e26": "original",
+"e23": "original",
+"xh38": "orizinl"
+},
+{
+"e26": "originally",
+"e23": "originally",
+"xh38": "oriznli"
+},
+{
+"e26": "other",
+"e23": "other",
+"xh38": "ijr"
+},
+{
+"e26": "others",
+"e23": "others",
+"xh38": "oTers"
+},
+{
+"e26": "otherwise",
+"e23": "otherwise",
+"xh38": "oJerwise"
+},
+{
+"e26": "ought",
+"e23": "ought",
+"xh38": "ouGt"
+},
+{
+"e26": "our",
+"e23": "our",
+"xh38": "xawr"
+},
+{
+"e26": "ourselves",
+"e23": "ourselwes",
+"xh38": "ourselwes"
+},
+{
+"e26": "out",
+"e23": "out",
+"xh38": "xaut"
+},
+{
+"e26": "outcome",
+"e23": "outcome",
+"xh38": "xautkm"
+},
+{
+"e26": "outside",
+"e23": "outside",
+"xh38": "xautsaid"
+},
+{
+"e26": "oven",
+"e23": "owen",
+"xh38": "own"
+},
+{
+"e26": "over",
+"e23": "ower",
+"xh38": "owr"
+},
+{
+"e26": "overall",
+"e23": "owerall",
+"xh38": "owrxal"
+},
+{
+"e26": "overcome",
+"e23": "owercome",
+"xh38": "wrke"
+},
+{
+"e26": "overlook",
+"e23": "owerlook",
+"xh38": "owrluk"
+},
+{
+"e26": "owe",
+"e23": "owe",
+"xh38": "owe"
+},
+{
+"e26": "own",
+"e23": "own",
+"xh38": "on"
+},
+{
+"e26": "owner",
+"e23": "owner",
+"xh38": "onr"
+},
+{
+"e26": "pace",
+"e23": "pace",
+"xh38": "pes"
+},
+{
+"e26": "pack",
+"e23": "pack",
+"xh38": "pxik"
+},
+{
+"e26": "package",
+"e23": "package",
+"xh38": "pxikez"
+},
+{
+"e26": "page",
+"e23": "page",
+"xh38": "pez"
+},
+{
+"e26": "pain",
+"e23": "pain",
+"xh38": "pxin"
+},
+{
+"e26": "painful",
+"e23": "painful",
+"xh38": "penful"
+},
+{
+"e26": "paint",
+"e23": "paint",
+"xh38": "pent"
+},
+{
+"e26": "painter",
+"e23": "painter",
+"xh38": "pentr"
+},
+{
+"e26": "painting",
+"e23": "painting",
+"xh38": "pentiNg"
+},
+{
+"e26": "pair",
+"e23": "pair",
+"xh38": "pexr"
+},
+{
+"e26": "pale",
+"e23": "pale",
+"xh38": "pila"
+},
+{
+"e26": "palestinian",
+"e23": "palestinian",
+"xh38": "plisjiniyn"
+},
+{
+"e26": "palm",
+"e23": "palm",
+"xh38": "pam"
+},
+{
+"e26": "pan",
+"e23": "pan",
+"xh38": "pxin"
+},
+{
+"e26": "panel",
+"e23": "panel",
+"xh38": "pxinl"
+},
+{
+"e26": "pant",
+"e23": "pant",
+"xh38": "pnj"
+},
+{
+"e26": "paper",
+"e23": "paper",
+"xh38": "pepr"
+},
+{
+"e26": "parent",
+"e23": "parent",
+"xh38": "pxirent"
+},
+{
+"e26": "park",
+"e23": "park",
+"xh38": "park"
+},
+{
+"e26": "parking",
+"e23": "parking",
+"xh38": "parkiNg"
+},
+{
+"e26": "part",
+"e23": "part",
+"xh38": "part"
+},
+{
+"e26": "participant",
+"e23": "participant",
+"xh38": "partisipent"
+},
+{
+"e26": "participate",
+"e23": "participate",
+"xh38": "partisipet"
+},
+{
+"e26": "participation",
+"e23": "participation",
+"xh38": "partisipeSn"
+},
+{
+"e26": "particular",
+"e23": "particular",
+"xh38": "prtikulr"
+},
+{
+"e26": "particularly",
+"e23": "particularly",
+"xh38": "prtikyulrli"
+},
+{
+"e26": "partly",
+"e23": "partly",
+"xh38": "partli"
+},
+{
+"e26": "partner",
+"e23": "partner",
+"xh38": "partnr"
+},
+{
+"e26": "partnership",
+"e23": "partnership",
+"xh38": "partnrSip"
+},
+{
+"e26": "party",
+"e23": "party",
+"xh38": "parti"
+},
+{
+"e26": "pass",
+"e23": "pass",
+"xh38": "pas"
+},
+{
+"e26": "passage",
+"e23": "passage",
+"xh38": "pxisez"
+},
+{
+"e26": "passenger",
+"e23": "passenger",
+"xh38": "pxisenzr"
+},
+{
+"e26": "passion",
+"e23": "passion",
+"xh38": "pxiSn"
+},
+{
+"e26": "past",
+"e23": "past",
+"xh38": "past"
+},
+{
+"e26": "patch",
+"e23": "patch",
+"xh38": "pxic"
+},
+{
+"e26": "path",
+"e23": "path",
+"xh38": "pJ"
+},
+{
+"e26": "patient",
+"e23": "patient",
+"xh38": "peSent"
+},
+{
+"e26": "pattern",
+"e23": "pattern",
+"xh38": "pxitrn"
+},
+{
+"e26": "pause",
+"e23": "pause",
+"xh38": "paz"
+},
+{
+"e26": "pay",
+"e23": "pay",
+"xh38": "pay"
+},
+{
+"e26": "payment",
+"e23": "payment",
+"xh38": "pement"
+},
+{
+"e26": "pc",
+"e23": "pc",
+"xh38": "pk"
+},
+{
+"e26": "peace",
+"e23": "peace",
+"xh38": "pis"
+},
+{
+"e26": "peak",
+"e23": "peak",
+"xh38": "pik"
+},
+{
+"e26": "peer",
+"e23": "peer",
+"xh38": "pir"
+},
+{
+"e26": "penalty",
+"e23": "penalty",
+"xh38": "penlti"
+},
+{
+"e26": "people",
+"e23": "people",
+"xh38": "pipl"
+},
+{
+"e26": "pepper",
+"e23": "pepper",
+"xh38": "pipr"
+},
+{
+"e26": "per",
+"e23": "per",
+"xh38": "pxir"
+},
+{
+"e26": "perceive",
+"e23": "perceiwe",
+"xh38": "prsiwe"
+},
+{
+"e26": "percentage",
+"e23": "percentage",
+"xh38": "prsentez"
+},
+{
+"e26": "perception",
+"e23": "perception",
+"xh38": "prsepSn"
+},
+{
+"e26": "perfect",
+"e23": "perfect",
+"xh38": "prfekt"
+},
+{
+"e26": "perfectly",
+"e23": "perfectly",
+"xh38": "prfektli"
+},
+{
+"e26": "perform",
+"e23": "perform",
+"xh38": "prfarm"
+},
+{
+"e26": "performance",
+"e23": "performance",
+"xh38": "prfarmens"
+},
+{
+"e26": "perhaps",
+"e23": "perhaps",
+"xh38": "prvxips"
+},
+{
+"e26": "period",
+"e23": "period",
+"xh38": "piriyd"
+},
+{
+"e26": "permanent",
+"e23": "permanent",
+"xh38": "prmanent"
+},
+{
+"e26": "permission",
+"e23": "permission",
+"xh38": "prmiSn"
+},
+{
+"e26": "permit",
+"e23": "permit",
+"xh38": "prmit"
+},
+{
+"e26": "person",
+"e23": "person",
+"xh38": "prsn"
+},
+{
+"e26": "personal",
+"e23": "personal",
+"xh38": "prsnl"
+},
+{
+"e26": "personality",
+"e23": "personality",
+"xh38": "prsnaliti"
+},
+{
+"e26": "personally",
+"e23": "personally",
+"xh38": "prsnli"
+},
+{
+"e26": "personnel",
+"e23": "personnel",
+"xh38": "prsnel"
+},
+{
+"e26": "perspective",
+"e23": "perspectiwe",
+"xh38": "prspektiw"
+},
+{
+"e26": "persuade",
+"e23": "persuade",
+"xh38": "prsued"
+},
+{
+"e26": "pet",
+"e23": "pet",
+"xh38": "pet"
+},
+{
+"e26": "phase",
+"e23": "phase",
+"xh38": "fez"
+},
+{
+"e26": "phenomenon",
+"e23": "phenomenon",
+"xh38": "fenomenn"
+},
+{
+"e26": "philosophy",
+"e23": "philosophy",
+"xh38": "flsfa"
+},
+{
+"e26": "phone",
+"e23": "phone",
+"xh38": "फ़on"
+},
+{
+"e26": "photo",
+"e23": "photo",
+"xh38": "foto"
+},
+{
+"e26": "photograph",
+"e23": "photograph",
+"xh38": "fotograf"
+},
+{
+"e26": "photographer",
+"e23": "photographer",
+"xh38": "fotografr"
+},
+{
+"e26": "phrase",
+"e23": "phrase",
+"xh38": "frez"
+},
+{
+"e26": "physical",
+"e23": "physical",
+"xh38": "fizikl"
+},
+{
+"e26": "physically",
+"e23": "physically",
+"xh38": "fizikli"
+},
+{
+"e26": "physician",
+"e23": "physician",
+"xh38": "fiziSiyn"
+},
+{
+"e26": "piano",
+"e23": "piano",
+"xh38": "piyano"
+},
+{
+"e26": "pick",
+"e23": "pick",
+"xh38": "pik"
+},
+{
+"e26": "picture",
+"e23": "picture",
+"xh38": "pikcr"
+},
+{
+"e26": "pie",
+"e23": "pie",
+"xh38": "pai"
+},
+{
+"e26": "piece",
+"e23": "piece",
+"xh38": "pieCe"
+},
+{
+"e26": "pile",
+"e23": "pile",
+"xh38": "pile"
+},
+{
+"e26": "pilot",
+"e23": "pilot",
+"xh38": "paylt"
+},
+{
+"e26": "pine",
+"e23": "pine",
+"xh38": "pine"
+},
+{
+"e26": "pink",
+"e23": "pink",
+"xh38": "piNk"
+},
+{
+"e26": "pipe",
+"e23": "pipe",
+"xh38": "paip"
+},
+{
+"e26": "pitch",
+"e23": "pitch",
+"xh38": "pic"
+},
+{
+"e26": "place",
+"e23": "place",
+"xh38": "ples"
+},
+{
+"e26": "plan",
+"e23": "plan",
+"xh38": "plan"
+},
+{
+"e26": "plane",
+"e23": "plane",
+"xh38": "plen"
+},
+{
+"e26": "planet",
+"e23": "planet",
+"xh38": "plenet"
+},
+{
+"e26": "planning",
+"e23": "planning",
+"xh38": "planiNg"
+},
+{
+"e26": "plant",
+"e23": "plant",
+"xh38": "plant"
+},
+{
+"e26": "plastic",
+"e23": "plastic",
+"xh38": "plastik"
+},
+{
+"e26": "plate",
+"e23": "plate",
+"xh38": "plet"
+},
+{
+"e26": "platform",
+"e23": "platform",
+"xh38": "pletfarm"
+},
+{
+"e26": "play",
+"e23": "play",
+"xh38": "ple"
+},
+{
+"e26": "player",
+"e23": "player",
+"xh38": "pleyr"
+},
+{
+"e26": "please",
+"e23": "please",
+"xh38": "pliz"
+},
+{
+"e26": "pleasure",
+"e23": "pleasure",
+"xh38": "plexsure"
+},
+{
+"e26": "plenty",
+"e23": "plenty",
+"xh38": "plenti"
+},
+{
+"e26": "plot",
+"e23": "plot",
+"xh38": "plat"
+},
+{
+"e26": "plus",
+"e23": "plus",
+"xh38": "pls"
+},
+{
+"e26": "pm",
+"e23": "pm",
+"xh38": "p"
+},
+{
+"e26": "pocket",
+"e23": "pocket",
+"xh38": "paket"
+},
+{
+"e26": "poem",
+"e23": "poem",
+"xh38": "poem"
+},
+{
+"e26": "poet",
+"e23": "poet",
+"xh38": "poet"
+},
+{
+"e26": "poetry",
+"e23": "poetry",
+"xh38": "poetri"
+},
+{
+"e26": "point",
+"e23": "point",
+"xh38": "paint"
+},
+{
+"e26": "pole",
+"e23": "pole",
+"xh38": "pol"
+},
+{
+"e26": "police",
+"e23": "police",
+"xh38": "pulis"
+},
+{
+"e26": "policy",
+"e23": "policy",
+"xh38": "palisi"
+},
+{
+"e26": "political",
+"e23": "political",
+"xh38": "politikl"
+},
+{
+"e26": "politically",
+"e23": "politically",
+"xh38": "palitikli"
+},
+{
+"e26": "politician",
+"e23": "politician",
+"xh38": "palitiSiyn"
+},
+{
+"e26": "politics",
+"e23": "politics",
+"xh38": "palitiks"
+},
+{
+"e26": "poll",
+"e23": "poll",
+"xh38": "poll"
+},
+{
+"e26": "pollution",
+"e23": "pollution",
+"xh38": "polluSn"
+},
+{
+"e26": "pool",
+"e23": "pool",
+"xh38": "pul"
+},
+{
+"e26": "poor",
+"e23": "poor",
+"xh38": "puxr"
+},
+{
+"e26": "pop",
+"e23": "pop",
+"xh38": "pap"
+},
+{
+"e26": "popular",
+"e23": "popular",
+"xh38": "papulr"
+},
+{
+"e26": "population",
+"e23": "population",
+"xh38": "papuleSn"
+},
+{
+"e26": "porch",
+"e23": "porch",
+"xh38": "porc"
+},
+{
+"e26": "port",
+"e23": "port",
+"xh38": "port"
+},
+{
+"e26": "portion",
+"e23": "portion",
+"xh38": "porSn"
+},
+{
+"e26": "portrait",
+"e23": "portrait",
+"xh38": "portret"
+},
+{
+"e26": "portray",
+"e23": "portray",
+"xh38": "portre"
+},
+{
+"e26": "pose",
+"e23": "pose",
+"xh38": "poज़"
+},
+{
+"e26": "position",
+"e23": "position",
+"xh38": "poziSn"
+},
+{
+"e26": "positive",
+"e23": "positiwe",
+"xh38": "pazitiw"
+},
+{
+"e26": "possess",
+"e23": "possess",
+"xh38": "possess"
+},
+{
+"e26": "possibility",
+"e23": "possibility",
+"xh38": "pasibiliti"
+},
+{
+"e26": "possible",
+"e23": "possible",
+"xh38": "pasibl"
+},
+{
+"e26": "possibly",
+"e23": "possibly",
+"xh38": "possibly"
+},
+{
+"e26": "post",
+"e23": "post",
+"xh38": "post"
+},
+{
+"e26": "pot",
+"e23": "pot",
+"xh38": "pat"
+},
+{
+"e26": "potato",
+"e23": "potato",
+"xh38": "potxito"
+},
+{
+"e26": "potential",
+"e23": "potential",
+"xh38": "potenSiyl"
+},
+{
+"e26": "potentially",
+"e23": "potentially",
+"xh38": "potentixlli"
+},
+{
+"e26": "pound",
+"e23": "pound",
+"xh38": "pound"
+},
+{
+"e26": "pour",
+"e23": "pour",
+"xh38": "pour"
+},
+{
+"e26": "poverty",
+"e23": "powerty",
+"xh38": "pawrti"
+},
+{
+"e26": "powder",
+"e23": "powder",
+"xh38": "paudr"
+},
+{
+"e26": "power",
+"e23": "power",
+"xh38": "pawr"
+},
+{
+"e26": "powerful",
+"e23": "powerful",
+"xh38": "pawrful"
+},
+{
+"e26": "practical",
+"e23": "practical",
+"xh38": "prxiktikl"
+},
+{
+"e26": "practice",
+"e23": "practice",
+"xh38": "prxiktis"
+},
+{
+"e26": "pray",
+"e23": "pray",
+"xh38": "pre"
+},
+{
+"e26": "prayer",
+"e23": "prayer",
+"xh38": "preyr"
+},
+{
+"e26": "precisely",
+"e23": "precisely",
+"xh38": "presiseli"
+},
+{
+"e26": "predict",
+"e23": "predict",
+"xh38": "predikt"
+},
+{
+"e26": "prefer",
+"e23": "prefer",
+"xh38": "prefr"
+},
+{
+"e26": "preference",
+"e23": "preference",
+"xh38": "prefrens"
+},
+{
+"e26": "pregnancy",
+"e23": "pregnancy",
+"xh38": "pregnensi"
+},
+{
+"e26": "pregnant",
+"e23": "pregnant",
+"xh38": "pregnent"
+},
+{
+"e26": "preparation",
+"e23": "preparation",
+"xh38": "pripreSn"
+},
+{
+"e26": "prepare",
+"e23": "prepare",
+"xh38": "prepr"
+},
+{
+"e26": "prescription",
+"e23": "prescription",
+"xh38": "priskripSn"
+},
+{
+"e26": "presence",
+"e23": "presence",
+"xh38": "przens"
+},
+{
+"e26": "present",
+"e23": "present",
+"xh38": "prezent"
+},
+{
+"e26": "presentation",
+"e23": "presentation",
+"xh38": "prezenteSn"
+},
+{
+"e26": "preserve",
+"e23": "preserwe",
+"xh38": "preज़rwe"
+},
+{
+"e26": "president",
+"e23": "president",
+"xh38": "prezident"
+},
+{
+"e26": "presidential",
+"e23": "presidential",
+"xh38": "presidentixl"
+},
+{
+"e26": "press",
+"e23": "press",
+"xh38": "pres"
+},
+{
+"e26": "pressure",
+"e23": "pressure",
+"xh38": "preSr"
+},
+{
+"e26": "pretend",
+"e23": "pretend",
+"xh38": "pritend"
+},
+{
+"e26": "pretty",
+"e23": "pretty",
+"xh38": "priti"
+},
+{
+"e26": "prevent",
+"e23": "prewent",
+"xh38": "priwent"
+},
+{
+"e26": "previous",
+"e23": "prewious",
+"xh38": "priwiys"
+},
+{
+"e26": "previously",
+"e23": "prewiously",
+"xh38": "prewiysli"
+},
+{
+"e26": "price",
+"e23": "price",
+"xh38": "prais"
+},
+{
+"e26": "pride",
+"e23": "pride",
+"xh38": "praid"
+},
+{
+"e26": "priest",
+"e23": "priest",
+"xh38": "prist"
+},
+{
+"e26": "primarily",
+"e23": "primarily",
+"xh38": "primarily"
+},
+{
+"e26": "primary",
+"e23": "primary",
+"xh38": "praimri"
+},
+{
+"e26": "prime",
+"e23": "prime",
+"xh38": "praim"
+},
+{
+"e26": "principal",
+"e23": "principal",
+"xh38": "prinsipl"
+},
+{
+"e26": "principle",
+"e23": "principle",
+"xh38": "prinsipl"
+},
+{
+"e26": "print",
+"e23": "print",
+"xh38": "print"
+},
+{
+"e26": "prior",
+"e23": "prior",
+"xh38": "prayr"
+},
+{
+"e26": "priority",
+"e23": "priority",
+"xh38": "prayoriti"
+},
+{
+"e26": "prison",
+"e23": "prison",
+"xh38": "prizn"
+},
+{
+"e26": "prisoner",
+"e23": "prisoner",
+"xh38": "priznr"
+},
+{
+"e26": "privacy",
+"e23": "priwacy",
+"xh38": "praiwesi"
+},
+{
+"e26": "private",
+"e23": "priwate",
+"xh38": "praiwet"
+},
+{
+"e26": "probably",
+"e23": "probably",
+"xh38": "prabbli"
+},
+{
+"e26": "problem",
+"e23": "problem",
+"xh38": "prablm"
+},
+{
+"e26": "procedure",
+"e23": "procedure",
+"xh38": "prosizr"
+},
+{
+"e26": "proceed",
+"e23": "proceed",
+"xh38": "prosid"
+},
+{
+"e26": "process",
+"e23": "process",
+"xh38": "proses"
+},
+{
+"e26": "produce",
+"e23": "produce",
+"xh38": "produs"
+},
+{
+"e26": "producer",
+"e23": "producer",
+"xh38": "produsr"
+},
+{
+"e26": "product",
+"e23": "product",
+"xh38": "prodkt"
+},
+{
+"e26": "production",
+"e23": "production",
+"xh38": "prodkSn"
+},
+{
+"e26": "profession",
+"e23": "profession",
+"xh38": "profeSn"
+},
+{
+"e26": "professional",
+"e23": "professional",
+"xh38": "profeSnl"
+},
+{
+"e26": "professor",
+"e23": "professor",
+"xh38": "profesr"
+},
+{
+"e26": "profile",
+"e23": "profile",
+"xh38": "profail"
+},
+{
+"e26": "profit",
+"e23": "profit",
+"xh38": "prafit"
+},
+{
+"e26": "program",
+"e23": "program",
+"xh38": "program"
+},
+{
+"e26": "progress",
+"e23": "progress",
+"xh38": "progres"
+},
+{
+"e26": "project",
+"e23": "prozect",
+"xh38": "prozekt"
+},
+{
+"e26": "prominent",
+"e23": "prominent",
+"xh38": "prominent"
+},
+{
+"e26": "promise",
+"e23": "promise",
+"xh38": "pramis"
+},
+{
+"e26": "promote",
+"e23": "promote",
+"xh38": "prmot"
+},
+{
+"e26": "prompt",
+"e23": "prompt",
+"xh38": "prampt"
+},
+{
+"e26": "proof",
+"e23": "proof",
+"xh38": "pruf"
+},
+{
+"e26": "proper",
+"e23": "proper",
+"xh38": "prapr"
+},
+{
+"e26": "properly",
+"e23": "properly",
+"xh38": "praprly"
+},
+{
+"e26": "property",
+"e23": "property",
+"xh38": "praprti"
+},
+{
+"e26": "proportion",
+"e23": "proportion",
+"xh38": "proporSn"
+},
+{
+"e26": "proposal",
+"e23": "proposal",
+"xh38": "prpozl"
+},
+{
+"e26": "propose",
+"e23": "propose",
+"xh38": "propoज़"
+},
+{
+"e26": "proposed",
+"e23": "proposed",
+"xh38": "proposd"
+},
+{
+"e26": "prosecutor",
+"e23": "prosecutor",
+"xh38": "prasikyutr"
+},
+{
+"e26": "prospect",
+"e23": "prospect",
+"xh38": "praspekt"
+},
+{
+"e26": "protect",
+"e23": "protect",
+"xh38": "protekt"
+},
+{
+"e26": "protection",
+"e23": "protection",
+"xh38": "protekSn"
+},
+{
+"e26": "protein",
+"e23": "protein",
+"xh38": "protin"
+},
+{
+"e26": "protest",
+"e23": "protest",
+"xh38": "protest"
+},
+{
+"e26": "proud",
+"e23": "proud",
+"xh38": "praud"
+},
+{
+"e26": "prove",
+"e23": "prowe",
+"xh38": "prowe"
+},
+{
+"e26": "provide",
+"e23": "prowide",
+"xh38": "prowaid"
+},
+{
+"e26": "provider",
+"e23": "prowider",
+"xh38": "prowaidr"
+},
+{
+"e26": "province",
+"e23": "prowince",
+"xh38": "prowins"
+},
+{
+"e26": "provision",
+"e23": "prowision",
+"xh38": "prowisio"
+},
+{
+"e26": "psychological",
+"e23": "psychological",
+"xh38": "saikolazikl"
+},
+{
+"e26": "psychologist",
+"e23": "psychologist",
+"xh38": "saikolozist"
+},
+{
+"e26": "psychology",
+"e23": "psychology",
+"xh38": "saikolazi"
+},
+{
+"e26": "public",
+"e23": "public",
+"xh38": "pblik"
+},
+{
+"e26": "publication",
+"e23": "publication",
+"xh38": "pblikeSn"
+},
+{
+"e26": "publicly",
+"e23": "publicly",
+"xh38": "pblikli"
+},
+{
+"e26": "publish",
+"e23": "publish",
+"xh38": "pbliS"
+},
+{
+"e26": "publisher",
+"e23": "publisher",
+"xh38": "pbliSr"
+},
+{
+"e26": "pull",
+"e23": "pull",
+"xh38": "pull"
+},
+{
+"e26": "punishment",
+"e23": "punishment",
+"xh38": "pniSment"
+},
+{
+"e26": "purchase",
+"e23": "purchase",
+"xh38": "prces"
+},
+{
+"e26": "pure",
+"e23": "pure",
+"xh38": "pure"
+},
+{
+"e26": "purpose",
+"e23": "purpose",
+"xh38": "prps"
+},
+{
+"e26": "pursue",
+"e23": "pursue",
+"xh38": "pursue"
+},
+{
+"e26": "push",
+"e23": "push",
+"xh38": "puS"
+},
+{
+"e26": "put",
+"e23": "put",
+"xh38": "puj"
+},
+{
+"e26": "qualify",
+"e23": "kualify",
+"xh38": "kwalifai"
+},
+{
+"e26": "quality",
+"e23": "kuality",
+"xh38": "kwaliti"
+},
+{
+"e26": "quarter",
+"e23": "kuarter",
+"xh38": "kwartr"
+},
+{
+"e26": "quarterback",
+"e23": "kuarterback",
+"xh38": "kwartrbxik"
+},
+{
+"e26": "question",
+"e23": "kuestion",
+"xh38": "kweScn"
+},
+{
+"e26": "quick",
+"e23": "kuick",
+"xh38": "kwik"
+},
+{
+"e26": "quickly",
+"e23": "kuickly",
+"xh38": "kwikli"
+},
+{
+"e26": "quiet",
+"e23": "kuiet",
+"xh38": "kwait"
+},
+{
+"e26": "quietly",
+"e23": "kuietly",
+"xh38": "kietli"
+},
+{
+"e26": "quit",
+"e23": "kuit",
+"xh38": "kwit"
+},
+{
+"e26": "quite",
+"e23": "kuite",
+"xh38": "kije"
+},
+{
+"e26": "quote",
+"e23": "kuote",
+"xh38": "kote"
+},
+{
+"e26": "race",
+"e23": "race",
+"xh38": "res"
+},
+{
+"e26": "racial",
+"e23": "racial",
+"xh38": "resiyl"
+},
+{
+"e26": "radical",
+"e23": "radical",
+"xh38": "redikl"
+},
+{
+"e26": "radio",
+"e23": "radio",
+"xh38": "rediyo"
+},
+{
+"e26": "rail",
+"e23": "rail",
+"xh38": "rel"
+},
+{
+"e26": "rain",
+"e23": "rain",
+"xh38": "ren"
+},
+{
+"e26": "raise",
+"e23": "raise",
+"xh38": "rez"
+},
+{
+"e26": "range",
+"e23": "range",
+"xh38": "renz"
+},
+{
+"e26": "rank",
+"e23": "rank",
+"xh38": "rxiNk"
+},
+{
+"e26": "rapid",
+"e23": "rapid",
+"xh38": "rxipid"
+},
+{
+"e26": "rapidly",
+"e23": "rapidly",
+"xh38": "rpiड़li"
+},
+{
+"e26": "rare",
+"e23": "rare",
+"xh38": "reyr"
+},
+{
+"e26": "rarely",
+"e23": "rarely",
+"xh38": "rrli"
+},
+{
+"e26": "rate",
+"e23": "rate",
+"xh38": "ret"
+},
+{
+"e26": "rather",
+"e23": "rather",
+"xh38": "raJer"
+},
+{
+"e26": "rating",
+"e23": "rating",
+"xh38": "retiNg"
+},
+{
+"e26": "ratio",
+"e23": "ratio",
+"xh38": "reSyo"
+},
+{
+"e26": "raw",
+"e23": "raw",
+"xh38": "ra"
+},
+{
+"e26": "reach",
+"e23": "reach",
+"xh38": "ric"
+},
+{
+"e26": "react",
+"e23": "react",
+"xh38": "riyekt"
+},
+{
+"e26": "reaction",
+"e23": "reaction",
+"xh38": "riekSn"
+},
+{
+"e26": "read",
+"e23": "read",
+"xh38": "rid"
+},
+{
+"e26": "reader",
+"e23": "reader",
+"xh38": "ridr"
+},
+{
+"e26": "reading",
+"e23": "reading",
+"xh38": "ridiNg"
+},
+{
+"e26": "ready",
+"e23": "ready",
+"xh38": "redi"
+},
+{
+"e26": "real",
+"e23": "real",
+"xh38": "riyl"
+},
+{
+"e26": "reality",
+"e23": "reality",
+"xh38": "riyliti"
+},
+{
+"e26": "realize",
+"e23": "realize",
+"xh38": "riliज़"
+},
+{
+"e26": "really",
+"e23": "really",
+"xh38": "riyli"
+},
+{
+"e26": "reason",
+"e23": "reason",
+"xh38": "riज़n"
+},
+{
+"e26": "reasonable",
+"e23": "reasonable",
+"xh38": "riज़nebl"
+},
+{
+"e26": "recall",
+"e23": "recall",
+"xh38": "rikal"
+},
+{
+"e26": "receive",
+"e23": "receiwe",
+"xh38": "risiw"
+},
+{
+"e26": "recent",
+"e23": "recent",
+"xh38": "risent"
+},
+{
+"e26": "recently",
+"e23": "recently",
+"xh38": "risentli"
+},
+{
+"e26": "recipe",
+"e23": "recipe",
+"xh38": "resipi"
+},
+{
+"e26": "recognition",
+"e23": "recognition",
+"xh38": "rikgniSn"
+},
+{
+"e26": "recognize",
+"e23": "recognize",
+"xh38": "rekgnize"
+},
+{
+"e26": "recommend",
+"e23": "recommend",
+"xh38": "rekmend"
+},
+{
+"e26": "recommendation",
+"e23": "recommendation",
+"xh38": "rikmendeSn"
+},
+{
+"e26": "record",
+"e23": "record",
+"xh38": "rikard"
+},
+{
+"e26": "recording",
+"e23": "recording",
+"xh38": "rikardiNg"
+},
+{
+"e26": "recover",
+"e23": "recower",
+"xh38": "rikwr"
+},
+{
+"e26": "recovery",
+"e23": "recowery",
+"xh38": "rikwri"
+},
+{
+"e26": "recruit",
+"e23": "recruit",
+"xh38": "rikrut"
+},
+{
+"e26": "red",
+"e23": "red",
+"xh38": "red"
+},
+{
+"e26": "reduce",
+"e23": "reduce",
+"xh38": "redke"
+},
+{
+"e26": "reduction",
+"e23": "reduction",
+"xh38": "ridkSn"
+},
+{
+"e26": "refer",
+"e23": "refer",
+"xh38": "refer"
+},
+{
+"e26": "reference",
+"e23": "reference",
+"xh38": "rifrens"
+},
+{
+"e26": "reflect",
+"e23": "reflect",
+"xh38": "riflekt"
+},
+{
+"e26": "reflection",
+"e23": "reflection",
+"xh38": "riflekSn"
+},
+{
+"e26": "reform",
+"e23": "reform",
+"xh38": "rifarm"
+},
+{
+"e26": "refugee",
+"e23": "refugee",
+"xh38": "rifyuzi"
+},
+{
+"e26": "refuse",
+"e23": "refuse",
+"xh38": "refuse"
+},
+{
+"e26": "regard",
+"e23": "regard",
+"xh38": "regard"
+},
+{
+"e26": "regarding",
+"e23": "regarding",
+"xh38": "rigardiNg"
+},
+{
+"e26": "regardless",
+"e23": "regardless",
+"xh38": "regrdless"
+},
+{
+"e26": "regime",
+"e23": "regime",
+"xh38": "rezime"
+},
+{
+"e26": "region",
+"e23": "region",
+"xh38": "rizn"
+},
+{
+"e26": "regional",
+"e23": "regional",
+"xh38": "riznl"
+},
+{
+"e26": "register",
+"e23": "register",
+"xh38": "rzistr"
+},
+{
+"e26": "regular",
+"e23": "regular",
+"xh38": "regulr"
+},
+{
+"e26": "regularly",
+"e23": "regularly",
+"xh38": "regulrli"
+},
+{
+"e26": "regulate",
+"e23": "regulate",
+"xh38": "regulet"
+},
+{
+"e26": "regulation",
+"e23": "regulation",
+"xh38": "reguleSn"
+},
+{
+"e26": "reinforce",
+"e23": "reinforce",
+"xh38": "refors"
+},
+{
+"e26": "reject",
+"e23": "rezect",
+"xh38": "rizekt"
+},
+{
+"e26": "relate",
+"e23": "relate",
+"xh38": "relaje"
+},
+{
+"e26": "relation",
+"e23": "relation",
+"xh38": "rileSn"
+},
+{
+"e26": "relationship",
+"e23": "relationship",
+"xh38": "rileSnSip"
+},
+{
+"e26": "relative",
+"e23": "relatiwe",
+"xh38": "riletiw"
+},
+{
+"e26": "relatively",
+"e23": "relatiwely",
+"xh38": "reltiweli"
+},
+{
+"e26": "relax",
+"e23": "relax",
+"xh38": "rilxiks"
+},
+{
+"e26": "release",
+"e23": "release",
+"xh38": "riliज़"
+},
+{
+"e26": "relevant",
+"e23": "relewant",
+"xh38": "rilewent"
+},
+{
+"e26": "relief",
+"e23": "relief",
+"xh38": "rilif"
+},
+{
+"e26": "religion",
+"e23": "religion",
+"xh38": "rilizn"
+},
+{
+"e26": "religious",
+"e23": "religious",
+"xh38": "riliziys"
+},
+{
+"e26": "rely",
+"e23": "rely",
+"xh38": "rxili"
+},
+{
+"e26": "remain",
+"e23": "remain",
+"xh38": "reme"
+},
+{
+"e26": "remaining",
+"e23": "remaining",
+"xh38": "rmxiniNg"
+},
+{
+"e26": "remarkable",
+"e23": "remarkable",
+"xh38": "rimarkebl"
+},
+{
+"e26": "remember",
+"e23": "remember",
+"xh38": "remember"
+},
+{
+"e26": "remind",
+"e23": "remind",
+"xh38": "reminq"
+},
+{
+"e26": "remote",
+"e23": "remote",
+"xh38": "rimot"
+},
+{
+"e26": "remove",
+"e23": "remowe",
+"xh38": "rimuw"
+},
+{
+"e26": "repeat",
+"e23": "repeat",
+"xh38": "ripit"
+},
+{
+"e26": "repeatedly",
+"e23": "repeatedly",
+"xh38": "repetqly"
+},
+{
+"e26": "replace",
+"e23": "replace",
+"xh38": "repls"
+},
+{
+"e26": "reply",
+"e23": "reply",
+"xh38": "riplai"
+},
+{
+"e26": "report",
+"e23": "report",
+"xh38": "riport"
+},
+{
+"e26": "reporter",
+"e23": "reporter",
+"xh38": "riportr"
+},
+{
+"e26": "represent",
+"e23": "represent",
+"xh38": "riprezent"
+},
+{
+"e26": "representation",
+"e23": "representation",
+"xh38": "riprzenteSn"
+},
+{
+"e26": "representative",
+"e23": "representatiwe",
+"xh38": "riprezentetiw"
+},
+{
+"e26": "republican",
+"e23": "republican",
+"xh38": "ripblikn"
+},
+{
+"e26": "reputation",
+"e23": "reputation",
+"xh38": "reputeSn"
+},
+{
+"e26": "request",
+"e23": "rekuest",
+"xh38": "rikwest"
+},
+{
+"e26": "require",
+"e23": "rekuire",
+"xh38": "rekwire"
+},
+{
+"e26": "requirement",
+"e23": "rekuirement",
+"xh38": "rekwirement"
+},
+{
+"e26": "research",
+"e23": "research",
+"xh38": "risrc"
+},
+{
+"e26": "researcher",
+"e23": "researcher",
+"xh38": "resexrcer"
+},
+{
+"e26": "resemble",
+"e23": "resemble",
+"xh38": "resemble"
+},
+{
+"e26": "reservation",
+"e23": "reserwation",
+"xh38": "rizrweSn"
+},
+{
+"e26": "resident",
+"e23": "resident",
+"xh38": "rezident"
+},
+{
+"e26": "resist",
+"e23": "resist",
+"xh38": "resist"
+},
+{
+"e26": "resistance",
+"e23": "resistance",
+"xh38": "rezistens"
+},
+{
+"e26": "resolution",
+"e23": "resolution",
+"xh38": "resoluSn"
+},
+{
+"e26": "resolve",
+"e23": "resolwe",
+"xh38": "resolwe"
+},
+{
+"e26": "resort",
+"e23": "resort",
+"xh38": "risort"
+},
+{
+"e26": "resource",
+"e23": "resource",
+"xh38": "risors"
+},
+{
+"e26": "respect",
+"e23": "respect",
+"xh38": "respekt"
+},
+{
+"e26": "respond",
+"e23": "respond",
+"xh38": "responq"
+},
+{
+"e26": "respondent",
+"e23": "respondent",
+"xh38": "respondent"
+},
+{
+"e26": "response",
+"e23": "response",
+"xh38": "rispans"
+},
+{
+"e26": "responsibility",
+"e23": "responsibility",
+"xh38": "rispansibiliti"
+},
+{
+"e26": "responsible",
+"e23": "responsible",
+"xh38": "responsibl"
+},
+{
+"e26": "rest",
+"e23": "rest",
+"xh38": "rest"
+},
+{
+"e26": "restaurant",
+"e23": "restaurant",
+"xh38": "restorent"
+},
+{
+"e26": "restore",
+"e23": "restore",
+"xh38": "ristor"
+},
+{
+"e26": "restriction",
+"e23": "restriction",
+"xh38": "restrikSn"
+},
+{
+"e26": "result",
+"e23": "result",
+"xh38": "rizlt"
+},
+{
+"e26": "retain",
+"e23": "retain",
+"xh38": "retain"
+},
+{
+"e26": "retire",
+"e23": "retire",
+"xh38": "ritayr"
+},
+{
+"e26": "retirement",
+"e23": "retirement",
+"xh38": "ritayrment"
+},
+{
+"e26": "return",
+"e23": "return",
+"xh38": "rejurn"
+},
+{
+"e26": "reveal",
+"e23": "reweal",
+"xh38": "rewexl"
+},
+{
+"e26": "revenue",
+"e23": "rewenue",
+"xh38": "rewenue"
+},
+{
+"e26": "review",
+"e23": "rewiew",
+"xh38": "riwyu"
+},
+{
+"e26": "revolution",
+"e23": "rewolution",
+"xh38": "rewoluSn"
+},
+{
+"e26": "rhythm",
+"e23": "rhythm",
+"xh38": "rqm"
+},
+{
+"e26": "rice",
+"e23": "rice",
+"xh38": "rais"
+},
+{
+"e26": "rich",
+"e23": "rich",
+"xh38": "ric"
+},
+{
+"e26": "rid",
+"e23": "rid",
+"xh38": "riq"
+},
+{
+"e26": "ride",
+"e23": "ride",
+"xh38": "raid"
+},
+{
+"e26": "rifle",
+"e23": "rifle",
+"xh38": "raifl"
+},
+{
+"e26": "right",
+"e23": "right",
+"xh38": "rait"
+},
+{
+"e26": "ring",
+"e23": "ring",
+"xh38": "riNg"
+},
+{
+"e26": "rise",
+"e23": "rise",
+"xh38": "raiz"
+},
+{
+"e26": "risk",
+"e23": "risk",
+"xh38": "risk"
+},
+{
+"e26": "river",
+"e23": "riwer",
+"xh38": "riwr"
+},
+{
+"e26": "road",
+"e23": "road",
+"xh38": "rod"
+},
+{
+"e26": "rock",
+"e23": "rock",
+"xh38": "rak"
+},
+{
+"e26": "role",
+"e23": "role",
+"xh38": "role"
+},
+{
+"e26": "roll",
+"e23": "roll",
+"xh38": "rol"
+},
+{
+"e26": "romantic",
+"e23": "romantic",
+"xh38": "romantik"
+},
+{
+"e26": "roof",
+"e23": "roof",
+"xh38": "ruf"
+},
+{
+"e26": "room",
+"e23": "room",
+"xh38": "rum"
+},
+{
+"e26": "root",
+"e23": "root",
+"xh38": "rut"
+},
+{
+"e26": "rope",
+"e23": "rope",
+"xh38": "rop"
+},
+{
+"e26": "rose",
+"e23": "rose",
+"xh38": "roz"
+},
+{
+"e26": "rough",
+"e23": "rough",
+"xh38": "rफ़"
+},
+{
+"e26": "roughly",
+"e23": "roughly",
+"xh38": "rogly"
+},
+{
+"e26": "round",
+"e23": "round",
+"xh38": "raund"
+},
+{
+"e26": "route",
+"e23": "route",
+"xh38": "rut"
+},
+{
+"e26": "routine",
+"e23": "routine",
+"xh38": "rutin"
+},
+{
+"e26": "row",
+"e23": "row",
+"xh38": "rou"
+},
+{
+"e26": "rub",
+"e23": "rub",
+"xh38": "rb"
+},
+{
+"e26": "rule",
+"e23": "rule",
+"xh38": "rul"
+},
+{
+"e26": "run",
+"e23": "run",
+"xh38": "rn"
+},
+{
+"e26": "running",
+"e23": "running",
+"xh38": "rniNg"
+},
+{
+"e26": "rural",
+"e23": "rural",
+"xh38": "rurl"
+},
+{
+"e26": "rush",
+"e23": "rush",
+"xh38": "rS"
+},
+{
+"e26": "russian",
+"e23": "russian",
+"xh38": "russiyn"
+},
+{
+"e26": "sacred",
+"e23": "sacred",
+"xh38": "sekred"
+},
+{
+"e26": "sad",
+"e23": "sad",
+"xh38": "saq"
+},
+{
+"e26": "safe",
+"e23": "safe",
+"xh38": "sef"
+},
+{
+"e26": "safety",
+"e23": "safety",
+"xh38": "sefti"
+},
+{
+"e26": "sake",
+"e23": "sake",
+"xh38": "ske"
+},
+{
+"e26": "salad",
+"e23": "salad",
+"xh38": "slaq"
+},
+{
+"e26": "salary",
+"e23": "salary",
+"xh38": "sxilri"
+},
+{
+"e26": "sale",
+"e23": "sale",
+"xh38": "sel"
+},
+{
+"e26": "sales",
+"e23": "sales",
+"xh38": "sels"
+},
+{
+"e26": "salt",
+"e23": "salt",
+"xh38": "salt"
+},
+{
+"e26": "same",
+"e23": "same",
+"xh38": "Same"
+},
+{
+"e26": "sample",
+"e23": "sample",
+"xh38": "sximpl"
+},
+{
+"e26": "sanction",
+"e23": "sanction",
+"xh38": "sxiNkSn"
+},
+{
+"e26": "sand",
+"e23": "sand",
+"xh38": "sxind"
+},
+{
+"e26": "satellite",
+"e23": "satellite",
+"xh38": "sॅtॅlait"
+},
+{
+"e26": "satisfaction",
+"e23": "satisfaction",
+"xh38": "stisfxikSn"
+},
+{
+"e26": "satisfy",
+"e23": "satisfy",
+"xh38": "stisfi"
+},
+{
+"e26": "sauce",
+"e23": "sauce",
+"xh38": "sas"
+},
+{
+"e26": "save",
+"e23": "sawe",
+"xh38": "sew"
+},
+{
+"e26": "saving",
+"e23": "sawing",
+"xh38": "sewiNg"
+},
+{
+"e26": "say",
+"e23": "say",
+"xh38": "se"
+},
+{
+"e26": "scale",
+"e23": "scale",
+"xh38": "skel"
+},
+{
+"e26": "scandal",
+"e23": "scandal",
+"xh38": "skxindl"
+},
+{
+"e26": "scared",
+"e23": "scared",
+"xh38": "skareq"
+},
+{
+"e26": "scenario",
+"e23": "scenario",
+"xh38": "sineriyo"
+},
+{
+"e26": "scene",
+"e23": "scene",
+"xh38": "sn"
+},
+{
+"e26": "schedule",
+"e23": "schedule",
+"xh38": "scedule"
+},
+{
+"e26": "scheme",
+"e23": "scheme",
+"xh38": "skim"
+},
+{
+"e26": "scholar",
+"e23": "scholar",
+"xh38": "skalr"
+},
+{
+"e26": "scholarship",
+"e23": "scholarship",
+"xh38": "skalrSip"
+},
+{
+"e26": "school",
+"e23": "school",
+"xh38": "skul"
+},
+{
+"e26": "science",
+"e23": "science",
+"xh38": "sains"
+},
+{
+"e26": "scientific",
+"e23": "scientific",
+"xh38": "saintifik"
+},
+{
+"e26": "scientist",
+"e23": "scientist",
+"xh38": "saintist"
+},
+{
+"e26": "scope",
+"e23": "scope",
+"xh38": "skop"
+},
+{
+"e26": "score",
+"e23": "score",
+"xh38": "skor"
+},
+{
+"e26": "scream",
+"e23": "scream",
+"xh38": "skrim"
+},
+{
+"e26": "screen",
+"e23": "screen",
+"xh38": "skrin"
+},
+{
+"e26": "script",
+"e23": "script",
+"xh38": "skript"
+},
+{
+"e26": "sea",
+"e23": "sea",
+"xh38": "se"
+},
+{
+"e26": "search",
+"e23": "search",
+"xh38": "src"
+},
+{
+"e26": "season",
+"e23": "season",
+"xh38": "sizn"
+},
+{
+"e26": "seat",
+"e23": "seat",
+"xh38": "sit"
+},
+{
+"e26": "second",
+"e23": "second",
+"xh38": "seknd"
+},
+{
+"e26": "secret",
+"e23": "secret",
+"xh38": "sikret"
+},
+{
+"e26": "secretary",
+"e23": "secretary",
+"xh38": "sekretri"
+},
+{
+"e26": "section",
+"e23": "section",
+"xh38": "sekSn"
+},
+{
+"e26": "sector",
+"e23": "sector",
+"xh38": "sektr"
+},
+{
+"e26": "secure",
+"e23": "secure",
+"xh38": "sikyor"
+},
+{
+"e26": "security",
+"e23": "security",
+"xh38": "sikyoriti"
+},
+{
+"e26": "see",
+"e23": "see",
+"xh38": "si"
+},
+{
+"e26": "seed",
+"e23": "seed",
+"xh38": "sid"
+},
+{
+"e26": "seek",
+"e23": "seek",
+"xh38": "sik"
+},
+{
+"e26": "seem",
+"e23": "seem",
+"xh38": "sim"
+},
+{
+"e26": "segment",
+"e23": "segment",
+"xh38": "segment"
+},
+{
+"e26": "seize",
+"e23": "seize",
+"xh38": "siज़e"
+},
+{
+"e26": "select",
+"e23": "select",
+"xh38": "selekt"
+},
+{
+"e26": "selection",
+"e23": "selection",
+"xh38": "silekSn"
+},
+{
+"e26": "self",
+"e23": "self",
+"xh38": "self"
+},
+{
+"e26": "sell",
+"e23": "sell",
+"xh38": "sell"
+},
+{
+"e26": "senate",
+"e23": "senate",
+"xh38": "sinet"
+},
+{
+"e26": "senator",
+"e23": "senator",
+"xh38": "sinetr"
+},
+{
+"e26": "send",
+"e23": "send",
+"xh38": "send"
+},
+{
+"e26": "senior",
+"e23": "senior",
+"xh38": "siniyr"
+},
+{
+"e26": "sense",
+"e23": "sense",
+"xh38": "sens"
+},
+{
+"e26": "sensitive",
+"e23": "sensitiwe",
+"xh38": "sensitiw"
+},
+{
+"e26": "sentence",
+"e23": "sentence",
+"xh38": "sentens"
+},
+{
+"e26": "separate",
+"e23": "separate",
+"xh38": "sepret"
+},
+{
+"e26": "sequence",
+"e23": "sekuence",
+"xh38": "sikwens"
+},
+{
+"e26": "series",
+"e23": "series",
+"xh38": "siriz"
+},
+{
+"e26": "serious",
+"e23": "serious",
+"xh38": "siriys"
+},
+{
+"e26": "seriously",
+"e23": "seriously",
+"xh38": "siriysli"
+},
+{
+"e26": "serve",
+"e23": "serwe",
+"xh38": "srwe"
+},
+{
+"e26": "service",
+"e23": "serwice",
+"xh38": "srwis"
+},
+{
+"e26": "session",
+"e23": "session",
+"xh38": "seSn"
+},
+{
+"e26": "set",
+"e23": "set",
+"xh38": "set"
+},
+{
+"e26": "setting",
+"e23": "setting",
+"xh38": "setiNg"
+},
+{
+"e26": "settle",
+"e23": "settle",
+"xh38": "setl"
+},
+{
+"e26": "settlement",
+"e23": "settlement",
+"xh38": "setlment"
+},
+{
+"e26": "seven",
+"e23": "sewen",
+"xh38": "sewn"
+},
+{
+"e26": "several",
+"e23": "seweral",
+"xh38": "sewerl"
+},
+{
+"e26": "severe",
+"e23": "sewere",
+"xh38": "siwiyr"
+},
+{
+"e26": "sex",
+"e23": "sex",
+"xh38": "seks"
+},
+{
+"e26": "sexual",
+"e23": "sexual",
+"xh38": "seksuxl"
+},
+{
+"e26": "shade",
+"e23": "shade",
+"xh38": "Saqi"
+},
+{
+"e26": "shadow",
+"e23": "shadow",
+"xh38": "Sxido"
+},
+{
+"e26": "shake",
+"e23": "shake",
+"xh38": "Sek"
+},
+{
+"e26": "shall",
+"e23": "shall",
+"xh38": "Sal"
+},
+{
+"e26": "shape",
+"e23": "shape",
+"xh38": "Sep"
+},
+{
+"e26": "share",
+"e23": "share",
+"xh38": "Seyr"
+},
+{
+"e26": "sharp",
+"e23": "sharp",
+"xh38": "Sarp"
+},
+{
+"e26": "she",
+"e23": "she",
+"xh38": "Si"
+},
+{
+"e26": "sheet",
+"e23": "sheet",
+"xh38": "Sit"
+},
+{
+"e26": "shelf",
+"e23": "shelf",
+"xh38": "Self"
+},
+{
+"e26": "shell",
+"e23": "shell",
+"xh38": "Sxil"
+},
+{
+"e26": "shelter",
+"e23": "shelter",
+"xh38": "Seltr"
+},
+{
+"e26": "shift",
+"e23": "shift",
+"xh38": "Sift"
+},
+{
+"e26": "shine",
+"e23": "shine",
+"xh38": "Sain"
+},
+{
+"e26": "ship",
+"e23": "ship",
+"xh38": "Sip"
+},
+{
+"e26": "shirt",
+"e23": "shirt",
+"xh38": "Srt"
+},
+{
+"e26": "shit",
+"e23": "shit",
+"xh38": "svij"
+},
+{
+"e26": "shock",
+"e23": "shock",
+"xh38": "Sak"
+},
+{
+"e26": "shoe",
+"e23": "shoe",
+"xh38": "Su"
+},
+{
+"e26": "shoot",
+"e23": "shoot",
+"xh38": "Sut"
+},
+{
+"e26": "shooting",
+"e23": "shooting",
+"xh38": "SutiNg"
+},
+{
+"e26": "shop",
+"e23": "shop",
+"xh38": "Sap"
+},
+{
+"e26": "shopping",
+"e23": "shopping",
+"xh38": "SapiNg"
+},
+{
+"e26": "shore",
+"e23": "shore",
+"xh38": "Sore"
+},
+{
+"e26": "short",
+"e23": "short",
+"xh38": "Sart"
+},
+{
+"e26": "shortly",
+"e23": "shortly",
+"xh38": "Sartli"
+},
+{
+"e26": "shot",
+"e23": "shot",
+"xh38": "Sat"
+},
+{
+"e26": "should",
+"e23": "should",
+"xh38": "Sud"
+},
+{
+"e26": "shoulder",
+"e23": "shoulder",
+"xh38": "Soldr"
+},
+{
+"e26": "shout",
+"e23": "shout",
+"xh38": "Sat"
+},
+{
+"e26": "show",
+"e23": "show",
+"xh38": "So"
+},
+{
+"e26": "shower",
+"e23": "shower",
+"xh38": "Sawr"
+},
+{
+"e26": "shrug",
+"e23": "shrug",
+"xh38": "SrNg"
+},
+{
+"e26": "shut",
+"e23": "shut",
+"xh38": "St"
+},
+{
+"e26": "sick",
+"e23": "sick",
+"xh38": "sik"
+},
+{
+"e26": "side",
+"e23": "side",
+"xh38": "said"
+},
+{
+"e26": "sigh",
+"e23": "sigh",
+"xh38": "siG"
+},
+{
+"e26": "sight",
+"e23": "sight",
+"xh38": "siGj"
+},
+{
+"e26": "sign",
+"e23": "sign",
+"xh38": "sign"
+},
+{
+"e26": "signal",
+"e23": "signal",
+"xh38": "signl"
+},
+{
+"e26": "significance",
+"e23": "significance",
+"xh38": "signifikens"
+},
+{
+"e26": "significant",
+"e23": "significant",
+"xh38": "signifikent"
+},
+{
+"e26": "significantly",
+"e23": "significantly",
+"xh38": "signifikanjli"
+},
+{
+"e26": "silence",
+"e23": "silence",
+"xh38": "sailens"
+},
+{
+"e26": "silent",
+"e23": "silent",
+"xh38": "sailent"
+},
+{
+"e26": "silver",
+"e23": "silwer",
+"xh38": "silwr"
+},
+{
+"e26": "similar",
+"e23": "similar",
+"xh38": "similr"
+},
+{
+"e26": "similarly",
+"e23": "similarly",
+"xh38": "similarli"
+},
+{
+"e26": "simple",
+"e23": "simple",
+"xh38": "simpl"
+},
+{
+"e26": "simply",
+"e23": "simply",
+"xh38": "simpli"
+},
+{
+"e26": "sin",
+"e23": "sin",
+"xh38": "sin"
+},
+{
+"e26": "since",
+"e23": "since",
+"xh38": "sins"
+},
+{
+"e26": "sing",
+"e23": "sing",
+"xh38": "siNg"
+},
+{
+"e26": "singer",
+"e23": "singer",
+"xh38": "siNgr"
+},
+{
+"e26": "single",
+"e23": "single",
+"xh38": "siNgl"
+},
+{
+"e26": "sink",
+"e23": "sink",
+"xh38": "siNk"
+},
+{
+"e26": "sir",
+"e23": "sir",
+"xh38": "sr"
+},
+{
+"e26": "sister",
+"e23": "sister",
+"xh38": "sistr"
+},
+{
+"e26": "sit",
+"e23": "sit",
+"xh38": "sit"
+},
+{
+"e26": "site",
+"e23": "site",
+"xh38": "sait"
+},
+{
+"e26": "situation",
+"e23": "situation",
+"xh38": "sicueSn"
+},
+{
+"e26": "six",
+"e23": "six",
+"xh38": "siks"
+},
+{
+"e26": "size",
+"e23": "size",
+"xh38": "saiz"
+},
+{
+"e26": "ski",
+"e23": "ski",
+"xh38": "ski"
+},
+{
+"e26": "skill",
+"e23": "skill",
+"xh38": "skil"
+},
+{
+"e26": "skin",
+"e23": "skin",
+"xh38": "skin"
+},
+{
+"e26": "sky",
+"e23": "sky",
+"xh38": "skai"
+},
+{
+"e26": "slave",
+"e23": "slawe",
+"xh38": "slew"
+},
+{
+"e26": "sleep",
+"e23": "sleep",
+"xh38": "slip"
+},
+{
+"e26": "slice",
+"e23": "slice",
+"xh38": "slais"
+},
+{
+"e26": "slide",
+"e23": "slide",
+"xh38": "slaid"
+},
+{
+"e26": "slight",
+"e23": "slight",
+"xh38": "sligj"
+},
+{
+"e26": "slightly",
+"e23": "slightly",
+"xh38": "sliNgtli"
+},
+{
+"e26": "slip",
+"e23": "slip",
+"xh38": "slip"
+},
+{
+"e26": "slow",
+"e23": "slow",
+"xh38": "slo"
+},
+{
+"e26": "slowly",
+"e23": "slowly",
+"xh38": "slouli"
+},
+{
+"e26": "small",
+"e23": "small",
+"xh38": "smal"
+},
+{
+"e26": "smart",
+"e23": "smart",
+"xh38": "smart"
+},
+{
+"e26": "smell",
+"e23": "smell",
+"xh38": "smel"
+},
+{
+"e26": "smile",
+"e23": "smile",
+"xh38": "smail"
+},
+{
+"e26": "smoke",
+"e23": "smoke",
+"xh38": "smok"
+},
+{
+"e26": "smooth",
+"e23": "smooth",
+"xh38": "smuJ"
+},
+{
+"e26": "snap",
+"e23": "snap",
+"xh38": "snep"
+},
+{
+"e26": "snow",
+"e23": "snow",
+"xh38": "sno"
+},
+{
+"e26": "so",
+"e23": "so",
+"xh38": "so"
+},
+{
+"e26": "so-called",
+"e23": "so-called",
+"xh38": "so-kald"
+},
+{
+"e26": "soccer",
+"e23": "soccer",
+"xh38": "sakr"
+},
+{
+"e26": "social",
+"e23": "social",
+"xh38": "soSl"
+},
+{
+"e26": "society",
+"e23": "society",
+"xh38": "sosaiti"
+},
+{
+"e26": "soft",
+"e23": "soft",
+"xh38": "saft"
+},
+{
+"e26": "software",
+"e23": "software",
+"xh38": "saftweyr"
+},
+{
+"e26": "soil",
+"e23": "soil",
+"xh38": "sail"
+},
+{
+"e26": "solar",
+"e23": "solar",
+"xh38": "solr"
+},
+{
+"e26": "soldier",
+"e23": "soldier",
+"xh38": "solzr"
+},
+{
+"e26": "solid",
+"e23": "solid",
+"xh38": "salid"
+},
+{
+"e26": "solution",
+"e23": "solution",
+"xh38": "sluSn"
+},
+{
+"e26": "solve",
+"e23": "solwe",
+"xh38": "solwe"
+},
+{
+"e26": "some",
+"e23": "some",
+"xh38": "sm"
+},
+{
+"e26": "somebody",
+"e23": "somebody",
+"xh38": "smbdi"
+},
+{
+"e26": "somehow",
+"e23": "somehow",
+"xh38": "somevo"
+},
+{
+"e26": "someone",
+"e23": "someone",
+"xh38": "smwn"
+},
+{
+"e26": "something",
+"e23": "something",
+"xh38": "smJiNg"
+},
+{
+"e26": "sometimes",
+"e23": "sometimes",
+"xh38": "somejimes"
+},
+{
+"e26": "somewhat",
+"e23": "somewhat",
+"xh38": "smuvj"
+},
+{
+"e26": "somewhere",
+"e23": "somewhere",
+"xh38": "smweyr"
+},
+{
+"e26": "son",
+"e23": "son",
+"xh38": "son"
+},
+{
+"e26": "song",
+"e23": "song",
+"xh38": "saNg"
+},
+{
+"e26": "soon",
+"e23": "soon",
+"xh38": "sun"
+},
+{
+"e26": "sophisticated",
+"e23": "sophisticated",
+"xh38": "sofistiketed"
+},
+{
+"e26": "sorry",
+"e23": "sorry",
+"xh38": "sari"
+},
+{
+"e26": "sort",
+"e23": "sort",
+"xh38": "sart"
+},
+{
+"e26": "soul",
+"e23": "soul",
+"xh38": "sol"
+},
+{
+"e26": "sound",
+"e23": "sound",
+"xh38": "saund"
+},
+{
+"e26": "soup",
+"e23": "soup",
+"xh38": "sup"
+},
+{
+"e26": "source",
+"e23": "source",
+"xh38": "sors"
+},
+{
+"e26": "south",
+"e23": "south",
+"xh38": "sauJ"
+},
+{
+"e26": "southern",
+"e23": "southern",
+"xh38": "sauJrn"
+},
+{
+"e26": "soviet",
+"e23": "sowiet",
+"xh38": "sowiyj"
+},
+{
+"e26": "space",
+"e23": "space",
+"xh38": "spes"
+},
+{
+"e26": "spanish",
+"e23": "spanish",
+"xh38": "speniS"
+},
+{
+"e26": "speak",
+"e23": "speak",
+"xh38": "spik"
+},
+{
+"e26": "speaker",
+"e23": "speaker",
+"xh38": "spikr"
+},
+{
+"e26": "special",
+"e23": "special",
+"xh38": "speSl"
+},
+{
+"e26": "specialist",
+"e23": "specialist",
+"xh38": "speSlist"
+},
+{
+"e26": "species",
+"e23": "species",
+"xh38": "spiSiz"
+},
+{
+"e26": "specific",
+"e23": "specific",
+"xh38": "spesifik"
+},
+{
+"e26": "specifically",
+"e23": "specifically",
+"xh38": "spesifiklly"
+},
+{
+"e26": "speech",
+"e23": "speech",
+"xh38": "spic"
+},
+{
+"e26": "speed",
+"e23": "speed",
+"xh38": "spid"
+},
+{
+"e26": "spend",
+"e23": "spend",
+"xh38": "spend"
+},
+{
+"e26": "spending",
+"e23": "spending",
+"xh38": "spendiNg"
+},
+{
+"e26": "spin",
+"e23": "spin",
+"xh38": "spin"
+},
+{
+"e26": "spirit",
+"e23": "spirit",
+"xh38": "spirit"
+},
+{
+"e26": "spiritual",
+"e23": "spiritual",
+"xh38": "spiricuxl"
+},
+{
+"e26": "split",
+"e23": "split",
+"xh38": "split"
+},
+{
+"e26": "spokesman",
+"e23": "spokesman",
+"xh38": "spoksmxin"
+},
+{
+"e26": "sport",
+"e23": "sport",
+"xh38": "sport"
+},
+{
+"e26": "spot",
+"e23": "spot",
+"xh38": "spat"
+},
+{
+"e26": "spread",
+"e23": "spread",
+"xh38": "spred"
+},
+{
+"e26": "spring",
+"e23": "spring",
+"xh38": "spriNg"
+},
+{
+"e26": "square",
+"e23": "skuare",
+"xh38": "skwayr"
+},
+{
+"e26": "squeeze",
+"e23": "skueeze",
+"xh38": "skwiज़"
+},
+{
+"e26": "stability",
+"e23": "stability",
+"xh38": "stebiliti"
+},
+{
+"e26": "stable",
+"e23": "stable",
+"xh38": "stebl"
+},
+{
+"e26": "staff",
+"e23": "staff",
+"xh38": "staf"
+},
+{
+"e26": "stage",
+"e23": "stage",
+"xh38": "stez"
+},
+{
+"e26": "stair",
+"e23": "stair",
+"xh38": "sjxir"
+},
+{
+"e26": "stake",
+"e23": "stake",
+"xh38": "stake"
+},
+{
+"e26": "stand",
+"e23": "stand",
+"xh38": "stxind"
+},
+{
+"e26": "standard",
+"e23": "standard",
+"xh38": "stxindrd"
+},
+{
+"e26": "standing",
+"e23": "standing",
+"xh38": "stxindiNg"
+},
+{
+"e26": "star",
+"e23": "star",
+"xh38": "star"
+},
+{
+"e26": "stare",
+"e23": "stare",
+"xh38": "sjr"
+},
+{
+"e26": "start",
+"e23": "start",
+"xh38": "start"
+},
+{
+"e26": "state",
+"e23": "state",
+"xh38": "stet"
+},
+{
+"e26": "statement",
+"e23": "statement",
+"xh38": "stetment"
+},
+{
+"e26": "station",
+"e23": "station",
+"xh38": "steSn"
+},
+{
+"e26": "statistics",
+"e23": "statistics",
+"xh38": "stetistiks"
+},
+{
+"e26": "status",
+"e23": "status",
+"xh38": "stets"
+},
+{
+"e26": "stay",
+"e23": "stay",
+"xh38": "ste"
+},
+{
+"e26": "steady",
+"e23": "steady",
+"xh38": "stedi"
+},
+{
+"e26": "steal",
+"e23": "steal",
+"xh38": "stil"
+},
+{
+"e26": "steel",
+"e23": "steel",
+"xh38": "stil"
+},
+{
+"e26": "step",
+"e23": "step",
+"xh38": "step"
+},
+{
+"e26": "stick",
+"e23": "stick",
+"xh38": "stik"
+},
+{
+"e26": "still",
+"e23": "still",
+"xh38": "stil"
+},
+{
+"e26": "stir",
+"e23": "stir",
+"xh38": "sjir"
+},
+{
+"e26": "stock",
+"e23": "stock",
+"xh38": "stak"
+},
+{
+"e26": "stomach",
+"e23": "stomach",
+"xh38": "sjomc"
+},
+{
+"e26": "stone",
+"e23": "stone",
+"xh38": "ston"
+},
+{
+"e26": "stop",
+"e23": "stop",
+"xh38": "stap"
+},
+{
+"e26": "storage",
+"e23": "storage",
+"xh38": "storez"
+},
+{
+"e26": "store",
+"e23": "store",
+"xh38": "stor"
+},
+{
+"e26": "storm",
+"e23": "storm",
+"xh38": "starm"
+},
+{
+"e26": "story",
+"e23": "story",
+"xh38": "stori"
+},
+{
+"e26": "straight",
+"e23": "straight",
+"xh38": "strxit"
+},
+{
+"e26": "strange",
+"e23": "strange",
+"xh38": "strenz"
+},
+{
+"e26": "stranger",
+"e23": "stranger",
+"xh38": "strenzr"
+},
+{
+"e26": "strategic",
+"e23": "strategic",
+"xh38": "stretezik"
+},
+{
+"e26": "strategy",
+"e23": "strategy",
+"xh38": "stretezi"
+},
+{
+"e26": "stream",
+"e23": "stream",
+"xh38": "strim"
+},
+{
+"e26": "street",
+"e23": "street",
+"xh38": "strit"
+},
+{
+"e26": "strength",
+"e23": "strength",
+"xh38": "strenJ"
+},
+{
+"e26": "strengthen",
+"e23": "strengthen",
+"xh38": "streNgJen"
+},
+{
+"e26": "stress",
+"e23": "stress",
+"xh38": "stres"
+},
+{
+"e26": "stretch",
+"e23": "stretch",
+"xh38": "strec"
+},
+{
+"e26": "strike",
+"e23": "strike",
+"xh38": "straik"
+},
+{
+"e26": "string",
+"e23": "string",
+"xh38": "striNg"
+},
+{
+"e26": "strip",
+"e23": "strip",
+"xh38": "strip"
+},
+{
+"e26": "stroke",
+"e23": "stroke",
+"xh38": "strok"
+},
+{
+"e26": "strong",
+"e23": "strong",
+"xh38": "straNg"
+},
+{
+"e26": "strongly",
+"e23": "strongly",
+"xh38": "strangli"
+},
+{
+"e26": "structure",
+"e23": "structure",
+"xh38": "strkcr"
+},
+{
+"e26": "struggle",
+"e23": "struggle",
+"xh38": "strgl"
+},
+{
+"e26": "student",
+"e23": "student",
+"xh38": "student"
+},
+{
+"e26": "studio",
+"e23": "studio",
+"xh38": "studiyo"
+},
+{
+"e26": "study",
+"e23": "study",
+"xh38": "stdi"
+},
+{
+"e26": "stuff",
+"e23": "stuff",
+"xh38": "stf"
+},
+{
+"e26": "stupid",
+"e23": "stupid",
+"xh38": "stupid"
+},
+{
+"e26": "style",
+"e23": "style",
+"xh38": "stail"
+},
+{
+"e26": "subject",
+"e23": "subzect",
+"xh38": "sbzekt"
+},
+{
+"e26": "submit",
+"e23": "submit",
+"xh38": "sbmit"
+},
+{
+"e26": "subsequent",
+"e23": "subsekuent",
+"xh38": "sbsekent"
+},
+{
+"e26": "substance",
+"e23": "substance",
+"xh38": "sbstans"
+},
+{
+"e26": "substantial",
+"e23": "substantial",
+"xh38": "sbstantiyl"
+},
+{
+"e26": "succeed",
+"e23": "succeed",
+"xh38": "sksid"
+},
+{
+"e26": "success",
+"e23": "success",
+"xh38": "skses"
+},
+{
+"e26": "successful",
+"e23": "successful",
+"xh38": "sksesful"
+},
+{
+"e26": "successfully",
+"e23": "successfully",
+"xh38": "sksessfulli"
+},
+{
+"e26": "such",
+"e23": "such",
+"xh38": "suc"
+},
+{
+"e26": "sudden",
+"e23": "sudden",
+"xh38": "suqqin"
+},
+{
+"e26": "suddenly",
+"e23": "suddenly",
+"xh38": "sdnli"
+},
+{
+"e26": "sue",
+"e23": "sue",
+"xh38": "sue"
+},
+{
+"e26": "suffer",
+"e23": "suffer",
+"xh38": "suffer"
+},
+{
+"e26": "sufficient",
+"e23": "sufficient",
+"xh38": "suffisient"
+},
+{
+"e26": "sugar",
+"e23": "sugar",
+"xh38": "Sugr"
+},
+{
+"e26": "suggest",
+"e23": "suggest",
+"xh38": "suggest"
+},
+{
+"e26": "suggestion",
+"e23": "suggestion",
+"xh38": "suggestiw"
+},
+{
+"e26": "suicide",
+"e23": "suicide",
+"xh38": "susaid"
+},
+{
+"e26": "suit",
+"e23": "suit",
+"xh38": "sut"
+},
+{
+"e26": "summer",
+"e23": "summer",
+"xh38": "smr"
+},
+{
+"e26": "summit",
+"e23": "summit",
+"xh38": "smit"
+},
+{
+"e26": "sun",
+"e23": "sun",
+"xh38": "sun"
+},
+{
+"e26": "super",
+"e23": "super",
+"xh38": "supr"
+},
+{
+"e26": "supply",
+"e23": "supply",
+"xh38": "splai"
+},
+{
+"e26": "support",
+"e23": "support",
+"xh38": "sport"
+},
+{
+"e26": "supporter",
+"e23": "supporter",
+"xh38": "supportr"
+},
+{
+"e26": "suppose",
+"e23": "suppose",
+"xh38": "suppose"
+},
+{
+"e26": "supposed",
+"e23": "supposed",
+"xh38": "supposeq"
+},
+{
+"e26": "supreme",
+"e23": "supreme",
+"xh38": "suprim"
+},
+{
+"e26": "sure",
+"e23": "sure",
+"xh38": "sure"
+},
+{
+"e26": "surely",
+"e23": "surely",
+"xh38": "sureli"
+},
+{
+"e26": "surface",
+"e23": "surface",
+"xh38": "srfes"
+},
+{
+"e26": "surgery",
+"e23": "surgery",
+"xh38": "srzri"
+},
+{
+"e26": "surprise",
+"e23": "surprise",
+"xh38": "srpraiz"
+},
+{
+"e26": "surprised",
+"e23": "surprised",
+"xh38": "surprised"
+},
+{
+"e26": "surprising",
+"e23": "surprising",
+"xh38": "surprisiNg"
+},
+{
+"e26": "surprisingly",
+"e23": "surprisingly",
+"xh38": "surprisiNgly"
+},
+{
+"e26": "surround",
+"e23": "surround",
+"xh38": "sraund"
+},
+{
+"e26": "survey",
+"e23": "surwey",
+"xh38": "srwe"
+},
+{
+"e26": "survival",
+"e23": "surwiwal",
+"xh38": "srwaiwl"
+},
+{
+"e26": "survive",
+"e23": "surwiwe",
+"xh38": "srwaiw"
+},
+{
+"e26": "survivor",
+"e23": "surwiwor",
+"xh38": "srwaiwr"
+},
+{
+"e26": "suspect",
+"e23": "suspect",
+"xh38": "sspekt"
+},
+{
+"e26": "sustain",
+"e23": "sustain",
+"xh38": "ssten"
+},
+{
+"e26": "swear",
+"e23": "swear",
+"xh38": "swexr"
+},
+{
+"e26": "sweep",
+"e23": "sweep",
+"xh38": "swip"
+},
+{
+"e26": "sweet",
+"e23": "sweet",
+"xh38": "swit"
+},
+{
+"e26": "swim",
+"e23": "swim",
+"xh38": "swim"
+},
+{
+"e26": "swing",
+"e23": "swing",
+"xh38": "swiNg"
+},
+{
+"e26": "switch",
+"e23": "switch",
+"xh38": "swic"
+},
+{
+"e26": "symbol",
+"e23": "symbol",
+"xh38": "simbl"
+},
+{
+"e26": "symptom",
+"e23": "symptom",
+"xh38": "simptm"
+},
+{
+"e26": "system",
+"e23": "system",
+"xh38": "sistm"
+},
+{
+"e26": "table",
+"e23": "table",
+"xh38": "tebl"
+},
+{
+"e26": "tablespoon",
+"e23": "tablespoon",
+"xh38": "jblespun"
+},
+{
+"e26": "tactic",
+"e23": "tactic",
+"xh38": "txiktik"
+},
+{
+"e26": "tail",
+"e23": "tail",
+"xh38": "tel"
+},
+{
+"e26": "take",
+"e23": "take",
+"xh38": "tek"
+},
+{
+"e26": "tale",
+"e23": "tale",
+"xh38": "tel"
+},
+{
+"e26": "talent",
+"e23": "talent",
+"xh38": "txilent"
+},
+{
+"e26": "talk",
+"e23": "talk",
+"xh38": "tak"
+},
+{
+"e26": "tall",
+"e23": "tall",
+"xh38": "tall"
+},
+{
+"e26": "tank",
+"e23": "tank",
+"xh38": "txiNk"
+},
+{
+"e26": "tap",
+"e23": "tap",
+"xh38": "jp"
+},
+{
+"e26": "tape",
+"e23": "tape",
+"xh38": "tep"
+},
+{
+"e26": "target",
+"e23": "target",
+"xh38": "target"
+},
+{
+"e26": "task",
+"e23": "task",
+"xh38": "task"
+},
+{
+"e26": "taste",
+"e23": "taste",
+"xh38": "tasje"
+},
+{
+"e26": "tax",
+"e23": "tax",
+"xh38": "txiks"
+},
+{
+"e26": "taxpayer",
+"e23": "taxpayer",
+"xh38": "txikspeyr"
+},
+{
+"e26": "tea",
+"e23": "tea",
+"xh38": "tiya"
+},
+{
+"e26": "teach",
+"e23": "teach",
+"xh38": "tic"
+},
+{
+"e26": "teacher",
+"e23": "teacher",
+"xh38": "ticr"
+},
+{
+"e26": "teaching",
+"e23": "teaching",
+"xh38": "ticiNg"
+},
+{
+"e26": "team",
+"e23": "team",
+"xh38": "tim"
+},
+{
+"e26": "tear",
+"e23": "tear",
+"xh38": "texr"
+},
+{
+"e26": "teaspoon",
+"e23": "teaspoon",
+"xh38": "tispun"
+},
+{
+"e26": "technical",
+"e23": "technical",
+"xh38": "teknikl"
+},
+{
+"e26": "technique",
+"e23": "technikue",
+"xh38": "jknik"
+},
+{
+"e26": "technology",
+"e23": "technology",
+"xh38": "teknolazi"
+},
+{
+"e26": "teen",
+"e23": "teen",
+"xh38": "jin"
+},
+{
+"e26": "teenager",
+"e23": "teenager",
+"xh38": "jingr"
+},
+{
+"e26": "telephone",
+"e23": "telephone",
+"xh38": "telifon"
+},
+{
+"e26": "telescope",
+"e23": "telescope",
+"xh38": "teliskop"
+},
+{
+"e26": "television",
+"e23": "telewision",
+"xh38": "teliwiज़n"
+},
+{
+"e26": "tell",
+"e23": "tell",
+"xh38": "jell"
+},
+{
+"e26": "temperature",
+"e23": "temperature",
+"xh38": "temprecr"
+},
+{
+"e26": "temporary",
+"e23": "temporary",
+"xh38": "temprri"
+},
+{
+"e26": "ten",
+"e23": "ten",
+"xh38": "jen"
+},
+{
+"e26": "tend",
+"e23": "tend",
+"xh38": "jenq"
+},
+{
+"e26": "tendency",
+"e23": "tendency",
+"xh38": "tendensi"
+},
+{
+"e26": "tennis",
+"e23": "tennis",
+"xh38": "tenis"
+},
+{
+"e26": "tension",
+"e23": "tension",
+"xh38": "tenSn"
+},
+{
+"e26": "tent",
+"e23": "tent",
+"xh38": "tent"
+},
+{
+"e26": "term",
+"e23": "term",
+"xh38": "trm"
+},
+{
+"e26": "terms",
+"e23": "terms",
+"xh38": "trms"
+},
+{
+"e26": "terrible",
+"e23": "terrible",
+"xh38": "jerrible"
+},
+{
+"e26": "territory",
+"e23": "territory",
+"xh38": "teritri"
+},
+{
+"e26": "terror",
+"e23": "terror",
+"xh38": "terr"
+},
+{
+"e26": "terrorism",
+"e23": "terrorism",
+"xh38": "terrizm"
+},
+{
+"e26": "terrorist",
+"e23": "terrorist",
+"xh38": "terrist"
+},
+{
+"e26": "test",
+"e23": "test",
+"xh38": "test"
+},
+{
+"e26": "testify",
+"e23": "testify",
+"xh38": "testifi"
+},
+{
+"e26": "testimony",
+"e23": "testimony",
+"xh38": "testimoni"
+},
+{
+"e26": "testing",
+"e23": "testing",
+"xh38": "testiNg"
+},
+{
+"e26": "text",
+"e23": "text",
+"xh38": "tekst"
+},
+{
+"e26": "than",
+"e23": "than",
+"xh38": "Jan"
+},
+{
+"e26": "thank",
+"e23": "thank",
+"xh38": "JxiNk"
+},
+{
+"e26": "thanks",
+"e23": "thanks",
+"xh38": "JxiNks"
+},
+{
+"e26": "that",
+"e23": "that",
+"xh38": "jvj"
+},
+{
+"e26": "the",
+"e23": "the",
+"xh38": "Je"
+},
+{
+"e26": "theater",
+"e23": "theater",
+"xh38": "Jietr"
+},
+{
+"e26": "their",
+"e23": "their",
+"xh38": "Jeir"
+},
+{
+"e26": "them",
+"e23": "them",
+"xh38": "Jm"
+},
+{
+"e26": "theme",
+"e23": "theme",
+"xh38": "Jim"
+},
+{
+"e26": "themselves",
+"e23": "themselwes",
+"xh38": "Jemselwes"
+},
+{
+"e26": "then",
+"e23": "then",
+"xh38": "Je"
+},
+{
+"e26": "theory",
+"e23": "theory",
+"xh38": "Jyori"
+},
+{
+"e26": "therapy",
+"e23": "therapy",
+"xh38": "Jerepi"
+},
+{
+"e26": "there",
+"e23": "there",
+"xh38": "jere"
+},
+{
+"e26": "therefore",
+"e23": "therefore",
+"xh38": "Jerefore"
+},
+{
+"e26": "these",
+"e23": "these",
+"xh38": "Ji"
+},
+{
+"e26": "they",
+"e23": "they",
+"xh38": "Je"
+},
+{
+"e26": "thick",
+"e23": "thick",
+"xh38": "Jik"
+},
+{
+"e26": "thin",
+"e23": "thin",
+"xh38": "Ji"
+},
+{
+"e26": "thing",
+"e23": "thing",
+"xh38": "JiNg"
+},
+{
+"e26": "think",
+"e23": "think",
+"xh38": "JiNk"
+},
+{
+"e26": "thinking",
+"e23": "thinking",
+"xh38": "JiNkiNg"
+},
+{
+"e26": "third",
+"e23": "third",
+"xh38": "Jrd"
+},
+{
+"e26": "thirty",
+"e23": "thirty",
+"xh38": "Jrti"
+},
+{
+"e26": "this",
+"e23": "this",
+"xh38": "Jis"
+},
+{
+"e26": "those",
+"e23": "those",
+"xh38": "Tos"
+},
+{
+"e26": "though",
+"e23": "though",
+"xh38": "JouG"
+},
+{
+"e26": "thought",
+"e23": "thought",
+"xh38": "Jat"
+},
+{
+"e26": "thousand",
+"e23": "thousand",
+"xh38": "Jauzend"
+},
+{
+"e26": "threat",
+"e23": "threat",
+"xh38": "Jret"
+},
+{
+"e26": "threaten",
+"e23": "threaten",
+"xh38": "Jretn"
+},
+{
+"e26": "three",
+"e23": "three",
+"xh38": "Jri"
+},
+{
+"e26": "throat",
+"e23": "throat",
+"xh38": "Jrot"
+},
+{
+"e26": "through",
+"e23": "through",
+"xh38": "Jru"
+},
+{
+"e26": "throughout",
+"e23": "throughout",
+"xh38": "JrouGout"
+},
+{
+"e26": "throw",
+"e23": "throw",
+"xh38": "Jro"
+},
+{
+"e26": "thus",
+"e23": "thus",
+"xh38": "JuS"
+},
+{
+"e26": "ticket",
+"e23": "ticket",
+"xh38": "tikt"
+},
+{
+"e26": "tie",
+"e23": "tie",
+"xh38": "tai"
+},
+{
+"e26": "tight",
+"e23": "tight",
+"xh38": "tait"
+},
+{
+"e26": "time",
+"e23": "time",
+"xh38": "taim"
+},
+{
+"e26": "tiny",
+"e23": "tiny",
+"xh38": "taini"
+},
+{
+"e26": "tip",
+"e23": "tip",
+"xh38": "tip"
+},
+{
+"e26": "tire",
+"e23": "tire",
+"xh38": "tayr"
+},
+{
+"e26": "tired",
+"e23": "tired",
+"xh38": "tayrd"
+},
+{
+"e26": "tissue",
+"e23": "tissue",
+"xh38": "tiSyu"
+},
+{
+"e26": "title",
+"e23": "title",
+"xh38": "taitl"
+},
+{
+"e26": "to",
+"e23": "to",
+"xh38": "jo"
+},
+{
+"e26": "tobacco",
+"e23": "tobacco",
+"xh38": "jmbaku"
+},
+{
+"e26": "today",
+"e23": "today",
+"xh38": "tude"
+},
+{
+"e26": "toe",
+"e23": "toe",
+"xh38": "joe"
+},
+{
+"e26": "together",
+"e23": "together",
+"xh38": "tugeqr"
+},
+{
+"e26": "tomato",
+"e23": "tomato",
+"xh38": "tometo"
+},
+{
+"e26": "tomorrow",
+"e23": "tomorrow",
+"xh38": "tumaro"
+},
+{
+"e26": "tone",
+"e23": "tone",
+"xh38": "ton"
+},
+{
+"e26": "tongue",
+"e23": "tongue",
+"xh38": "tNg"
+},
+{
+"e26": "tonight",
+"e23": "tonight",
+"xh38": "tunait"
+},
+{
+"e26": "too",
+"e23": "too",
+"xh38": "ju"
+},
+{
+"e26": "tool",
+"e23": "tool",
+"xh38": "tul"
+},
+{
+"e26": "tooth",
+"e23": "tooth",
+"xh38": "tuJ"
+},
+{
+"e26": "top",
+"e23": "top",
+"xh38": "tap"
+},
+{
+"e26": "topic",
+"e23": "topic",
+"xh38": "tapik"
+},
+{
+"e26": "toss",
+"e23": "toss",
+"xh38": "tas"
+},
+{
+"e26": "total",
+"e23": "total",
+"xh38": "totl"
+},
+{
+"e26": "totally",
+"e23": "totally",
+"xh38": "totli"
+},
+{
+"e26": "touch",
+"e23": "touch",
+"xh38": "tc"
+},
+{
+"e26": "tough",
+"e23": "tough",
+"xh38": "tf"
+},
+{
+"e26": "tour",
+"e23": "tour",
+"xh38": "tur"
+},
+{
+"e26": "tourist",
+"e23": "tourist",
+"xh38": "turist"
+},
+{
+"e26": "tournament",
+"e23": "tournament",
+"xh38": "turnament"
+},
+{
+"e26": "toward",
+"e23": "toward",
+"xh38": "tuwrd"
+},
+{
+"e26": "towards",
+"e23": "towards",
+"xh38": "tuwrds"
+},
+{
+"e26": "tower",
+"e23": "tower",
+"xh38": "tawr"
+},
+{
+"e26": "town",
+"e23": "town",
+"xh38": "taun"
+},
+{
+"e26": "toy",
+"e23": "toy",
+"xh38": "joy"
+},
+{
+"e26": "trace",
+"e23": "trace",
+"xh38": "tres"
+},
+{
+"e26": "track",
+"e23": "track",
+"xh38": "trxik"
+},
+{
+"e26": "trade",
+"e23": "trade",
+"xh38": "tred"
+},
+{
+"e26": "tradition",
+"e23": "tradition",
+"xh38": "trediSn"
+},
+{
+"e26": "traditional",
+"e23": "traditional",
+"xh38": "trediSnl"
+},
+{
+"e26": "traffic",
+"e23": "traffic",
+"xh38": "trxifik"
+},
+{
+"e26": "tragedy",
+"e23": "tragedy",
+"xh38": "trezedi"
+},
+{
+"e26": "trail",
+"e23": "trail",
+"xh38": "trel"
+},
+{
+"e26": "train",
+"e23": "train",
+"xh38": "trxin"
+},
+{
+"e26": "training",
+"e23": "training",
+"xh38": "treniNg"
+},
+{
+"e26": "transfer",
+"e23": "transfer",
+"xh38": "transfr"
+},
+{
+"e26": "transform",
+"e23": "transform",
+"xh38": "transfarm"
+},
+{
+"e26": "transformation",
+"e23": "transformation",
+"xh38": "transfarmeSn"
+},
+{
+"e26": "transition",
+"e23": "transition",
+"xh38": "tranziSn"
+},
+{
+"e26": "translate",
+"e23": "translate",
+"xh38": "translet"
+},
+{
+"e26": "transportation",
+"e23": "transportation",
+"xh38": "transporteSn"
+},
+{
+"e26": "travel",
+"e23": "trawel",
+"xh38": "trewl"
+},
+{
+"e26": "treat",
+"e23": "treat",
+"xh38": "trit"
+},
+{
+"e26": "treatment",
+"e23": "treatment",
+"xh38": "tritment"
+},
+{
+"e26": "treaty",
+"e23": "treaty",
+"xh38": "triti"
+},
+{
+"e26": "tree",
+"e23": "tree",
+"xh38": "tri"
+},
+{
+"e26": "tremendous",
+"e23": "tremendous",
+"xh38": "jremenqus"
+},
+{
+"e26": "trend",
+"e23": "trend",
+"xh38": "trend"
+},
+{
+"e26": "trial",
+"e23": "trial",
+"xh38": "trayl"
+},
+{
+"e26": "tribe",
+"e23": "tribe",
+"xh38": "traib"
+},
+{
+"e26": "trick",
+"e23": "trick",
+"xh38": "trik"
+},
+{
+"e26": "trip",
+"e23": "trip",
+"xh38": "trip"
+},
+{
+"e26": "troop",
+"e23": "troop",
+"xh38": "trup"
+},
+{
+"e26": "trouble",
+"e23": "trouble",
+"xh38": "trbl"
+},
+{
+"e26": "truck",
+"e23": "truck",
+"xh38": "trk"
+},
+{
+"e26": "true",
+"e23": "true",
+"xh38": "tru"
+},
+{
+"e26": "truly",
+"e23": "truly",
+"xh38": "truli"
+},
+{
+"e26": "trust",
+"e23": "trust",
+"xh38": "trst"
+},
+{
+"e26": "truth",
+"e23": "truth",
+"xh38": "truJ"
+},
+{
+"e26": "try",
+"e23": "try",
+"xh38": "jry"
+},
+{
+"e26": "tube",
+"e23": "tube",
+"xh38": "jube"
+},
+{
+"e26": "tunnel",
+"e23": "tunnel",
+"xh38": "tnl"
+},
+{
+"e26": "turn",
+"e23": "turn",
+"xh38": "trn"
+},
+{
+"e26": "tv",
+"e23": "tw",
+"xh38": "tiwi"
+},
+{
+"e26": "twelve",
+"e23": "twelwe",
+"xh38": "twelw"
+},
+{
+"e26": "twenty",
+"e23": "twenty",
+"xh38": "twenti"
+},
+{
+"e26": "twice",
+"e23": "twice",
+"xh38": "twais"
+},
+{
+"e26": "twin",
+"e23": "twin",
+"xh38": "twin"
+},
+{
+"e26": "two",
+"e23": "two",
+"xh38": "jwo"
+},
+{
+"e26": "type",
+"e23": "type",
+"xh38": "taip"
+},
+{
+"e26": "typical",
+"e23": "typical",
+"xh38": "tipikl"
+},
+{
+"e26": "typically",
+"e23": "typically",
+"xh38": "jysxili"
+},
+{
+"e26": "ugly",
+"e23": "ugly",
+"xh38": "xgli"
+},
+{
+"e26": "ultimate",
+"e23": "ultimate",
+"xh38": "xltimet"
+},
+{
+"e26": "ultimately",
+"e23": "ultimately",
+"xh38": "ultimteli"
+},
+{
+"e26": "unable",
+"e23": "unable",
+"xh38": "unable"
+},
+{
+"e26": "uncle",
+"e23": "uncle",
+"xh38": "xNkl"
+},
+{
+"e26": "under",
+"e23": "under",
+"xh38": "xndr"
+},
+{
+"e26": "undergo",
+"e23": "undergo",
+"xh38": "unqergo"
+},
+{
+"e26": "understand",
+"e23": "understand",
+"xh38": "xndrstxind"
+},
+{
+"e26": "understanding",
+"e23": "understanding",
+"xh38": "xndrstxindiNg"
+},
+{
+"e26": "unfortunately",
+"e23": "unfortunately",
+"xh38": "umfortunteli"
+},
+{
+"e26": "uniform",
+"e23": "uniform",
+"xh38": "yunifarm"
+},
+{
+"e26": "union",
+"e23": "union",
+"xh38": "yuniyn"
+},
+{
+"e26": "unique",
+"e23": "unikue",
+"xh38": "yunik"
+},
+{
+"e26": "unit",
+"e23": "unit",
+"xh38": "yunit"
+},
+{
+"e26": "united",
+"e23": "united",
+"xh38": "yunaited"
+},
+{
+"e26": "universal",
+"e23": "uniwersal",
+"xh38": "yuniwrsl"
+},
+{
+"e26": "universe",
+"e23": "uniwerse",
+"xh38": "yuniwrs"
+},
+{
+"e26": "university",
+"e23": "uniwersity",
+"xh38": "yuniwrsiti"
+},
+{
+"e26": "unknown",
+"e23": "unknown",
+"xh38": "xnnon"
+},
+{
+"e26": "unless",
+"e23": "unless",
+"xh38": "unles"
+},
+{
+"e26": "unlike",
+"e23": "unlike",
+"xh38": "unlike"
+},
+{
+"e26": "unlikely",
+"e23": "unlikely",
+"xh38": "unlikely"
+},
+{
+"e26": "until",
+"e23": "until",
+"xh38": "xntil"
+},
+{
+"e26": "unusual",
+"e23": "unusual",
+"xh38": "unusuxl"
+},
+{
+"e26": "up",
+"e23": "up",
+"xh38": "up"
+},
+{
+"e26": "upon",
+"e23": "upon",
+"xh38": "xpan"
+},
+{
+"e26": "upper",
+"e23": "upper",
+"xh38": "upper"
+},
+{
+"e26": "urban",
+"e23": "urban",
+"xh38": "xrbn"
+},
+{
+"e26": "urge",
+"e23": "urge",
+"xh38": "urze"
+},
+{
+"e26": "us",
+"e23": "us",
+"xh38": "us"
+},
+{
+"e26": "use",
+"e23": "use",
+"xh38": "use"
+},
+{
+"e26": "used",
+"e23": "used",
+"xh38": "used"
+},
+{
+"e26": "useful",
+"e23": "useful",
+"xh38": "useful"
+},
+{
+"e26": "user",
+"e23": "user",
+"xh38": "yuzr"
+},
+{
+"e26": "usual",
+"e23": "usual",
+"xh38": "usuxl"
+},
+{
+"e26": "usually",
+"e23": "usually",
+"xh38": "usuxlly"
+},
+{
+"e26": "utility",
+"e23": "utility",
+"xh38": "yutiliti"
+},
+{
+"e26": "vacation",
+"e23": "wacation",
+"xh38": "wekeSn"
+},
+{
+"e26": "valley",
+"e23": "walley",
+"xh38": "wxili"
+},
+{
+"e26": "valuable",
+"e23": "waluable",
+"xh38": "wxilyuebl"
+},
+{
+"e26": "value",
+"e23": "walue",
+"xh38": "wxilyu"
+},
+{
+"e26": "variable",
+"e23": "wariable",
+"xh38": "weriebl"
+},
+{
+"e26": "variation",
+"e23": "wariation",
+"xh38": "werieSn"
+},
+{
+"e26": "variety",
+"e23": "wariety",
+"xh38": "wxirayti"
+},
+{
+"e26": "various",
+"e23": "warious",
+"xh38": "weriys"
+},
+{
+"e26": "vary",
+"e23": "wxyri",
+"xh38": "wxiry"
+},
+{
+"e26": "vast",
+"e23": "wast",
+"xh38": "west"
+},
+{
+"e26": "vegetable",
+"e23": "wegetable",
+"xh38": "wezitebl"
+},
+{
+"e26": "vehicle",
+"e23": "wehicle",
+"xh38": "wvikl"
+},
+{
+"e26": "venture",
+"e23": "wenture",
+"xh38": "wencr"
+},
+{
+"e26": "version",
+"e23": "wersion",
+"xh38": "wrSn"
+},
+{
+"e26": "versus",
+"e23": "wersus",
+"xh38": "wersus"
+},
+{
+"e26": "very",
+"e23": "wery",
+"xh38": "wxiri"
+},
+{
+"e26": "vessel",
+"e23": "wessel",
+"xh38": "wesl"
+},
+{
+"e26": "veteran",
+"e23": "wyteran",
+"xh38": "wetern"
+},
+{
+"e26": "via",
+"e23": "wia",
+"xh38": "waya"
+},
+{
+"e26": "victim",
+"e23": "wictim",
+"xh38": "wiktim"
+},
+{
+"e26": "victory",
+"e23": "wictory",
+"xh38": "wiktri"
+},
+{
+"e26": "video",
+"e23": "wideo",
+"xh38": "widiyo"
+},
+{
+"e26": "view",
+"e23": "wiew",
+"xh38": "wyu"
+},
+{
+"e26": "viewer",
+"e23": "wiewer",
+"xh38": "wyuxr"
+},
+{
+"e26": "village",
+"e23": "willage",
+"xh38": "wilez"
+},
+{
+"e26": "violate",
+"e23": "wiolate",
+"xh38": "wiolate"
+},
+{
+"e26": "violation",
+"e23": "wiolation",
+"xh38": "wioleSn"
+},
+{
+"e26": "violence",
+"e23": "wiolence",
+"xh38": "waylens"
+},
+{
+"e26": "violent",
+"e23": "wiolent",
+"xh38": "waylent"
+},
+{
+"e26": "virtually",
+"e23": "wirtually",
+"xh38": "wirjuxli"
+},
+{
+"e26": "virtue",
+"e23": "wirtue",
+"xh38": "wirce"
+},
+{
+"e26": "virus",
+"e23": "wirus",
+"xh38": "wayrs"
+},
+{
+"e26": "visible",
+"e23": "wisible",
+"xh38": "wiज़ibl"
+},
+{
+"e26": "vision",
+"e23": "wision",
+"xh38": "wiज़n"
+},
+{
+"e26": "visit",
+"e23": "wisit",
+"xh38": "wizit"
+},
+{
+"e26": "visitor",
+"e23": "wisitor",
+"xh38": "wizitr"
+},
+{
+"e26": "visual",
+"e23": "wisual",
+"xh38": "wisuxl"
+},
+{
+"e26": "vital",
+"e23": "wital",
+"xh38": "waitl"
+},
+{
+"e26": "voice",
+"e23": "woice",
+"xh38": "wouis"
+},
+{
+"e26": "volume",
+"e23": "wolume",
+"xh38": "walyum"
+},
+{
+"e26": "volunteer",
+"e23": "wolunteer",
+"xh38": "walntiyr"
+},
+{
+"e26": "vote",
+"e23": "wote",
+"xh38": "wot"
+},
+{
+"e26": "voter",
+"e23": "woter",
+"xh38": "wotr"
+},
+{
+"e26": "vs",
+"e23": "ws",
+"xh38": "ws"
+},
+{
+"e26": "vulnerable",
+"e23": "wulnerable",
+"xh38": "wlnrebl"
+},
+{
+"e26": "wage",
+"e23": "wage",
+"xh38": "wez"
+},
+{
+"e26": "wait",
+"e23": "wait",
+"xh38": "wet"
+},
+{
+"e26": "wake",
+"e23": "wake",
+"xh38": "wek"
+},
+{
+"e26": "walk",
+"e23": "walk",
+"xh38": "wak"
+},
+{
+"e26": "wall",
+"e23": "wall",
+"xh38": "wal"
+},
+{
+"e26": "wander",
+"e23": "wander",
+"xh38": "wndr"
+},
+{
+"e26": "want",
+"e23": "want",
+"xh38": "want"
+},
+{
+"e26": "war",
+"e23": "war",
+"xh38": "war"
+},
+{
+"e26": "warm",
+"e23": "warm",
+"xh38": "warm"
+},
+{
+"e26": "warn",
+"e23": "warn",
+"xh38": "war"
+},
+{
+"e26": "warning",
+"e23": "warning",
+"xh38": "warniNg"
+},
+{
+"e26": "wash",
+"e23": "wash",
+"xh38": "waS"
+},
+{
+"e26": "waste",
+"e23": "waste",
+"xh38": "wasje"
+},
+{
+"e26": "watch",
+"e23": "watch",
+"xh38": "wac"
+},
+{
+"e26": "water",
+"e23": "water",
+"xh38": "watr"
+},
+{
+"e26": "wave",
+"e23": "wawe",
+"xh38": "wew"
+},
+{
+"e26": "way",
+"e23": "way",
+"xh38": "we"
+},
+{
+"e26": "we",
+"e23": "we",
+"xh38": "we"
+},
+{
+"e26": "weak",
+"e23": "weak",
+"xh38": "wik"
+},
+{
+"e26": "wealth",
+"e23": "wealth",
+"xh38": "welJ"
+},
+{
+"e26": "wealthy",
+"e23": "wealthy",
+"xh38": "wexlJi"
+},
+{
+"e26": "weapon",
+"e23": "weapon",
+"xh38": "wepn"
+},
+{
+"e26": "wear",
+"e23": "wear",
+"xh38": "wiyr"
+},
+{
+"e26": "weather",
+"e23": "weather",
+"xh38": "wexJer"
+},
+{
+"e26": "wedding",
+"e23": "wedding",
+"xh38": "wediNg"
+},
+{
+"e26": "week",
+"e23": "week",
+"xh38": "wik"
+},
+{
+"e26": "weekend",
+"e23": "weekend",
+"xh38": "wikend"
+},
+{
+"e26": "weekly",
+"e23": "weekly",
+"xh38": "wikli"
+},
+{
+"e26": "weigh",
+"e23": "weigh",
+"xh38": "wxiG"
+},
+{
+"e26": "weight",
+"e23": "weight",
+"xh38": "wet"
+},
+{
+"e26": "welcome",
+"e23": "welcome",
+"xh38": "welkm"
+},
+{
+"e26": "welfare",
+"e23": "welfare",
+"xh38": "welfeyr"
+},
+{
+"e26": "well",
+"e23": "well",
+"xh38": "wel"
+},
+{
+"e26": "west",
+"e23": "west",
+"xh38": "west"
+},
+{
+"e26": "western",
+"e23": "western",
+"xh38": "westrn"
+},
+{
+"e26": "wet",
+"e23": "wet",
+"xh38": "wet"
+},
+{
+"e26": "what",
+"e23": "what",
+"xh38": "wvat"
+},
+{
+"e26": "whatever",
+"e23": "whatewer",
+"xh38": "wvatyewr"
+},
+{
+"e26": "wheel",
+"e23": "wheel",
+"xh38": "wvil"
+},
+{
+"e26": "when",
+"e23": "when",
+"xh38": "wven"
+},
+{
+"e26": "whenever",
+"e23": "whenxwxr",
+"xh38": "wvॅnwr"
+},
+{
+"e26": "where",
+"e23": "where",
+"xh38": "weyr"
+},
+{
+"e26": "whereas",
+"e23": "whereas",
+"xh38": "wveras"
+},
+{
+"e26": "whether",
+"e23": "whether",
+"xh38": "wveqr"
+},
+{
+"e26": "which",
+"e23": "which",
+"xh38": "wvic"
+},
+{
+"e26": "while",
+"e23": "while",
+"xh38": "wvile"
+},
+{
+"e26": "whisper",
+"e23": "whisper",
+"xh38": "wvispr"
+},
+{
+"e26": "white",
+"e23": "white",
+"xh38": "wait"
+},
+{
+"e26": "who",
+"e23": "who",
+"xh38": "vu"
+},
+{
+"e26": "whole",
+"e23": "whole",
+"xh38": "wvole"
+},
+{
+"e26": "whom",
+"e23": "whom",
+"xh38": "wvom"
+},
+{
+"e26": "whose",
+"e23": "whose",
+"xh38": "vuz"
+},
+{
+"e26": "why",
+"e23": "why",
+"xh38": "wvai"
+},
+{
+"e26": "wide",
+"e23": "wide",
+"xh38": "waid"
+},
+{
+"e26": "widely",
+"e23": "widely",
+"xh38": "wiqeli"
+},
+{
+"e26": "widespread",
+"e23": "widespread",
+"xh38": "wiqeSprq"
+},
+{
+"e26": "wife",
+"e23": "wife",
+"xh38": "waif"
+},
+{
+"e26": "wild",
+"e23": "wild",
+"xh38": "waild"
+},
+{
+"e26": "will",
+"e23": "will",
+"xh38": "wil"
+},
+{
+"e26": "willing",
+"e23": "willing",
+"xh38": "williNg"
+},
+{
+"e26": "win",
+"e23": "win",
+"xh38": "win"
+},
+{
+"e26": "wind",
+"e23": "wind",
+"xh38": "wind"
+},
+{
+"e26": "window",
+"e23": "window",
+"xh38": "windo"
+},
+{
+"e26": "wine",
+"e23": "wine",
+"xh38": "wain"
+},
+{
+"e26": "wing",
+"e23": "wing",
+"xh38": "wiNg"
+},
+{
+"e26": "winner",
+"e23": "winner",
+"xh38": "winr"
+},
+{
+"e26": "winter",
+"e23": "winter",
+"xh38": "wintr"
+},
+{
+"e26": "wipe",
+"e23": "wipe",
+"xh38": "waip"
+},
+{
+"e26": "wire",
+"e23": "wire",
+"xh38": "wayr"
+},
+{
+"e26": "wisdom",
+"e23": "wisdom",
+"xh38": "wizdm"
+},
+{
+"e26": "wise",
+"e23": "wise",
+"xh38": "waiz"
+},
+{
+"e26": "wish",
+"e23": "wish",
+"xh38": "wiS"
+},
+{
+"e26": "with",
+"e23": "with",
+"xh38": "wiJ"
+},
+{
+"e26": "withdraw",
+"e23": "withdraw",
+"xh38": "wiJdra"
+},
+{
+"e26": "within",
+"e23": "within",
+"xh38": "wiJin"
+},
+{
+"e26": "without",
+"e23": "without",
+"xh38": "wiJaut"
+},
+{
+"e26": "witness",
+"e23": "witness",
+"xh38": "witnes"
+},
+{
+"e26": "woman",
+"e23": "woman",
+"xh38": "wumn"
+},
+{
+"e26": "wonder",
+"e23": "wonder",
+"xh38": "wndr"
+},
+{
+"e26": "wonderful",
+"e23": "wonderful",
+"xh38": "wndrful"
+},
+{
+"e26": "wood",
+"e23": "wood",
+"xh38": "wud"
+},
+{
+"e26": "wooden",
+"e23": "wooden",
+"xh38": "wuden"
+},
+{
+"e26": "word",
+"e23": "word",
+"xh38": "wrd"
+},
+{
+"e26": "work",
+"e23": "work",
+"xh38": "wrk"
+},
+{
+"e26": "worker",
+"e23": "worker",
+"xh38": "wrkr"
+},
+{
+"e26": "working",
+"e23": "working",
+"xh38": "wrkiNg"
+},
+{
+"e26": "works",
+"e23": "works",
+"xh38": "wrks"
+},
+{
+"e26": "workshop",
+"e23": "workshop",
+"xh38": "wrkSap"
+},
+{
+"e26": "world",
+"e23": "world",
+"xh38": "wrld"
+},
+{
+"e26": "worried",
+"e23": "worried",
+"xh38": "wrid"
+},
+{
+"e26": "worry",
+"e23": "worry",
+"xh38": "worri"
+},
+{
+"e26": "worth",
+"e23": "worth",
+"xh38": "wrJ"
+},
+{
+"e26": "would",
+"e23": "would",
+"xh38": "would"
+},
+{
+"e26": "wound",
+"e23": "wound",
+"xh38": "wond"
+},
+{
+"e26": "wrap",
+"e23": "wrap",
+"xh38": "wrxip"
+},
+{
+"e26": "write",
+"e23": "write",
+"xh38": "wriTe"
+},
+{
+"e26": "writer",
+"e23": "writer",
+"xh38": "raitr"
+},
+{
+"e26": "writing",
+"e23": "writing",
+"xh38": "raitiNg"
+},
+{
+"e26": "wrong",
+"e23": "wrong",
+"xh38": "raNg"
+},
+{
+"e26": "yard",
+"e23": "yard",
+"xh38": "yard"
+},
+{
+"e26": "yeah",
+"e23": "yeah",
+"xh38": "yev"
+},
+{
+"e26": "year",
+"e23": "year",
+"xh38": "iyr"
+},
+{
+"e26": "yell",
+"e23": "yell",
+"xh38": "el"
+},
+{
+"e26": "yellow",
+"e23": "yellow",
+"xh38": "yelo"
+},
+{
+"e26": "yes",
+"e23": "yes",
+"xh38": "ys"
+},
+{
+"e26": "yesterday",
+"e23": "yesterday",
+"xh38": "ystrde"
+},
+{
+"e26": "yet",
+"e23": "yet",
+"xh38": "yej"
+},
+{
+"e26": "yield",
+"e23": "yield",
+"xh38": "yild"
+},
+{
+"e26": "you",
+"e23": "you",
+"xh38": "yu"
+},
+{
+"e26": "young",
+"e23": "young",
+"xh38": "yNg"
+},
+{
+"e26": "your",
+"e23": "your",
+"xh38": "yor"
+},
+{
+"e26": "yours",
+"e23": "yours",
+"xh38": "yors"
+},
+{
+"e26": "yourself",
+"e23": "yourself",
+"xh38": "yorself"
+},
+{
+"e26": "youth",
+"e23": "youth",
+"xh38": "yuJ"
+},
+{
+"e26": "zone",
+"e23": "zone",
+"xh38": "zon"
+},
+{
+"e26": "newer",
+"e23": "newer",
+"xh38": "newer"
+},
+{
+"e26": "vest",
+"e23": "weist",
+"xh38": "west"
+},
+{
+"e26": "vine",
+"e23": "wayin",
+"xh38": "wine"
+},
+{
+"e26": "wary",
+"e23": "wary",
+"xh38": "wry"
+},
+{
+"e26": "vet",
+"e23": "wyt",
+"xh38": "wet"
+}
 ]
